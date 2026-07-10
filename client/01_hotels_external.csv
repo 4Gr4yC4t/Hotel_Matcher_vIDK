@@ -1,0 +1,2011 @@
+hotel_id,name,address,lat,lon
+
+E1001,"Rixos Premium Belek","Belek, Merkez Mah.",36.8527,31.0565
+
+E1002,"Дельфин Империал Лара Отель","Lara, Merkez Mah.",36.8581,30.8415
+
+E1003,"Titanic Beach Palace","Belek, Uzunyali Cad.",36.8571,30.8386
+
+E1004,"Штайгенбергер Аква Меджик 5*","Kemer, Uzunyali Cad.",27.0453,33.8804
+
+E1005,"Paradise Bay Resort 778","Cuba",21.5893,-78.1906
+
+E1006,"Nirvana Cosmopolitan Hotel","Lara, Kemeragzi Mevkii",36.6999,30.5727
+
+E1007,"Риксос Sungate","Alanya, Merkez Mah.",36.6076,30.5076
+
+E1008,"Delphin Be Grand Club","Alanya, Uzunyali Cad.",36.8578,30.8264
+
+E1009,"Прайм Сиде Бич Резорт 5*","Belek, Kemeragzi Mevkii",40.4691,-3.7191
+
+E1010,"Ocean View Club 792","Caribbean",18.7046,-77.4542
+
+E1011,"Luxury Bodrum Garden","Side, Merkez Mah.",1.3922,103.8297
+
+E1012,"Платинум Бали Бич Резорт","Beldibi, Turizm Bulv.",41.9525,12.5535
+
+E1013,"Deluxe Singapore Club","Lara, Turizm Bulv.",25.1575,55.2839
+
+E1014,"Султан Анталья Клуб SPA","Belek, Uzunyali Cad.",33.9346,35.538
+
+E1015,"Blue Lagoon Suites 225","Bahamas",25.4895,-77.36
+
+E1016,"Imperial Beldibi Lounge","Alanya, Merkez Mah.",38.0157,23.7371
+
+E1017,"Платинум Бельдиби Резорт","Alanya, Kemeragzi Mevkii",26.5035,33.9982
+
+E1018,"Platinum Belek Palace","Alanya, Sahil Cad.",18.5439,73.8588
+
+E1019,"Классик Нью Йорк Хэвен Deluxe","Kundu, Sahil Cad.",25.7141,-80.2287
+
+E1020,"Ocean View Club 142","Cuba",21.8978,-78.6006
+
+E1021,"Majestic Kundu Oasis","Kundu, Merkez Mah.",51.5271,-0.1008
+
+E1022,"Краун Барселона Хэвен","Lara, Sahil Cad.",36.8755,31.0217
+
+E1023,"Elite Rome Resort & Palace","Belek, Kemeragzi Mevkii",25.6939,-80.2252
+
+E1024,"Султан Анталья Пэрэдайс 5*","Side, Uzunyali Cad.",13.7499,100.5129
+
+E1025,"Paradise Bay Resort 977","Dominican Republic",18.7935,-70.8418
+
+E1026,"Platinum Tokyo Beach Resort","Side, Uzunyali Cad.",27.1011,33.8327
+
+E1027,"Роял Бодрум Резиденс","Belek, Turizm Bulv.",51.5404,-0.0789
+
+E1028,"Exclusive Antalya Club","Kemer, Sahil Cad.",36.1939,29.6376
+
+E1029,"Сплэндид Santorini Резиденс Deluxe","Antalya, Uzunyali Cad.",42.7431,23.336
+
+E1030,"Paradise Bay Resort 88","Caribbean",18.0579,-76.622
+
+E1031,"Premium Dubai Wellness Resort","Kundu, Merkez Mah.",26.4488,33.9935
+
+E1032,"Люкс Барселона Клуб","Lara, Sahil Cad.",48.9008,2.3916
+
+E1033,"Regal Marmaris Suites","Lara, Turizm Bulv.",41.0155,28.9594
+
+E1034,"Краун Сиде Пэрэдайс SPA","Kemer, Uzunyali Cad.",41.8878,12.4606
+
+E1035,"Sunset Beach Hotel 22","Cuba",21.121,-78.7753
+
+E1036,"Premium Hurghada Hotel","Kemer, Uzunyali Cad.",22.297,114.1098
+
+E1037,"Гранд Барселона Сьютс","Antalya, Sahil Cad.",40.3981,-3.6668
+
+E1038,"Classic Goa Suites","Alanya, Merkez Mah.",36.1639,29.5902
+
+E1039,"Эксклюзив Аланья Резиденс SPA","Kemer, Uzunyali Cad.",1.3463,103.8812
+
+E1040,"Paradise Bay Resort 675","Cuba",21.8075,-78.8096
+
+E1041,"Elite Cancun Oasis","Beldibi, Turizm Bulv.",41.853,12.5418
+
+E1042,"Султан Santorini Оазис","Antalya, Merkez Mah.",22.3518,114.1973
+
+E1043,"Splendid Marmaris Resort","Belek, Sahil Cad.",36.8875,30.6677
+
+E1044,"Гранд Стамбул Вэлнесс Резорт Deluxe","Beldibi, Sahil Cad.",40.4338,-3.6939
+
+E1045,"Paradise Bay Resort 993","Dominican Republic",18.5506,-70.0007
+
+E1046,"Elite Rome Oasis","Belek, Sahil Cad.",51.5579,-0.1299
+
+E1047,"Прайм Сингапур Резиденс","Kemer, Kemeragzi Mevkii",39.5815,2.6217
+
+E1048,"Golden Side Hotel & Club","Antalya, Kemeragzi Mevkii",51.4607,-0.0763
+
+E1049,"Империал Гоа Лаунж Отель","Side, Kemeragzi Mevkii",38.0538,23.7412
+
+E1050,"Blue Lagoon Suites 489","Dominican Republic",19.248,-70.9428
+
+E1051,"Elite Lara Hotel & Spa","Lara, Merkez Mah.",41.9595,12.5339
+
+E1052,"Голден Шарм El Шейх Оазис","Lara, Merkez Mah.",13.648,100.4655
+
+E1053,"Imperial Hurghada Hotel","Kemer, Kemeragzi Mevkii",18.5395,73.793
+
+E1054,"Прайм Мармарис Отель & Резорт 5*","Antalya, Uzunyali Cad.",35.1963,33.4124
+
+E1055,"Sunset Beach Hotel 406","Caribbean",18.6697,-77.1858
+
+E1056,"Sultan Maldives Lounge","Lara, Turizm Bulv.",36.1538,29.5901
+
+E1057,"Эксклюзив Фетхие Хэвен","Belek, Merkez Mah.",25.6453,-80.3144
+
+E1058,"Splendid Goa Suites","Belek, Merkez Mah.",40.4518,-3.6861
+
+E1059,"Маджестик Аланья Ретрит SPA","Alanya, Merkez Mah.",18.5118,73.8421
+
+E1060,"Paradise Bay Resort 962","Dominican Republic",19.1679,-70.4454
+
+E1061,"Sultan Belek Heaven","Lara, Turizm Bulv.",1.3008,103.8748
+
+E1062,"Люкс Анталья Лаунж","Lara, Turizm Bulv.",35.1925,33.396
+
+E1063,"Prestige Sharm El Sheikh Club","Alanya, Sahil Cad.",36.1791,29.634
+
+E1064,"Делюкс Лара Отель Отель","Antalya, Merkez Mah.",35.2565,33.4559
+
+E1065,"Coral Reef Resort 575","Bahamas",24.6616,-77.5582
+
+E1066,"Golden Cancun Oasis","Antalya, Merkez Mah.",33.926,35.554
+
+E1067,"Краун Сиде Виллы","Lara, Uzunyali Cad.",25.677,-80.2504
+
+E1068,"Platinum Kundu Hotel & Resort","Lara, Kemeragzi Mevkii",36.8292,31.0432
+
+E1069,"Классик Бодрум Виллы SPA","Antalya, Turizm Bulv.",35.1439,33.3979
+
+E1070,"Ocean View Club 886","Cuba",21.9738,-78.2505
+
+E1071,"Elite Goa Hotel & Spa","Lara, Sahil Cad.",41.0634,28.969
+
+E1072,"Палас Бельдиби Ретрит","Alanya, Kemeragzi Mevkii",41.0497,28.9854
+
+E1073,"Grand Cancun Resort","Kemer, Turizm Bulv.",19.3976,-99.0893
+
+E1074,"Делюкс Santorini Вэлнесс Резорт SPA","Antalya, Kemeragzi Mevkii",25.1912,55.3052
+
+E1075,"Coral Reef Resort 337","Caribbean",18.2229,-76.84
+
+E1076,"Majestic Phuket Garden","Side, Merkez Mah.",42.6519,23.2613
+
+E1077,"Эксклюзив Пхукет Клуб","Beldibi, Uzunyali Cad.",25.6892,-80.2516
+
+E1078,"Elite Phuket Suites","Side, Sahil Cad.",13.6711,100.5443
+
+E1079,"Голден Хургада Бич Резорт Отель","Belek, Uzunyali Cad.",22.2539,114.1182
+
+E1080,"Sunset Beach Hotel 46","Dominican Republic",18.8852,-70.4234
+
+E1081,"Prime Dubai Resort","Beldibi, Merkez Mah.",40.3654,-3.6858
+
+E1082,"Эксклюзив Лондон Палас","Kemer, Turizm Bulv.",25.629,-80.304
+
+E1083,"Sultan Alanya Club","Alanya, Uzunyali Cad.",13.6767,100.5403
+
+E1084,"Роял Бельдиби Пэрэдайс Deluxe","Side, Uzunyali Cad.",22.3392,114.1143
+
+E1085,"Coral Reef Resort 694","Caribbean",18.1918,-76.8351
+
+E1086,"Imperial Lara Beach Resort","Lara, Uzunyali Cad.",13.7341,100.5582
+
+E1087,"Делюкс Фетхие Гарден","Antalya, Turizm Bulv.",37.9888,23.7238
+
+E1088,"Deluxe Sydney Palace","Alanya, Kemeragzi Mevkii",26.5383,33.9554
+
+E1089,"Платинум Сингапур Лаунж 5*","Kundu, Sahil Cad.",36.1103,29.631
+
+E1090,"Ocean View Club 151","Caribbean",18.6728,-77.2754
+
+E1091,"Platinum Belek Suites","Antalya, Merkez Mah.",39.5711,2.6149
+
+E1092,"Эксклюзив Бали Палас","Belek, Kemeragzi Mevkii",42.7219,23.2659
+
+E1093,"Grand Goa Hotel & Palace","Kemer, Kemeragzi Mevkii",19.4566,-99.1351
+
+E1094,"Маджестик Бельдиби Резиденс Отель","Antalya, Merkez Mah.",35.1592,33.3524
+
+E1095,"Ocean View Club 821","Caribbean",18.9175,-77.3786
+
+E1096,"Majestic Bali Resort & Spa","Kundu, Uzunyali Cad.",1.4051,103.8416
+
+E1097,"Прайм Кемер Виллы","Kundu, Uzunyali Cad.",38.0016,23.7597
+
+E1098,"Grand Bali Palace","Beldibi, Uzunyali Cad.",40.9738,28.9576
+
+E1099,"Элит Бали Вэлнесс Резорт Deluxe","Kundu, Kemeragzi Mevkii",18.538,73.9093
+
+E1100,"Paradise Bay Resort 731","Cuba",21.6267,-78.7254
+
+E1101,"Platinum Kundu Palace","Side, Sahil Cad.",25.6988,-80.3199
+
+E1102,"Супериор Шарм El Шейх Лаунж","Belek, Sahil Cad.",36.9273,30.6722
+
+E1103,"Luxury Dubai Hotel","Lara, Sahil Cad.",19.4148,-99.1777
+
+E1104,"Роял Бодрум Отель 5*","Kundu, Kemeragzi Mevkii",18.5609,73.8435
+
+E1105,"Sunset Beach Hotel 772","Cuba",21.477,-78.0573
+
+E1106,"Majestic Istanbul Retreat","Beldibi, Kemeragzi Mevkii",36.8523,31.0723
+
+E1107,"Супериор Пунта Кана Сьютс","Kemer, Kemeragzi Mevkii",36.7902,31.0763
+
+E1108,"Imperial Maldives Club","Antalya, Kemeragzi Mevkii",35.1456,33.3551
+
+E1109,"Империал Фетхие Резорт & Спа SPA","Lara, Kemeragzi Mevkii",27.0191,33.8204
+
+E1110,"Coral Reef Resort 187","Dominican Republic",18.5839,-70.5714
+
+E1111,"Deluxe Istanbul Palace","Antalya, Turizm Bulv.",25.2271,55.2909
+
+E1112,"Султан Аланья Гарден","Alanya, Turizm Bulv.",38.0115,23.6836
+
+E1113,"Premium Sydney Wellness Hotel","Beldibi, Turizm Bulv.",41.8448,12.4989
+
+E1114,"Роял Бали Пэрэдайс SPA","Antalya, Turizm Bulv.",41.8641,12.5086
+
+E1115,"Ocean View Club 245","Caribbean",18.1994,-77.4796
+
+E1116,"Prime Dubai Garden","Lara, Kemeragzi Mevkii",13.6955,100.5216
+
+E1117,"Палас Рим Сьютс","Kemer, Kemeragzi Mevkii",37.9373,23.7552
+
+E1118,"Elite Paris Suites","Lara, Uzunyali Cad.",37.9687,23.7451
+
+E1119,"Голден Белек Отель 5*","Lara, Turizm Bulv.",36.1123,29.6082
+
+E1120,"Ocean View Club 105","Caribbean",18.076,-76.8094
+
+E1121,"Elite Barcelona Hotel","Side, Uzunyali Cad.",42.6471,23.2481
+
+E1122,"Престиж Сидней Отель & Спа","Antalya, Turizm Bulv.",38.013,23.6652
+
+E1123,"Prestige Fethiye Club","Belek, Uzunyali Cad.",25.6933,-80.2922
+
+E1124,"Премиум Сингапур Резиденс Отель","Kundu, Merkez Mah.",41.9239,12.5314
+
+E1125,"Sunset Beach Hotel 631","Cuba",21.1761,-78.4783
+
+E1126,"Prestige Singapore Villas","Kundu, Kemeragzi Mevkii",22.3236,114.2175
+
+E1127,"Престиж Кунду Клуб","Side, Turizm Bulv.",18.502,73.8525
+
+E1128,"Grand New York Hotel & Palace","Belek, Turizm Bulv.",38.0132,23.7354
+
+E1129,"Голден Аланья Отель & Спа 5*","Beldibi, Turizm Bulv.",41.069,28.9653
+
+E1130,"Blue Lagoon Suites 719","Bahamas",25.2978,-77.6597
+
+E1131,"Palace Beldibi Oasis","Side, Uzunyali Cad.",41.8565,12.537
+
+E1132,"Голден Париж Отель","Belek, Sahil Cad.",36.1074,29.6116
+
+E1133,"Royal Punta Cana Palace","Kemer, Kemeragzi Mevkii",26.4553,33.9416
+
+E1134,"Элит Барселона Оазис Отель","Side, Sahil Cad.",19.4652,-99.1857
+
+E1135,"Sunset Beach Hotel 361","Bahamas",24.9255,-77.2541
+
+E1136,"Deluxe Istanbul Suites","Kundu, Turizm Bulv.",38.0394,23.6658
+
+E1137,"Роял Майами Гарден","Kemer, Turizm Bulv.",36.9025,30.733
+
+E1138,"Crown Kemer Resort","Lara, Sahil Cad.",38.0051,23.7171
+
+E1139,"Элит Майами Резорт & Спа SPA","Side, Merkez Mah.",36.1518,29.5215
+
+E1140,"Blue Lagoon Suites 300","Caribbean",18.2743,-76.5257
+
+E1141,"Splendid Fethiye Resort","Lara, Kemeragzi Mevkii",41.0494,28.9925
+
+E1142,"Голден Майами Лаунж","Side, Kemeragzi Mevkii",28.4573,34.5233
+
+E1143,"Platinum Goa Palace","Antalya, Turizm Bulv.",41.0831,28.9922
+
+E1144,"Эксклюзив Бангкок Клуб 5*","Kundu, Merkez Mah.",42.6623,23.2726
+
+E1145,"Blue Lagoon Suites 611","Caribbean",18.1185,-76.7356
+
+E1146,"Royal Marmaris Beach Resort","Kemer, Uzunyali Cad.",25.6903,-80.2585
+
+E1147,"Супериор Сиде Резиденс","Side, Uzunyali Cad.",19.4842,-99.1843
+
+E1148,"Imperial Lara Hotel","Antalya, Uzunyali Cad.",26.4826,34.0507
+
+E1149,"Классик Сингапур Бич Резорт 5*","Kemer, Turizm Bulv.",51.546,-0.0928
+
+E1150,"Coral Reef Resort 299","Dominican Republic",18.9085,-70.3106
+
+E1151,"Regal Bali Residence","Antalya, Sahil Cad.",41.148,28.9962
+
+E1152,"Маджестик Пхукет Сьютс","Kundu, Merkez Mah.",18.5673,73.8018
+
+E1153,"Deluxe London Wellness Hotel","Kemer, Kemeragzi Mevkii",48.7914,2.3016
+
+E1154,"Престиж Аланья Вэлнесс Резорт 5*","Side, Sahil Cad.",36.1624,29.6267
+
+E1155,"Coral Reef Resort 966","Dominican Republic",18.9687,-70.6959
+
+E1156,"Royal Rome Hotel & Resort","Side, Uzunyali Cad.",41.1123,28.9441
+
+E1157,"Сплэндид Майами Отель & Резорт","Antalya, Kemeragzi Mevkii",40.9585,29.0256
+
+E1158,"Palace Paris Resort & Resort","Antalya, Merkez Mah.",41.0682,28.9941
+
+E1159,"Эксклюзив Рим Клуб 5*","Antalya, Turizm Bulv.",41.8568,12.4791
+
+E1160,"Coral Reef Resort 993","Caribbean",18.9969,-77.0641
+
+E1161,"Deluxe Belek Suites","Belek, Kemeragzi Mevkii",36.8361,31.0418
+
+E1162,"Премиум Белек Гарден","Belek, Sahil Cad.",40.9811,28.9947
+
+E1163,"Sultan Rome Hotel & Suites","Side, Kemeragzi Mevkii",25.1912,55.2824
+
+E1164,"Престиж Токио Гарден 5*","Side, Turizm Bulv.",25.7059,-80.2767
+
+E1165,"Sunset Beach Hotel 638","Cuba",21.4132,-78.8124
+
+E1166,"Superior Istanbul Heaven","Kundu, Kemeragzi Mevkii",36.8477,30.7512
+
+E1167,"Супериор Майами Вэлнесс Резорт","Lara, Turizm Bulv.",37.9408,23.7821
+
+E1168,"Palace Tokyo Resort & Suites","Belek, Merkez Mah.",18.4856,73.8494
+
+E1169,"Эксклюзив Сингапур Палас 5*","Side, Uzunyali Cad.",25.6262,-80.2856
+
+E1170,"Sunset Beach Hotel 522","Dominican Republic",19.1477,-70.846
+
+E1171,"Grand Barcelona Lounge","Side, Kemeragzi Mevkii",27.0308,33.8806
+
+E1172,"Империал Сингапур Отель","Kemer, Kemeragzi Mevkii",27.0442,33.9051
+
+E1173,"Golden Kundu Hotel & Club","Lara, Merkez Mah.",19.422,-99.0749
+
+E1174,"Роял Кунду Лаунж Deluxe","Alanya, Uzunyali Cad.",37.9767,23.6979
+
+E1175,"Coral Reef Resort 354","Cuba",21.8653,-78.5535
+
+E1176,"Elite Antalya Wellness Resort","Alanya, Uzunyali Cad.",27.023,33.9308
+
+E1177,"Палас Шарм El Шейх Оазис","Alanya, Sahil Cad.",27.0725,33.8751
+
+E1178,"Elite Bangkok Palace","Beldibi, Sahil Cad.",42.7566,23.3171
+
+E1179,"Роял Нью Йорк Хэвен SPA","Beldibi, Kemeragzi Mevkii",37.9251,23.738
+
+E1180,"Paradise Bay Resort 740","Cuba",21.0997,-78.0896
+
+E1181,"Prestige Punta Cana Oasis","Lara, Kemeragzi Mevkii",36.955,30.6763
+
+E1182,"Гранд Хургада Резорт","Belek, Kemeragzi Mevkii",40.4462,-3.6911
+
+E1183,"Golden Istanbul Club","Beldibi, Merkez Mah.",37.9562,23.6753
+
+E1184,"Сплэндид Хургада Вэлнесс Резорт Отель","Beldibi, Turizm Bulv.",25.6581,-80.2148
+
+E1185,"Coral Reef Resort 101","Bahamas",25.4974,-77.2532
+
+E1186,"Majestic Beldibi Oasis","Belek, Kemeragzi Mevkii",36.1739,29.5656
+
+E1187,"Голден Лара Оазис","Antalya, Merkez Mah.",51.5305,-0.1607
+
+E1188,"Golden Sharm El Sheikh Beach Palace","Alanya, Turizm Bulv.",48.8407,2.3988
+
+E1189,"Краун Santorini Отель SPA","Lara, Sahil Cad.",35.1896,33.3783
+
+E1190,"Coral Reef Resort 262","Caribbean",18.2322,-76.8621
+
+E1191,"Classic Rome Beach Resort","Antalya, Kemeragzi Mevkii",26.457,34.0508
+
+E1192,"Классик Бангкок Вэлнесс Резорт","Lara, Merkez Mah.",41.1567,28.9752
+
+E1193,"Grand Side Club","Side, Kemeragzi Mevkii",27.0678,33.8289
+
+E1194,"Сплэндид Пунта Кана Виллы 5*","Beldibi, Kemeragzi Mevkii",19.4875,-99.144
+
+E1195,"Sunset Beach Hotel 9","Dominican Republic",19.4779,-70.3418
+
+E1196,"Superior Bali Resort & Spa","Antalya, Uzunyali Cad.",48.8259,2.3128
+
+E1197,"Прайм Аланья Пэрэдайс","Side, Sahil Cad.",36.1292,29.5991
+
+E1198,"Crown Istanbul Hotel & Club","Kemer, Uzunyali Cad.",41.9243,12.5117
+
+E1199,"Роял Бельдиби Ретрит 5*","Lara, Merkez Mah.",28.5019,34.4515
+
+E1200,"Coral Reef Resort 180","Dominican Republic",19.4096,-70.6733
+
+E1201,"Majestic Kundu Resort","Kemer, Sahil Cad.",48.7981,2.3053
+
+E1202,"Гранд Сиде Отель & Резорт","Alanya, Uzunyali Cad.",28.5276,34.5184
+
+E1203,"Superior Kemer Palace","Lara, Turizm Bulv.",37.9637,23.6836
+
+E1204,"Делюкс Мальдивы Отель & Резорт Отель","Alanya, Merkez Mah.",41.9204,12.5107
+
+E1205,"Sunset Beach Hotel 550","Bahamas",24.5903,-77.6054
+
+E1206,"Crown Tokyo Paradise","Belek, Kemeragzi Mevkii",42.6422,23.3124
+
+E1207,"Палас Мальдивы Лаунж","Side, Uzunyali Cad.",25.6436,-80.2022
+
+E1208,"Golden Lara Resort","Alanya, Merkez Mah.",13.7306,100.5025
+
+E1209,"Эксклюзив Майами Виллы SPA","Alanya, Uzunyali Cad.",25.6315,-80.3136
+
+E1210,"Paradise Bay Resort 312","Cuba",21.1167,-78.9547
+
+E1211,"Golden Kemer Retreat","Kundu, Merkez Mah.",19.4687,-99.1194
+
+E1212,"Гранд Сиде Резорт","Lara, Kemeragzi Mevkii",22.2412,114.1875
+
+E1213,"Elite Hurghada Resort","Beldibi, Uzunyali Cad.",13.6543,100.4523
+
+E1214,"Маджестик Бельдиби Резорт & Спа Отель","Kundu, Uzunyali Cad.",25.2102,55.2184
+
+E1215,"Sunset Beach Hotel 102","Cuba",21.4447,-78.7639
+
+E1216,"Imperial Alanya Residence","Alanya, Uzunyali Cad.",36.1042,29.6044
+
+E1217,"Элит Париж Оазис","Antalya, Kemeragzi Mevkii",40.3972,-3.7099
+
+E1218,"Regal Bodrum Resort","Kundu, Merkez Mah.",35.2428,33.395
+
+E1219,"Классик Фетхие Лаунж Deluxe","Antalya, Merkez Mah.",35.2545,33.3451
+
+E1220,"Ocean View Club 337","Caribbean",18.5864,-76.6869
+
+E1221,"Prime Belek Hotel","Lara, Uzunyali Cad.",22.2958,114.1483
+
+E1222,"Платинум Белек Отель & Резорт","Lara, Sahil Cad.",35.2187,33.4049
+
+E1223,"Golden Barcelona Resort","Belek, Merkez Mah.",36.893,31.1011
+
+E1224,"Супериор Аланья Виллы Deluxe","Kemer, Uzunyali Cad.",48.8529,2.3629
+
+E1225,"Sunset Beach Hotel 526","Dominican Republic",19.2457,-70.5238
+
+E1226,"Exclusive Punta Cana Beach Resort","Belek, Kemeragzi Mevkii",13.7305,100.4865
+
+E1227,"Маджестик Стамбул Гарден","Antalya, Uzunyali Cad.",28.4988,34.5043
+
+E1228,"Palace Rome Hotel & Palace","Antalya, Merkez Mah.",27.1104,33.8687
+
+E1229,"Сплэндид Белек Оазис Отель","Belek, Kemeragzi Mevkii",36.1915,29.5182
+
+E1230,"Blue Lagoon Suites 730","Caribbean",18.275,-76.8669
+
+E1231,"Palace Punta Cana Oasis","Alanya, Kemeragzi Mevkii",48.8781,2.3437
+
+E1232,"Сплэндид Кунду Гарден","Kundu, Uzunyali Cad.",26.4737,34.032
+
+E1233,"Classic Beldibi Wellness Resort","Belek, Uzunyali Cad.",41.0817,29.0378
+
+E1234,"Элит Кунду Отель & Резорт Отель","Beldibi, Turizm Bulv.",13.7029,100.5037
+
+E1235,"Ocean View Club 704","Bahamas",25.1651,-77.6257
+
+E1236,"Splendid Bali Residence","Kundu, Merkez Mah.",13.7594,100.5396
+
+E1237,"Палас Бельдиби Вэлнесс Резорт","Beldibi, Merkez Mah.",41.1604,29.0154
+
+E1238,"Royal Singapore Hotel & Hotel","Lara, Uzunyali Cad.",1.3672,103.8528
+
+E1239,"Элит Мармарис Гарден Отель","Alanya, Merkez Mah.",37.9968,23.7715
+
+E1240,"Blue Lagoon Suites 520","Bahamas",25.1004,-77.6484
+
+E1241,"Prestige Dubai Palace","Kemer, Sahil Cad.",40.3743,-3.738
+
+E1242,"Делюкс Кунду Резорт","Belek, Turizm Bulv.",25.7019,-80.298
+
+E1243,"Grand London Resort","Side, Uzunyali Cad.",33.9146,35.4819
+
+E1244,"Империал Рим Оазис Deluxe","Antalya, Uzunyali Cad.",13.7251,100.527
+
+E1245,"Blue Lagoon Suites 674","Bahamas",24.5061,-77.1301
+
+E1246,"Prime Antalya Resort","Beldibi, Merkez Mah.",25.2577,55.2719
+
+E1247,"Прайм Токио Сьютс","Antalya, Merkez Mah.",35.1522,33.3884
+
+E1248,"Premium Tokyo Club","Beldibi, Kemeragzi Mevkii",19.4562,-99.1717
+
+E1249,"Платинум Сиде Резиденс 5*","Alanya, Uzunyali Cad.",38.0129,23.6999
+
+E1250,"Blue Lagoon Suites 453","Bahamas",24.9431,-77.576
+
+E1251,"Regal Sydney Garden","Beldibi, Turizm Bulv.",51.5449,-0.1058
+
+E1252,"Маджестик Барселона Сьютс","Alanya, Kemeragzi Mevkii",1.3741,103.8249
+
+E1253,"Luxury Sharm El Sheikh Club","Kundu, Uzunyali Cad.",22.2718,114.1793
+
+E1254,"Султан Сиде Ретрит SPA","Antalya, Merkez Mah.",35.1646,33.4453
+
+E1255,"Coral Reef Resort 180","Bahamas",24.8281,-77.9923
+
+E1256,"Splendid Cancun Suites","Lara, Kemeragzi Mevkii",36.1707,29.6309
+
+E1257,"Классик Бангкок Резорт","Alanya, Merkez Mah.",18.5024,73.7949
+
+E1258,"Prime Kemer Palace","Beldibi, Merkez Mah.",48.8219,2.3867
+
+E1259,"Классик Дубай Вэлнесс Резорт Отель","Beldibi, Uzunyali Cad.",26.4588,33.9875
+
+E1260,"Blue Lagoon Suites 472","Dominican Republic",19.4662,-70.8281
+
+E1261,"Deluxe Rome Wellness Resort","Alanya, Merkez Mah.",1.3704,103.8567
+
+E1262,"Платинум Рим Лаунж","Beldibi, Uzunyali Cad.",26.447,33.9478
+
+E1263,"Deluxe Sydney Resort","Side, Turizm Bulv.",35.1666,33.3905
+
+E1264,"Элит Белек Отель SPA","Belek, Uzunyali Cad.",26.4822,33.9941
+
+E1265,"Blue Lagoon Suites 157","Dominican Republic",18.6464,-70.8027
+
+E1266,"Exclusive Bangkok Suites","Belek, Sahil Cad.",36.1388,29.6266
+
+E1267,"Краун Барселона Резиденс","Kundu, Uzunyali Cad.",25.7274,-80.2876
+
+E1268,"Deluxe Paris Beach Resort","Alanya, Turizm Bulv.",38.0042,23.7122
+
+E1269,"Краун Лара Гарден 5*","Side, Turizm Bulv.",38.0118,23.7427
+
+E1270,"Paradise Bay Resort 661","Dominican Republic",18.5569,-70.1683
+
+E1271,"Grand London Villas","Belek, Uzunyali Cad.",1.405,103.8572
+
+E1272,"Империал Хургада Резорт & Спа","Antalya, Kemeragzi Mevkii",33.9191,35.5531
+
+E1273,"Luxury Bodrum Suites","Kemer, Turizm Bulv.",36.8823,30.6731
+
+E1274,"Престиж Мармарис Отель & Резорт 5*","Antalya, Kemeragzi Mevkii",25.7222,-80.2688
+
+E1275,"Coral Reef Resort 537","Caribbean",18.0391,-76.7924
+
+E1276,"Elite Hurghada Villas","Lara, Turizm Bulv.",37.9849,23.7197
+
+E1277,"Делюкс Гоа Клуб","Beldibi, Turizm Bulv.",1.3159,103.8753
+
+E1278,"Splendid Goa Club","Alanya, Merkez Mah.",13.7254,100.5374
+
+E1279,"Султан Рим Бич Резорт SPA","Side, Turizm Bulv.",39.5806,2.6833
+
+E1280,"Coral Reef Resort 133","Bahamas",25.4677,-77.3015
+
+E1281,"Grand New York Club","Belek, Turizm Bulv.",19.3908,-99.0749
+
+E1282,"Голден Гоа Лаунж","Alanya, Sahil Cad.",27.0506,33.8268
+
+E1283,"Golden Singapore Resort & Suites","Belek, Kemeragzi Mevkii",36.1444,29.5719
+
+E1284,"Голден Мальдивы Хэвен Deluxe","Lara, Sahil Cad.",48.8433,2.3646
+
+E1285,"Paradise Bay Resort 520","Caribbean",18.0772,-76.6556
+
+E1286,"Exclusive Hurghada Suites","Antalya, Turizm Bulv.",1.4025,103.8728
+
+E1287,"Голден Сингапур Отель & Резорт","Beldibi, Sahil Cad.",39.6504,2.6959
+
+E1288,"Grand Side Hotel & Hotel","Lara, Kemeragzi Mevkii",28.4884,34.5126
+
+E1289,"Султан Фетхие Оазис Deluxe","Kemer, Kemeragzi Mevkii",33.9405,35.5354
+
+E1290,"Coral Reef Resort 926","Caribbean",18.3095,-76.6914
+
+E1291,"Platinum Side Resort","Kemer, Turizm Bulv.",27.1093,33.8413
+
+E1292,"Супериор Токио Лаунж","Kundu, Kemeragzi Mevkii",36.9,31.0127
+
+E1293,"Crown Antalya Resort","Beldibi, Sahil Cad.",40.4682,-3.7504
+
+E1294,"Люкс Бали Отель & Спа Отель","Side, Merkez Mah.",35.2247,33.4363
+
+E1295,"Sunset Beach Hotel 461","Dominican Republic",18.7851,-70.2369
+
+E1296,"Superior Antalya Oasis","Lara, Kemeragzi Mevkii",48.8175,2.3665
+
+E1297,"Люкс Канкун Отель","Kundu, Turizm Bulv.",41.0838,28.9605
+
+E1298,"Luxury Singapore Club","Beldibi, Uzunyali Cad.",26.4501,33.9815
+
+E1299,"Супериор Мармарис Отель & Резорт 5*","Alanya, Sahil Cad.",1.3685,103.8366
+
+E1300,"Coral Reef Resort 713","Caribbean",18.0383,-76.5826
+
+E1301,"Palace Cancun Resort","Lara, Kemeragzi Mevkii",42.7499,23.3148
+
+E1302,"Супериор Дубай Палас","Belek, Merkez Mah.",36.927,30.6989
+
+E1303,"Royal Maldives Club","Beldibi, Merkez Mah.",38.01,23.6445
+
+E1304,"Голден Канкун Клуб Отель","Kemer, Kemeragzi Mevkii",36.9438,30.7182
+
+E1305,"Ocean View Club 299","Dominican Republic",19.132,-70.425
+
+E1306,"Regal Istanbul Hotel & Spa","Beldibi, Merkez Mah.",36.8626,30.6978
+
+E1307,"Премиум Сиде Резорт & Спа","Beldibi, Sahil Cad.",36.1838,29.5432
+
+E1308,"Majestic Bodrum Suites","Alanya, Merkez Mah.",41.9392,12.4725
+
+E1309,"Платинум Бельдиби Хэвен Отель","Antalya, Kemeragzi Mevkii",39.5387,2.7088
+
+E1310,"Ocean View Club 751","Dominican Republic",18.8571,-70.9324
+
+E1311,"Platinum Bodrum Beach Resort","Belek, Uzunyali Cad.",26.489,34.0204
+
+E1312,"Платинум Рим Оазис","Antalya, Turizm Bulv.",36.884,30.7245
+
+E1313,"Royal Side Palace","Lara, Kemeragzi Mevkii",1.363,103.7857
+
+E1314,"Роял Бельдиби Резорт 5*","Belek, Kemeragzi Mevkii",48.8419,2.3136
+
+E1315,"Blue Lagoon Suites 485","Bahamas",25.4334,-77.4846
+
+E1316,"Luxury Goa Suites","Side, Merkez Mah.",25.1466,55.2615
+
+E1317,"Делюкс Шарм El Шейх Бич Резорт","Alanya, Merkez Mah.",25.1687,55.3034
+
+E1318,"Royal Belek Palace","Belek, Turizm Bulv.",37.9402,23.7099
+
+E1319,"Империал Дубай Гарден SPA","Beldibi, Turizm Bulv.",36.1746,29.5373
+
+E1320,"Ocean View Club 559","Cuba",21.0789,-78.3975
+
+E1321,"Elite Bali Hotel & Resort","Side, Turizm Bulv.",36.9365,30.6403
+
+E1322,"Маджестик Сингапур Отель & Спа","Side, Turizm Bulv.",33.8973,35.4732
+
+E1323,"Deluxe Singapore Club","Lara, Kemeragzi Mevkii",38.027,23.7272
+
+E1324,"Палас Нью Йорк Хэвен Отель","Alanya, Uzunyali Cad.",40.4167,-3.667
+
+E1325,"Ocean View Club 976","Cuba",21.3633,-78.1989
+
+E1326,"Deluxe Santorini Oasis","Antalya, Sahil Cad.",25.2178,55.2379
+
+E1327,"Роял Канкун Клуб","Kundu, Merkez Mah.",36.8819,30.6803
+
+E1328,"Deluxe Alanya Palace","Alanya, Turizm Bulv.",33.9062,35.5265
+
+E1329,"Классик Сиде Хэвен Deluxe","Lara, Kemeragzi Mevkii",51.5249,-0.1217
+
+E1330,"Ocean View Club 984","Bahamas",24.898,-77.3504
+
+E1331,"Sultan New York Resort & Spa","Belek, Merkez Mah.",28.4673,34.4531
+
+E1332,"Премиум Сингапур Хэвен","Beldibi, Uzunyali Cad.",42.6461,23.33
+
+E1333,"Imperial Punta Cana Resort & Suites","Kundu, Sahil Cad.",28.5352,34.5257
+
+E1334,"Краун Кунду Палас 5*","Kundu, Sahil Cad.",25.1745,55.2686
+
+E1335,"Sunset Beach Hotel 684","Dominican Republic",19.3105,-70.0324
+
+E1336,"Royal Kundu Garden","Alanya, Merkez Mah.",33.9247,35.4734
+
+E1337,"Маджестик Santorini Пэрэдайс","Side, Sahil Cad.",51.4829,-0.1197
+
+E1338,"Elite Beldibi Suites","Lara, Turizm Bulv.",36.807,31.0558
+
+E1339,"Престиж Лара Палас Отель","Lara, Sahil Cad.",40.4109,-3.6589
+
+E1340,"Sunset Beach Hotel 408","Caribbean",18.6119,-77.4138
+
+E1341,"Majestic Fethiye Heaven","Kundu, Uzunyali Cad.",36.182,29.6049
+
+E1342,"Классик Мармарис Отель","Belek, Sahil Cad.",41.121,29.0393
+
+E1343,"Prestige Beldibi Suites","Kundu, Kemeragzi Mevkii",40.3618,-3.7014
+
+E1344,"Палас Фетхие Вэлнесс Резорт Отель","Lara, Sahil Cad.",26.497,33.9945
+
+E1345,"Ocean View Club 355","Caribbean",18.3041,-77.338
+
+E1346,"Golden Beldibi Garden","Side, Merkez Mah.",41.8828,12.4424
+
+E1347,"Палас Сиде Сьютс","Side, Sahil Cad.",13.6826,100.5051
+
+E1348,"Imperial Lara Resort","Belek, Uzunyali Cad.",1.3645,103.8728
+
+E1349,"Султан Мармарис Ретрит Deluxe","Lara, Uzunyali Cad.",37.9338,23.7577
+
+E1350,"Sunset Beach Hotel 667","Dominican Republic",19.4485,-70.229
+
+E1351,"Prime Rome Oasis","Kemer, Uzunyali Cad.",41.8789,12.4982
+
+E1352,"Сплэндид Аланья Отель & Спа","Kundu, Uzunyali Cad.",36.1965,29.5765
+
+E1353,"Prime Goa Palace","Kundu, Sahil Cad.",33.912,35.5651
+
+E1354,"Премиум Пунта Кана Пэрэдайс Отель","Antalya, Sahil Cad.",36.8411,31.0969
+
+E1355,"Sunset Beach Hotel 999","Caribbean",18.3126,-76.7816
+
+E1356,"Superior Fethiye Palace","Beldibi, Sahil Cad.",36.0878,29.5208
+
+E1357,"Роял Париж Пэрэдайс","Belek, Turizm Bulv.",18.5147,73.8132
+
+E1358,"Premium Phuket Resort","Kundu, Sahil Cad.",48.8545,2.3558
+
+E1359,"Голден Барселона Палас Отель","Beldibi, Uzunyali Cad.",36.1334,29.5379
+
+E1360,"Blue Lagoon Suites 479","Bahamas",24.6898,-77.8407
+
+E1361,"Royal New York Suites","Kundu, Turizm Bulv.",42.674,23.3478
+
+E1362,"Классик Бангкок Пэрэдайс","Beldibi, Uzunyali Cad.",13.7044,100.4409
+
+E1363,"Sultan Singapore Hotel & Hotel","Alanya, Merkez Mah.",39.6558,2.617
+
+E1364,"Краун Гоа Хэвен 5*","Kundu, Turizm Bulv.",25.6968,-80.2219
+
+E1365,"Blue Lagoon Suites 576","Cuba",21.3659,-78.5994
+
+E1366,"Exclusive New York Beach Resort","Kemer, Turizm Bulv.",41.8931,12.5543
+
+E1367,"Престиж Канкун Сьютс","Kundu, Uzunyali Cad.",37.9654,23.686
+
+E1368,"Majestic Sharm El Sheikh Hotel","Belek, Sahil Cad.",28.5365,34.4961
+
+E1369,"Голден Бельдиби Бич Резорт Deluxe","Alanya, Uzunyali Cad.",41.9525,12.4639
+
+E1370,"Sunset Beach Hotel 824","Dominican Republic",18.5453,-70.863
+
+E1371,"Regal Beldibi Club","Kundu, Uzunyali Cad.",40.9946,28.915
+
+E1372,"Эксклюзив Бангкок Ретрит","Lara, Turizm Bulv.",22.3473,114.1423
+
+E1373,"Imperial Miami Club","Beldibi, Uzunyali Cad.",36.165,29.5683
+
+E1374,"Роял Бельдиби Сьютс Deluxe","Kundu, Uzunyali Cad.",36.1044,29.5974
+
+E1375,"Paradise Bay Resort 612","Cuba",21.5837,-78.2032
+
+E1376,"Imperial Antalya Paradise","Kundu, Turizm Bulv.",33.9066,35.5592
+
+E1377,"Прайм Кунду Оазис","Kemer, Merkez Mah.",36.1711,29.5752
+
+E1378,"Golden Kemer Beach Resort","Beldibi, Sahil Cad.",36.0975,29.542
+
+E1379,"Премиум Пхукет Резиденс 5*","Belek, Sahil Cad.",28.4601,34.4643
+
+E1380,"Coral Reef Resort 894","Cuba",21.5018,-78.3885
+
+E1381,"Splendid Singapore Hotel & Resort","Antalya, Sahil Cad.",25.2179,55.2908
+
+E1382,"Маджестик Хургада Резорт","Kundu, Uzunyali Cad.",42.7546,23.2639
+
+E1383,"Superior Lara Resort & Club","Kundu, Uzunyali Cad.",40.4443,-3.6621
+
+E1384,"Делюкс Мальдивы Хэвен Отель","Side, Uzunyali Cad.",36.8735,30.6516
+
+E1385,"Coral Reef Resort 325","Bahamas",25.2712,-77.2951
+
+E1386,"Grand Fethiye Hotel & Spa","Kundu, Turizm Bulv.",42.7014,23.2483
+
+E1387,"Люкс Нью Йорк Оазис","Side, Turizm Bulv.",38.0253,23.6976
+
+E1388,"Platinum Sharm El Sheikh Resort & Club","Beldibi, Kemeragzi Mevkii",25.703,-80.2505
+
+E1389,"Палас Пунта Кана Ретрит Deluxe","Side, Merkez Mah.",40.9608,28.9426
+
+E1390,"Sunset Beach Hotel 956","Cuba",21.214,-78.172
+
+E1391,"Royal Lara Beach Resort","Side, Sahil Cad.",41.843,12.5264
+
+E1392,"Сплэндид Стамбул Лаунж","Kemer, Sahil Cad.",18.5044,73.8688
+
+E1393,"Regal Paris Wellness Hotel","Kemer, Sahil Cad.",51.4435,-0.159
+
+E1394,"Голден Нью Йорк Палас SPA","Kundu, Merkez Mah.",25.1759,55.2536
+
+E1395,"Sunset Beach Hotel 329","Cuba",21.4774,-78.8005
+
+E1396,"Regal Rome Paradise","Side, Merkez Mah.",40.4143,-3.7349
+
+E1397,"Элит Бангкок Резиденс","Kemer, Uzunyali Cad.",41.1181,28.9564
+
+E1398,"Exclusive Side Beach Palace","Antalya, Sahil Cad.",39.6069,2.6133
+
+E1399,"Роял Барселона Хэвен Отель","Antalya, Kemeragzi Mevkii",39.5965,2.6763
+
+E1400,"Sunset Beach Hotel 292","Dominican Republic",18.7984,-70.3972
+
+E1401,"Premium Dubai Hotel & Spa","Kundu, Uzunyali Cad.",37.9369,23.7592
+
+E1402,"Султан Барселона Резиденс","Lara, Uzunyali Cad.",41.0597,28.9597
+
+E1403,"Sultan Kundu Resort & Resort","Belek, Turizm Bulv.",41.8731,12.5155
+
+E1404,"Премиум Лондон Хэвен Deluxe","Lara, Merkez Mah.",19.4573,-99.1264
+
+E1405,"Paradise Bay Resort 411","Cuba",21.827,-78.4847
+
+E1406,"Superior Singapore Lounge","Belek, Sahil Cad.",1.3868,103.8605
+
+E1407,"Роял Аланья Резиденс","Kemer, Merkez Mah.",40.3962,-3.7282
+
+E1408,"Golden Kemer Club","Side, Turizm Bulv.",19.4083,-99.1319
+
+E1409,"Делюкс Рим Ретрит SPA","Side, Turizm Bulv.",18.5253,73.8245
+
+E1410,"Sunset Beach Hotel 707","Cuba",21.6861,-78.0769
+
+E1411,"Imperial New York Retreat","Belek, Turizm Bulv.",37.993,23.667
+
+E1412,"Платинум Кунду Сьютс","Lara, Kemeragzi Mevkii",26.4831,34.0071
+
+E1413,"Regal Maldives Resort & Suites","Alanya, Kemeragzi Mevkii",27.04,33.8988
+
+E1414,"Палас Белек Отель & Спа 5*","Kemer, Sahil Cad.",25.1962,55.3182
+
+E1415,"Blue Lagoon Suites 208","Dominican Republic",18.5618,-70.4524
+
+E1416,"Grand Marmaris Garden","Lara, Sahil Cad.",18.4851,73.8063
+
+E1417,"Люкс Пунта Кана Сьютс","Belek, Sahil Cad.",25.2245,55.2961
+
+E1418,"Golden Goa Palace","Kundu, Merkez Mah.",33.9784,35.5438
+
+E1419,"Голден Барселона Резорт Отель","Antalya, Uzunyali Cad.",36.1177,29.6008
+
+E1420,"Blue Lagoon Suites 75","Bahamas",25.3165,-77.2542
+
+E1421,"Splendid Phuket Residence","Antalya, Kemeragzi Mevkii",13.6428,100.4797
+
+E1422,"Премиум Стамбул Отель","Antalya, Merkez Mah.",26.5215,33.9614
+
+E1423,"Crown Singapore Resort","Side, Kemeragzi Mevkii",39.5818,2.665
+
+E1424,"Краун Лара Оазис Отель","Beldibi, Turizm Bulv.",25.651,-80.2617
+
+E1425,"Blue Lagoon Suites 137","Dominican Republic",19.1827,-70.3382
+
+E1426,"Majestic Lara Wellness Resort","Alanya, Merkez Mah.",42.7304,23.3553
+
+E1427,"Платинум Santorini Пэрэдайс","Lara, Sahil Cad.",33.9866,35.5587
+
+E1428,"Superior Istanbul Beach Suites","Side, Kemeragzi Mevkii",41.0214,28.9147
+
+E1429,"Голден Канкун Ретрит Отель","Kemer, Sahil Cad.",27.056,33.9195
+
+E1430,"Paradise Bay Resort 247","Cuba",21.6149,-78.0638
+
+E1431,"Classic Santorini Suites","Kemer, Merkez Mah.",51.4733,-0.1225
+
+E1432,"Гранд Сидней Палас","Antalya, Sahil Cad.",40.964,28.9933
+
+E1433,"Sultan Paris Resort","Kemer, Uzunyali Cad.",33.982,35.5391
+
+E1434,"Сплэндид Стамбул Гарден Deluxe","Lara, Uzunyali Cad.",39.6072,2.6879
+
+E1435,"Blue Lagoon Suites 227","Bahamas",24.7369,-77.1237
+
+E1436,"Splendid Fethiye Oasis","Beldibi, Turizm Bulv.",48.8187,2.3958
+
+E1437,"Султан Кемер Резиденс","Lara, Kemeragzi Mevkii",1.3665,103.8452
+
+E1438,"Platinum Miami Resort & Suites","Alanya, Kemeragzi Mevkii",22.3126,114.2157
+
+E1439,"Люкс Канкун Гарден Отель","Lara, Turizm Bulv.",19.3709,-99.1754
+
+E1440,"Coral Reef Resort 937","Bahamas",25.3575,-77.8556
+
+E1441,"Superior Dubai Garden","Antalya, Uzunyali Cad.",22.3516,114.2233
+
+E1442,"Премиум Бельдиби Отель & Резорт","Lara, Kemeragzi Mevkii",36.8697,31.0784
+
+E1443,"Superior Bali Club","Belek, Kemeragzi Mevkii",19.4308,-99.1623
+
+E1444,"Султан Бодрум Гарден Deluxe","Kemer, Merkez Mah.",13.6952,100.4455
+
+E1445,"Blue Lagoon Suites 223","Caribbean",18.8047,-76.9124
+
+E1446,"Exclusive Bali Club","Kundu, Sahil Cad.",19.4376,-99.0773
+
+E1447,"Палас Фетхие Палас","Antalya, Sahil Cad.",39.5507,2.6212
+
+E1448,"Majestic Tokyo Resort","Belek, Kemeragzi Mevkii",35.1587,33.4258
+
+E1449,"Престиж Кемер Хэвен Deluxe","Beldibi, Sahil Cad.",33.9441,35.5034
+
+E1450,"Coral Reef Resort 101","Bahamas",24.8596,-77.1172
+
+E1451,"Exclusive Miami Resort & Spa","Kundu, Turizm Bulv.",13.6819,100.4499
+
+E1452,"Палас Стамбул Резорт","Beldibi, Merkez Mah.",48.883,2.3038
+
+E1453,"Sultan Goa Beach Club","Lara, Merkez Mah.",38.0065,23.7463
+
+E1454,"Супериор Стамбул Пэрэдайс SPA","Beldibi, Turizm Bulv.",36.1412,29.5662
+
+E1455,"Coral Reef Resort 472","Bahamas",24.7573,-77.1784
+
+E1456,"Sultan Barcelona Retreat","Lara, Turizm Bulv.",1.383,103.7638
+
+E1457,"Делюкс Мальдивы Отель & Спа","Kundu, Sahil Cad.",1.3034,103.8647
+
+E1458,"Majestic Marmaris Hotel","Antalya, Uzunyali Cad.",37.9482,23.6737
+
+E1459,"Султан Фетхие Резорт Отель","Antalya, Merkez Mah.",40.3985,-3.7404
+
+E1460,"Paradise Bay Resort 633","Dominican Republic",18.7187,-70.544
+
+E1461,"Grand Beldibi Hotel & Spa","Kundu, Kemeragzi Mevkii",13.7134,100.4686
+
+E1462,"Элит Гоа Сьютс","Beldibi, Merkez Mah.",35.2349,33.3728
+
+E1463,"Splendid Fethiye Suites","Side, Merkez Mah.",36.8875,31.0002
+
+E1464,"Голден Нью Йорк Лаунж 5*","Lara, Merkez Mah.",25.2302,55.232
+
+E1465,"Coral Reef Resort 471","Bahamas",25.2949,-77.921
+
+E1466,"Splendid Belek Paradise","Kemer, Sahil Cad.",22.3552,114.1314
+
+E1467,"Элит Сингапур Резорт & Спа","Belek, Merkez Mah.",36.1825,29.6263
+
+E1468,"Regal Antalya Hotel","Kundu, Merkez Mah.",28.5466,34.5039
+
+E1469,"Престиж Santorini Вэлнесс Резорт 5*","Beldibi, Turizm Bulv.",25.1749,55.2739
+
+E1470,"Sunset Beach Hotel 921","Cuba",21.2711,-78.0758
+
+E1471,"Superior Hurghada Oasis","Antalya, Sahil Cad.",27.0489,33.8756
+
+E1472,"Роял Бали Хэвен","Kemer, Uzunyali Cad.",51.4482,-0.1643
+
+E1473,"Premium Dubai Club","Beldibi, Merkez Mah.",25.65,-80.2183
+
+E1474,"Классик Париж Резиденс Deluxe","Beldibi, Uzunyali Cad.",40.9666,29.0177
+
+E1475,"Paradise Bay Resort 349","Bahamas",24.5537,-77.5629
+
+E1476,"Platinum Cancun Residence","Beldibi, Turizm Bulv.",40.4225,-3.7499
+
+E1477,"Голден Токио Бич Резорт","Kundu, Kemeragzi Mevkii",26.4466,33.9801
+
+E1478,"Splendid Cancun Resort","Beldibi, Kemeragzi Mevkii",41.8452,12.4553
+
+E1479,"Платинум Дубай Бич Резорт Deluxe","Belek, Uzunyali Cad.",39.6472,2.6427
+
+E1480,"Ocean View Club 758","Caribbean",18.38,-76.7161
+
+E1481,"Imperial Cancun Garden","Beldibi, Turizm Bulv.",28.4538,34.5285
+
+E1482,"Голден Париж Гарден","Side, Kemeragzi Mevkii",37.983,23.7552
+
+E1483,"Premium Sydney Resort","Lara, Merkez Mah.",36.084,29.5854
+
+E1484,"Сплэндид Майами Отель 5*","Beldibi, Merkez Mah.",37.9204,23.7186
+
+E1485,"Paradise Bay Resort 743","Dominican Republic",18.7918,-70.6122
+
+E1486,"Splendid London Retreat","Kemer, Uzunyali Cad.",40.4694,-3.7
+
+E1487,"Роял Токио Клуб","Lara, Sahil Cad.",42.6689,23.2564
+
+E1488,"Prestige London Resort","Lara, Merkez Mah.",35.144,33.4329
+
+E1489,"Империал Шарм El Шейх Резорт & Спа Deluxe","Kundu, Merkez Mah.",41.093,29.0105
+
+E1490,"Paradise Bay Resort 972","Caribbean",18.4579,-77.3645
+
+E1491,"Elite Antalya Lounge","Beldibi, Turizm Bulv.",40.4107,-3.7516
+
+E1492,"Роял Бангкок Отель","Alanya, Kemeragzi Mevkii",51.5493,-0.0987
+
+E1493,"Regal Side Hotel & Club","Lara, Turizm Bulv.",42.6474,23.3339
+
+E1494,"Палас Бельдиби Лаунж SPA","Kundu, Turizm Bulv.",18.562,73.7958
+
+E1495,"Coral Reef Resort 374","Caribbean",18.3259,-77.2197
+
+E1496,"Regal Fethiye Retreat","Belek, Uzunyali Cad.",42.7447,23.2951
+
+E1497,"Гранд Сингапур Бич Резорт","Lara, Uzunyali Cad.",13.7515,100.5247
+
+E1498,"Golden Paris Club","Kemer, Kemeragzi Mevkii",35.1765,33.3557
+
+E1499,"Престиж Пунта Кана Резорт SPA","Beldibi, Kemeragzi Mevkii",41.1319,29.018
+
+E1500,"Coral Reef Resort 597","Cuba",21.074,-78.0093
+
+E1501,"Classic Sharm El Sheikh Hotel & Resort","Beldibi, Uzunyali Cad.",36.9022,30.6413
+
+E1502,"Роял Кемер Оазис","Beldibi, Uzunyali Cad.",37.987,23.7071
+
+E1503,"Regal Dubai Wellness Resort","Belek, Merkez Mah.",25.6511,-80.263
+
+E1504,"Классик Хургада Резорт Отель","Antalya, Uzunyali Cad.",28.474,34.5332
+
+E1505,"Blue Lagoon Suites 572","Dominican Republic",18.5986,-70.778
+
+E1506,"Splendid Tokyo Wellness Resort","Kemer, Kemeragzi Mevkii",26.5037,33.9792
+
+E1507,"Голден Хургада Ретрит","Lara, Turizm Bulv.",39.544,2.6295
+
+E1508,"Deluxe Maldives Hotel","Side, Kemeragzi Mevkii",40.4663,-3.6969
+
+E1509,"Престиж Бангкок Хэвен Deluxe","Lara, Turizm Bulv.",37.9683,23.6849
+
+E1510,"Coral Reef Resort 327","Cuba",21.0976,-78.278
+
+E1511,"Elite Alanya Hotel & Spa","Belek, Turizm Bulv.",26.5594,33.9793
+
+E1512,"Роял Канкун Бич Резорт","Antalya, Turizm Bulv.",25.2,55.2142
+
+E1513,"Sultan Hurghada Suites","Lara, Sahil Cad.",22.3551,114.1473
+
+E1514,"Эксклюзив Нью Йорк Хэвен SPA","Beldibi, Kemeragzi Mevkii",48.857,2.3747
+
+E1515,"Ocean View Club 461","Cuba",21.0292,-78.3859
+
+E1516,"Deluxe Marmaris Paradise","Beldibi, Kemeragzi Mevkii",28.4901,34.4972
+
+E1517,"Супериор Аланья Вэлнесс Резорт","Side, Merkez Mah.",25.6274,-80.3
+
+E1518,"Majestic Side Club","Lara, Turizm Bulv.",38.0264,23.7389
+
+E1519,"Эксклюзив Лара Оазис Deluxe","Kundu, Uzunyali Cad.",13.7342,100.4842
+
+E1520,"Sunset Beach Hotel 941","Bahamas",25.3455,-77.3826
+
+E1521,"Platinum Bodrum Heaven","Belek, Sahil Cad.",41.9145,12.4536
+
+E1522,"Султан Кемер Оазис","Belek, Sahil Cad.",37.9939,23.7227
+
+E1523,"Exclusive Santorini Hotel & Suites","Beldibi, Kemeragzi Mevkii",25.6488,-80.2285
+
+E1524,"Классик Белек Гарден SPA","Lara, Kemeragzi Mevkii",40.4287,-3.7533
+
+E1525,"Sunset Beach Hotel 975","Bahamas",25.342,-77.3806
+
+E1526,"Palace Rome Club","Antalya, Kemeragzi Mevkii",33.9129,35.5862
+
+E1527,"Роял Шарм El Шейх Резорт & Спа","Kundu, Kemeragzi Mevkii",41.047,28.9592
+
+E1528,"Royal Side Resort","Kundu, Kemeragzi Mevkii",18.4919,73.8856
+
+E1529,"Классик Дубай Отель & Резорт 5*","Kemer, Turizm Bulv.",41.0575,28.9445
+
+E1530,"Paradise Bay Resort 275","Cuba",21.5497,-78.8868
+
+E1531,"Golden Phuket Resort & Spa","Alanya, Uzunyali Cad.",25.1948,55.3092
+
+E1532,"Престиж Бодрум Ретрит","Kundu, Uzunyali Cad.",19.4011,-99.1197
+
+E1533,"Prime Phuket Hotel & Hotel","Kemer, Turizm Bulv.",28.533,34.5028
+
+E1534,"Роял Бельдиби Ретрит 5*","Belek, Kemeragzi Mevkii",51.455,-0.178
+
+E1535,"Ocean View Club 834","Cuba",21.166,-78.8608
+
+E1536,"Exclusive Dubai Resort & Spa","Kemer, Merkez Mah.",19.3982,-99.1567
+
+E1537,"Империал Гоа Виллы","Lara, Turizm Bulv.",41.0842,28.958
+
+E1538,"Exclusive Istanbul Hotel","Side, Uzunyali Cad.",48.8969,2.32
+
+E1539,"Эксклюзив Лондон Бич Резорт Deluxe","Beldibi, Merkez Mah.",37.995,23.7514
+
+E1540,"Coral Reef Resort 502","Caribbean",18.7114,-76.6715
+
+E1541,"Prime Fethiye Residence","Lara, Uzunyali Cad.",42.7245,23.2507
+
+E1542,"Краун Аланья Хэвен","Beldibi, Kemeragzi Mevkii",39.6528,2.6128
+
+E1543,"Majestic Fethiye Suites","Belek, Kemeragzi Mevkii",1.407,103.8616
+
+E1544,"Эксклюзив Токио Палас Отель","Alanya, Kemeragzi Mevkii",33.9759,35.5551
+
+E1545,"Coral Reef Resort 224","Bahamas",25.3501,-77.2043
+
+E1546,"Classic Singapore Resort","Beldibi, Sahil Cad.",40.4356,-3.7059
+
+E1547,"Гранд Канкун Бич Резорт","Side, Turizm Bulv.",40.4207,-3.6503
+
+E1548,"Splendid Istanbul Hotel","Kundu, Turizm Bulv.",51.4819,-0.0919
+
+E1549,"Краун Сингапур Бич Резорт 5*","Kundu, Merkez Mah.",41.9285,12.4593
+
+E1550,"Ocean View Club 904","Cuba",21.2023,-78.3114
+
+E1551,"Exclusive Maldives Paradise","Side, Sahil Cad.",25.154,55.2565
+
+E1552,"Роял Токио Сьютс","Belek, Turizm Bulv.",13.6579,100.5104
+
+E1553,"Classic Paris Hotel & Palace","Lara, Merkez Mah.",13.7074,100.5413
+
+E1554,"Роял Нью Йорк Пэрэдайс 5*","Kemer, Kemeragzi Mevkii",36.0825,29.5796
+
+E1555,"Coral Reef Resort 10","Caribbean",18.5937,-76.9806
+
+E1556,"Elite Maldives Residence","Antalya, Turizm Bulv.",37.9471,23.7328
+
+E1557,"Роял Сингапур Ретрит","Beldibi, Sahil Cad.",42.6945,23.3076
+
+E1558,"Imperial Paris Hotel","Belek, Merkez Mah.",40.4039,-3.6814
+
+E1559,"Голден Гоа Хэвен SPA","Lara, Kemeragzi Mevkii",18.5484,73.8859
+
+E1560,"Sunset Beach Hotel 740","Dominican Republic",19.1103,-70.8359
+
+E1561,"Sultan Bali Hotel & Resort","Kemer, Sahil Cad.",36.1076,29.5464
+
+E1562,"Эксклюзив Токио Отель","Kundu, Sahil Cad.",41.8712,12.4926
+
+E1563,"Prime Cancun Palace","Belek, Uzunyali Cad.",33.8894,35.4997
+
+E1564,"Люкс Кунду Пэрэдайс Deluxe","Lara, Sahil Cad.",18.5033,73.8859
+
+E1565,"Ocean View Club 766","Bahamas",24.7054,-77.3931
+
+E1566,"Classic Bangkok Hotel","Beldibi, Turizm Bulv.",28.5252,34.5585
+
+E1567,"Палас Шарм El Шейх Гарден","Kemer, Kemeragzi Mevkii",26.9974,33.8388
+
+E1568,"Regal Cancun Hotel","Belek, Uzunyali Cad.",36.8819,31.0176
+
+E1569,"Маджестик Майами Хэвен Отель","Lara, Kemeragzi Mevkii",36.8688,30.7493
+
+E1570,"Ocean View Club 41","Dominican Republic",19.0874,-70.9862
+
+E1571,"Imperial Paris Paradise","Antalya, Kemeragzi Mevkii",41.1076,28.9798
+
+E1572,"Платинум Барселона Клуб","Beldibi, Kemeragzi Mevkii",41.907,12.477
+
+E1573,"Majestic Kundu Hotel","Lara, Turizm Bulv.",28.4571,34.4705
+
+E1574,"Султан Хургада Резорт Deluxe","Kemer, Sahil Cad.",28.502,34.4798
+
+E1575,"Paradise Bay Resort 251","Cuba",21.73,-78.1535
+
+E1576,"Deluxe Phuket Paradise","Belek, Kemeragzi Mevkii",36.8194,31.0797
+
+E1577,"Классик Токио Резорт","Antalya, Turizm Bulv.",36.8729,31.0001
+
+E1578,"Palace Phuket Beach Hotel","Lara, Merkez Mah.",18.5615,73.8226
+
+E1579,"Краун Фетхие Резорт Deluxe","Lara, Kemeragzi Mevkii",39.6332,2.6723
+
+E1580,"Sunset Beach Hotel 751","Bahamas",24.6269,-77.2189
+
+E1581,"Platinum Bangkok Beach Resort","Belek, Merkez Mah.",36.8882,31.0982
+
+E1582,"Супериор Канкун Палас","Belek, Turizm Bulv.",27.0691,33.8684
+
+E1583,"Crown Fethiye Palace","Belek, Kemeragzi Mevkii",25.6758,-80.2097
+
+E1584,"Престиж Стамбул Резорт & Спа SPA","Lara, Turizm Bulv.",41.1436,29.0504
+
+E1585,"Ocean View Club 48","Dominican Republic",18.544,-70.1371
+
+E1586,"Superior London Hotel & Spa","Kundu, Turizm Bulv.",41.0737,28.9728
+
+E1587,"Голден Хургада Виллы","Antalya, Uzunyali Cad.",25.7101,-80.2673
+
+E1588,"Prestige Hurghada Club","Beldibi, Sahil Cad.",33.946,35.5485
+
+E1589,"Супериор Аланья Палас 5*","Alanya, Turizm Bulv.",36.8593,31.0094
+
+E1590,"Coral Reef Resort 71","Caribbean",18.8043,-76.5186
+
+E1591,"Classic Barcelona Garden","Kundu, Turizm Bulv.",41.0079,28.9467
+
+E1592,"Маджестик Пунта Кана Клуб","Belek, Uzunyali Cad.",18.563,73.8975
+
+E1593,"Prestige Maldives Club","Side, Uzunyali Cad.",35.2534,33.3517
+
+E1594,"Роял Мармарис Лаунж Отель","Alanya, Uzunyali Cad.",36.2012,29.6361
+
+E1595,"Blue Lagoon Suites 355","Dominican Republic",19.4324,-70.9761
+
+E1596,"Regal Side Retreat","Antalya, Turizm Bulv.",26.4467,34.0012
+
+E1597,"Делюкс Гоа Резорт & Спа","Side, Merkez Mah.",1.2937,103.8204
+
+E1598,"Prime Alanya Hotel","Beldibi, Kemeragzi Mevkii",39.579,2.6251
+
+E1599,"Престиж Бангкок Гарден 5*","Side, Merkez Mah.",22.2446,114.1536
+
+E1600,"Paradise Bay Resort 518","Cuba",21.9746,-78.9151
+
+E1601,"Classic Kemer Resort & Spa","Lara, Kemeragzi Mevkii",39.6129,2.6026
+
+E1602,"Роял Париж Вэлнесс Резорт","Beldibi, Sahil Cad.",41.8463,12.4728
+
+E1603,"Premium Bali Club","Alanya, Kemeragzi Mevkii",28.452,34.498
+
+E1604,"Элит Пунта Кана Лаунж SPA","Belek, Sahil Cad.",19.3876,-99.1807
+
+E1605,"Paradise Bay Resort 549","Caribbean",18.4496,-77.186
+
+E1606,"Superior Barcelona Club","Alanya, Sahil Cad.",39.6171,2.62
+
+E1607,"Прайм Пунта Кана Ретрит","Belek, Merkez Mah.",42.6791,23.3309
+
+E1608,"Regal Side Club","Antalya, Sahil Cad.",33.9918,35.5665
+
+E1609,"Империал Сингапур Лаунж 5*","Alanya, Kemeragzi Mevkii",41.9371,12.5085
+
+E1610,"Blue Lagoon Suites 256","Cuba",21.8546,-78.444
+
+E1611,"Platinum Tokyo Suites","Belek, Kemeragzi Mevkii",25.6345,-80.2024
+
+E1612,"Супериор Бали Палас","Belek, Merkez Mah.",27.0715,33.9159
+
+E1613,"Prestige Kemer Hotel & Resort","Kemer, Sahil Cad.",33.9415,35.5588
+
+E1614,"Голден Стамбул Клуб Deluxe","Belek, Uzunyali Cad.",41.0366,28.9492
+
+E1615,"Sunset Beach Hotel 126","Cuba",21.8093,-78.908
+
+E1616,"Platinum Paris Resort","Antalya, Kemeragzi Mevkii",42.6655,23.2907
+
+E1617,"Эксклюзив Канкун Резорт","Beldibi, Kemeragzi Mevkii",41.0232,28.9727
+
+E1618,"Exclusive New York Hotel & Club","Beldibi, Sahil Cad.",40.42,-3.6837
+
+E1619,"Прайм Сингапур Отель SPA","Side, Kemeragzi Mevkii",33.9789,35.4879
+
+E1620,"Paradise Bay Resort 90","Cuba",21.412,-78.4493
+
+E1621,"Prime Paris Residence","Side, Kemeragzi Mevkii",48.9045,2.3445
+
+E1622,"Империал Барселона Палас","Kemer, Uzunyali Cad.",22.2949,114.2204
+
+E1623,"Majestic Bali Suites","Alanya, Kemeragzi Mevkii",38.0526,23.7096
+
+E1624,"Престиж Сингапур Отель & Резорт Deluxe","Alanya, Kemeragzi Mevkii",35.1828,33.3504
+
+E1625,"Blue Lagoon Suites 367","Bahamas",24.5586,-77.0085
+
+E1626,"Sultan Belek Resort","Kemer, Sahil Cad.",41.1201,28.9502
+
+E1627,"Сплэндид Нью Йорк Хэвен","Side, Uzunyali Cad.",35.1891,33.4051
+
+E1628,"Regal Kundu Suites","Antalya, Sahil Cad.",51.534,-0.1779
+
+E1629,"Престиж Нью Йорк Отель & Резорт SPA","Alanya, Sahil Cad.",37.9397,23.6494
+
+E1630,"Blue Lagoon Suites 578","Dominican Republic",19.2035,-70.6483
+
+E1631,"Prestige Singapore Beach Resort","Lara, Uzunyali Cad.",36.8458,30.709
+
+E1632,"Гранд Анталья Пэрэдайс","Kundu, Uzunyali Cad.",36.1747,29.6015
+
+E1633,"Platinum Alanya Resort","Belek, Merkez Mah.",25.2356,55.2387
+
+E1634,"Делюкс Дубай Виллы Deluxe","Kundu, Merkez Mah.",37.9953,23.6846
+
+E1635,"Sunset Beach Hotel 61","Caribbean",18.9188,-76.6557
+
+E1636,"Golden Hurghada Resort & Spa","Antalya, Sahil Cad.",39.5779,2.6283
+
+E1637,"Гранд Токио Пэрэдайс","Belek, Uzunyali Cad.",35.1472,33.3503
+
+E1638,"Classic Istanbul Suites","Alanya, Kemeragzi Mevkii",35.2023,33.3423
+
+E1639,"Делюкс Фетхие Пэрэдайс Отель","Lara, Sahil Cad.",25.6295,-80.218
+
+E1640,"Ocean View Club 388","Bahamas",24.7232,-77.411
+
+E1641,"Prime London Palace","Side, Turizm Bulv.",41.9377,12.5186
+
+E1642,"Элит Бельдиби Гарден","Beldibi, Uzunyali Cad.",13.683,100.54
+
+E1643,"Elite Fethiye Wellness Hotel","Kemer, Uzunyali Cad.",28.5083,34.5129
+
+E1644,"Супериор Кунду Ретрит Deluxe","Belek, Sahil Cad.",13.6452,100.4909
+
+E1645,"Paradise Bay Resort 359","Cuba",21.0114,-78.7903
+
+E1646,"Luxury Singapore Suites","Side, Merkez Mah.",36.889,30.6462
+
+E1647,"Краун Лара Пэрэдайс","Kundu, Kemeragzi Mevkii",51.4915,-0.1782
+
+E1648,"Exclusive London Club","Kundu, Kemeragzi Mevkii",22.2412,114.1674
+
+E1649,"Султан Барселона Отель & Резорт SPA","Kundu, Uzunyali Cad.",13.7463,100.5484
+
+E1650,"Paradise Bay Resort 351","Dominican Republic",18.8187,-70.0483
+
+E1651,"Prestige Hurghada Resort & Spa","Lara, Kemeragzi Mevkii",35.1498,33.3611
+
+E1652,"Роял Мармарис Клуб","Belek, Turizm Bulv.",33.8833,35.5866
+
+E1653,"Exclusive Marmaris Palace","Kundu, Merkez Mah.",42.7035,23.3044
+
+E1654,"Прайм Бодрум Пэрэдайс 5*","Beldibi, Sahil Cad.",51.5445,-0.1207
+
+E1655,"Paradise Bay Resort 51","Bahamas",25.1606,-77.7026
+
+E1656,"Sultan Bali Resort & Spa","Beldibi, Uzunyali Cad.",1.3454,103.7701
+
+E1657,"Султан Токио Резорт","Antalya, Turizm Bulv.",51.5224,-0.0825
+
+E1658,"Splendid Belek Hotel & Hotel","Kundu, Sahil Cad.",36.1191,29.5367
+
+E1659,"Роял Лара Палас Отель","Side, Merkez Mah.",13.6582,100.4499
+
+E1660,"Blue Lagoon Suites 397","Cuba",21.8949,-78.735
+
+E1661,"Superior Antalya Wellness Resort","Lara, Turizm Bulv.",25.1836,55.3144
+
+E1662,"Сплэндид Сиде Палас","Kundu, Merkez Mah.",36.1232,29.6041
+
+E1663,"Deluxe Bali Suites","Kemer, Turizm Bulv.",25.7287,-80.236
+
+E1664,"Люкс Дубай Хэвен Deluxe","Belek, Merkez Mah.",22.32,114.1844
+
+E1665,"Coral Reef Resort 989","Dominican Republic",19.3408,-70.1816
+
+E1666,"Royal Rome Heaven","Kundu, Uzunyali Cad.",13.6672,100.5056
+
+E1667,"Краун Сидней Хэвен","Belek, Kemeragzi Mevkii",48.8965,2.3954
+
+E1668,"Golden Paris Palace","Lara, Merkez Mah.",36.8609,31.0274
+
+E1669,"Элит Нью Йорк Палас SPA","Kemer, Sahil Cad.",41.912,12.5085
+
+E1670,"Paradise Bay Resort 90","Caribbean",18.8341,-77.2421
+
+E1671,"Luxury Rome Oasis","Beldibi, Uzunyali Cad.",38.0035,23.6715
+
+E1672,"Краун Сиде Палас","Side, Uzunyali Cad.",39.6044,2.6925
+
+E1673,"Regal Bali Palace","Beldibi, Merkez Mah.",35.2396,33.4534
+
+E1674,"Люкс Бодрум Отель & Резорт 5*","Belek, Merkez Mah.",48.822,2.3405
+
+E1675,"Blue Lagoon Suites 485","Bahamas",24.883,-77.5144
+
+E1676,"Exclusive Lara Beach Resort","Antalya, Sahil Cad.",37.9995,23.7069
+
+E1677,"Сплэндид Барселона Отель & Спа","Beldibi, Merkez Mah.",42.7211,23.2559
+
+E1678,"Grand Cancun Palace","Kemer, Merkez Mah.",27.0646,33.8744
+
+E1679,"Супериор Париж Вэлнесс Резорт Deluxe","Antalya, Turizm Bulv.",41.0415,29.0083
+
+E1680,"Sunset Beach Hotel 276","Caribbean",18.3005,-76.7563
+
+E1681,"Luxury Lara Beach Resort","Beldibi, Uzunyali Cad.",35.2483,33.4134
+
+E1682,"Прайм Бали Оазис","Kemer, Kemeragzi Mevkii",13.7589,100.5167
+
+E1683,"Deluxe Sharm El Sheikh Suites","Alanya, Merkez Mah.",36.9297,30.6927
+
+E1684,"Платинум Пунта Кана Оазис 5*","Beldibi, Sahil Cad.",22.2644,114.1855
+
+E1685,"Sunset Beach Hotel 722","Caribbean",18.0331,-77.4494
+
+E1686,"Grand Bali Resort & Spa","Kemer, Turizm Bulv.",19.4485,-99.1463
+
+E1687,"Классик Гоа Бич Резорт","Beldibi, Merkez Mah.",18.5317,73.8634
+
+E1688,"Platinum Santorini Palace","Kundu, Uzunyali Cad.",22.2401,114.1221
+
+E1689,"Голден Гоа Виллы SPA","Alanya, Turizm Bulv.",42.6721,23.2394
+
+E1690,"Blue Lagoon Suites 799","Dominican Republic",18.8866,-70.8371
+
+E1691,"Imperial Rome Club","Kemer, Sahil Cad.",37.9909,23.6743
+
+E1692,"Эксклюзив Мармарис Резиденс","Side, Kemeragzi Mevkii",37.9622,23.7227
+
+E1693,"Crown Kemer Beach Resort","Antalya, Kemeragzi Mevkii",39.5964,2.6735
+
+E1694,"Делюкс Дубай Ретрит Deluxe","Antalya, Sahil Cad.",19.4155,-99.1188
+
+E1695,"Ocean View Club 478","Cuba",21.8516,-78.541
+
+E1696,"Grand Cancun Hotel","Side, Uzunyali Cad.",18.5057,73.8062
+
+E1697,"Роял Белек Ретрит","Belek, Merkez Mah.",41.0561,28.9336
+
+E1698,"Majestic London Suites","Alanya, Uzunyali Cad.",33.9835,35.4845
+
+E1699,"Делюкс Хургада Пэрэдайс 5*","Belek, Kemeragzi Mevkii",26.4593,34.0244
+
+E1700,"Sunset Beach Hotel 193","Bahamas",25.1561,-77.0478
+
+E1701,"Imperial Bangkok Hotel & Spa","Lara, Uzunyali Cad.",36.9049,31.0825
+
+E1702,"Палас Сидней Вэлнесс Резорт","Beldibi, Turizm Bulv.",42.7419,23.3088
+
+E1703,"Majestic Belek Club","Kundu, Turizm Bulv.",18.5282,73.8588
+
+E1704,"Супериор Белек Виллы SPA","Antalya, Uzunyali Cad.",37.97,23.7068
+
+E1705,"Blue Lagoon Suites 186","Bahamas",25.3454,-77.1594
+
+E1706,"Deluxe Hurghada Palace","Side, Merkez Mah.",1.372,103.8566
+
+E1707,"Маджестик Канкун Хэвен","Lara, Turizm Bulv.",36.1525,29.5444
+
+E1708,"Grand Side Palace","Kemer, Turizm Bulv.",37.9502,23.7601
+
+E1709,"Сплэндид Париж Вэлнесс Резорт Deluxe","Side, Uzunyali Cad.",37.9354,23.7668
+
+E1710,"Paradise Bay Resort 889","Dominican Republic",18.9722,-70.8055
+
+E1711,"Platinum London Lounge","Beldibi, Uzunyali Cad.",26.4972,33.9597
+
+E1712,"Люкс Бали Резорт & Спа","Lara, Sahil Cad.",27.0169,33.8334
+
+E1713,"Elite Kundu Resort & Club","Kundu, Sahil Cad.",22.2735,114.205
+
+E1714,"Роял Аланья Лаунж Deluxe","Belek, Kemeragzi Mevkii",38.0126,23.709
+
+E1715,"Ocean View Club 591","Cuba",21.2735,-78.2388
+
+E1716,"Superior Sydney Resort & Spa","Lara, Kemeragzi Mevkii",41.0462,28.9199
+
+E1717,"Империал Белек Отель & Резорт","Lara, Uzunyali Cad.",36.8827,31.0002
+
+E1718,"Regal Paris Palace","Beldibi, Kemeragzi Mevkii",25.6739,-80.2911
+
+E1719,"Делюкс Нью Йорк Оазис Deluxe","Alanya, Merkez Mah.",42.6884,23.2564
+
+E1720,"Sunset Beach Hotel 133","Caribbean",18.2263,-76.623
+
+E1721,"Elite Miami Wellness Resort","Belek, Kemeragzi Mevkii",36.9536,30.752
+
+E1722,"Супериор Пхукет Виллы","Belek, Merkez Mah.",26.5505,33.9637
+
+E1723,"Majestic Rome Resort","Alanya, Kemeragzi Mevkii",13.6576,100.501
+
+E1724,"Краун Фетхие Бич Резорт SPA","Alanya, Sahil Cad.",38.0282,23.7241
+
+E1725,"Ocean View Club 752","Caribbean",18.2243,-76.5151
+
+E1726,"Majestic Paris Resort & Spa","Antalya, Uzunyali Cad.",36.1399,29.5908
+
+E1727,"Роял Фетхие Палас","Antalya, Kemeragzi Mevkii",26.5618,33.9436
+
+E1728,"Prestige Rome Hotel","Antalya, Uzunyali Cad.",42.6842,23.2867
+
+E1729,"Голден Мальдивы Пэрэдайс 5*","Antalya, Merkez Mah.",33.9865,35.5199
+
+E1730,"Paradise Bay Resort 309","Caribbean",18.2055,-76.8143
+
+E1731,"Palace Marmaris Retreat","Beldibi, Merkez Mah.",40.3768,-3.6875
+
+E1732,"Эксклюзив Нью Йорк Резорт","Lara, Kemeragzi Mevkii",40.3749,-3.6789
+
+E1733,"Elite Sharm El Sheikh Hotel","Belek, Turizm Bulv.",27.0453,33.9027
+
+E1734,"Прайм Мармарис Лаунж SPA","Kemer, Turizm Bulv.",36.8687,31.0603
+
+E1735,"Coral Reef Resort 339","Cuba",21.9104,-78.3118
+
+E1736,"Sultan Bodrum Lounge","Kemer, Merkez Mah.",36.1078,29.6255
+
+E1737,"Роял Кемер Клуб","Belek, Uzunyali Cad.",42.7281,23.3283
+
+E1738,"Sultan Santorini Wellness Hotel","Belek, Uzunyali Cad.",51.4633,-0.1131
+
+E1739,"Люкс Барселона Сьютс Отель","Side, Sahil Cad.",22.2645,114.1736
+
+E1740,"Sunset Beach Hotel 369","Dominican Republic",19.3132,-70.1259
+
+E1741,"Premium Beldibi Club","Alanya, Kemeragzi Mevkii",42.7152,23.2947
+
+E1742,"Роял Бангкок Резорт & Спа","Antalya, Merkez Mah.",35.1742,33.3627
+
+E1743,"Prime Cancun Club","Lara, Turizm Bulv.",26.5462,34.0068
+
+E1744,"Палас Santorini Палас Deluxe","Side, Merkez Mah.",26.5288,33.9686
+
+E1745,"Coral Reef Resort 820","Cuba",21.2718,-78.6143
+
+E1746,"Splendid Fethiye Lounge","Beldibi, Sahil Cad.",42.7512,23.263
+
+E1747,"Прайм Кунду Клуб","Antalya, Sahil Cad.",51.4557,-0.1764
+
+E1748,"Elite Marmaris Palace","Kundu, Uzunyali Cad.",25.1588,55.2689
+
+E1749,"Классик Сингапур Клуб 5*","Alanya, Uzunyali Cad.",25.7374,-80.2945
+
+E1750,"Paradise Bay Resort 65","Cuba",21.1129,-78.5887
+
+E1751,"Prestige Singapore Residence","Side, Turizm Bulv.",25.6775,-80.2079
+
+E1752,"Сплэндид Кемер Отель & Спа","Kemer, Turizm Bulv.",36.1697,29.6115
+
+E1753,"Regal Marmaris Resort","Belek, Kemeragzi Mevkii",42.6931,23.2579
+
+E1754,"Гранд Барселона Хэвен 5*","Beldibi, Sahil Cad.",36.8752,31.0254
+
+E1755,"Ocean View Club 339","Caribbean",18.0749,-77.0084
+
+E1756,"Majestic Paris Suites","Side, Merkez Mah.",27.0275,33.8993
+
+E1757,"Прайм Лондон Оазис","Beldibi, Kemeragzi Mevkii",39.5939,2.627
+
+E1758,"Elite Bangkok Hotel & Palace","Kundu, Uzunyali Cad.",1.3181,103.852
+
+E1759,"Делюкс Кунду Вэлнесс Резорт Отель","Alanya, Merkez Mah.",51.505,-0.166
+
+E1760,"Paradise Bay Resort 811","Dominican Republic",19.0571,-70.9998
+
+E1761,"Palace Sharm El Sheikh Paradise","Side, Uzunyali Cad.",27.066,33.9057
+
+E1762,"Элит Бельдиби Резорт & Спа","Kundu, Turizm Bulv.",39.5623,2.6692
+
+E1763,"Imperial Paris Hotel & Club","Kemer, Kemeragzi Mevkii",18.5275,73.9022
+
+E1764,"Маджестик Сингапур Клуб Отель","Kundu, Turizm Bulv.",41.8522,12.4964
+
+E1765,"Sunset Beach Hotel 561","Bahamas",24.8551,-77.3663
+
+E1766,"Royal Sydney Suites","Alanya, Merkez Mah.",26.4623,33.9912
+
+E1767,"Сплэндид Бали Палас","Lara, Kemeragzi Mevkii",36.1884,29.5221
+
+E1768,"Majestic Side Hotel & Palace","Kemer, Merkez Mah.",36.8768,30.723
+
+E1769,"Краун Пхукет Ретрит 5*","Kemer, Turizm Bulv.",33.9053,35.5282
+
+E1770,"Ocean View Club 987","Cuba",21.6585,-78.0438
+
+E1771,"Sultan Lara Club","Kundu, Merkez Mah.",33.895,35.5558
+
+E1772,"Маджестик Шарм El Шейх Отель & Резорт","Beldibi, Uzunyali Cad.",1.3394,103.7646
+
+E1773,"Premium Sydney Resort","Lara, Uzunyali Cad.",36.0823,29.6143
+
+E1774,"Маджестик Дубай Резиденс Deluxe","Beldibi, Uzunyali Cad.",13.6725,100.5566
+
+E1775,"Coral Reef Resort 825","Cuba",21.9636,-78.0295
+
+E1776,"Deluxe Dubai Wellness Resort","Lara, Sahil Cad.",36.862,31.0165
+
+E1777,"Престиж Лара Отель & Спа","Side, Uzunyali Cad.",41.9202,12.4852
+
+E1778,"Prestige Belek Resort","Kemer, Sahil Cad.",26.4682,34.0339
+
+E1779,"Платинум Мармарис Клуб SPA","Alanya, Sahil Cad.",36.0893,29.5353
+
+E1780,"Coral Reef Resort 691","Bahamas",25.0623,-77.4172
+
+E1781,"Grand Hurghada Suites","Side, Kemeragzi Mevkii",19.405,-99.1455
+
+E1782,"Эксклюзив Анталья Вэлнесс Резорт","Antalya, Kemeragzi Mevkii",51.5182,-0.1489
+
+E1783,"Imperial Miami Resort","Kemer, Turizm Bulv.",1.4074,103.7886
+
+E1784,"Империал Фетхие Лаунж Deluxe","Lara, Merkez Mah.",48.8372,2.3097
+
+E1785,"Blue Lagoon Suites 886","Dominican Republic",19.1161,-70.3245
+
+E1786,"Luxury Phuket Beach Resort","Kemer, Uzunyali Cad.",26.4959,33.9854
+
+E1787,"Голден Кемер Резорт & Спа","Side, Merkez Mah.",41.949,12.4817
+
+E1788,"Crown Bodrum Hotel","Alanya, Uzunyali Cad.",1.339,103.8108
+
+E1789,"Платинум Стамбул Вэлнесс Резорт Deluxe","Kundu, Sahil Cad.",27.0119,33.8815
+
+E1790,"Paradise Bay Resort 192","Bahamas",24.9488,-77.0165
+
+E1791,"Grand Maldives Hotel & Resort","Lara, Uzunyali Cad.",36.1491,29.5807
+
+E1792,"Роял Хургада Отель","Side, Uzunyali Cad.",18.5025,73.8969
+
+E1793,"Royal Hurghada Hotel & Club","Side, Merkez Mah.",41.14,28.9526
+
+E1794,"Классик Бангкок Резорт & Спа Deluxe","Antalya, Sahil Cad.",48.7977,2.3327
+
+E1795,"Blue Lagoon Suites 226","Bahamas",24.5729,-77.2923
+
+E1796,"Exclusive Cancun Resort & Spa","Lara, Uzunyali Cad.",41.0462,29.0326
+
+E1797,"Роял Париж Отель & Спа","Beldibi, Uzunyali Cad.",33.9922,35.5077
+
+E1798,"Splendid Maldives Club","Kemer, Sahil Cad.",40.975,28.9506
+
+E1799,"Краун Анталья Резиденс 5*","Kundu, Uzunyali Cad.",22.2452,114.1272
+
+E1800,"Sunset Beach Hotel 391","Caribbean",18.9589,-76.8174
+
+E1801,"Prestige Alanya Hotel & Resort","Belek, Kemeragzi Mevkii",40.4537,-3.6481
+
+E1802,"Султан Мармарис Пэрэдайс","Antalya, Uzunyali Cad.",41.0964,29.0364
+
+E1803,"Royal Alanya Resort & Hotel","Kundu, Kemeragzi Mevkii",39.6442,2.6678
+
+E1804,"Империал Бельдиби Отель 5*","Alanya, Uzunyali Cad.",41.9328,12.5418
+
+E1805,"Coral Reef Resort 856","Caribbean",18.6703,-76.7264
+
+E1806,"Premium Punta Cana Garden","Belek, Sahil Cad.",51.5314,-0.0754
+
+E1807,"Маджестик Бали Оазис","Beldibi, Merkez Mah.",37.9701,23.7531
+
+E1808,"Prestige Maldives Hotel & Hotel","Kundu, Turizm Bulv.",33.9452,35.4895
+
+E1809,"Краун Дубай Вэлнесс Резорт 5*","Side, Uzunyali Cad.",19.3753,-99.1453
+
+E1810,"Sunset Beach Hotel 18","Cuba",21.4511,-78.5956
+
+E1811,"Premium Maldives Lounge","Beldibi, Merkez Mah.",41.9246,12.4866
+
+E1812,"Эксклюзив Лондон Ретрит","Belek, Uzunyali Cad.",41.8628,12.5333
+
+E1813,"Golden Fethiye Hotel & Hotel","Alanya, Uzunyali Cad.",36.8078,31.0985
+
+E1814,"Гранд Аланья Резиденс Отель","Belek, Turizm Bulv.",51.4911,-0.1208
+
+E1815,"Coral Reef Resort 816","Caribbean",18.5335,-77.3636
+
+E1816,"Majestic Miami Garden","Side, Sahil Cad.",18.4819,73.8142
+
+E1817,"Престиж Пунта Кана Отель & Резорт","Alanya, Merkez Mah.",41.1243,28.9461
+
+E1818,"Premium Lara Hotel","Belek, Merkez Mah.",1.3125,103.8161
+
+E1819,"Палас Париж Сьютс SPA","Belek, Turizm Bulv.",22.3377,114.1237
+
+E1820,"Ocean View Club 165","Cuba",21.9056,-78.1485
+
+E1821,"Prestige Side Garden","Lara, Sahil Cad.",36.8464,31.0727
+
+E1822,"Краун Бангкок Сьютс","Belek, Sahil Cad.",22.2589,114.1632
+
+E1823,"Exclusive New York Hotel & Palace","Antalya, Uzunyali Cad.",13.6907,100.4443
+
+E1824,"Роял Santorini Виллы 5*","Belek, Turizm Bulv.",39.6303,2.6257
+
+E1825,"Sunset Beach Hotel 635","Caribbean",18.6713,-77.2655
+
+E1826,"Palace Bangkok Resort","Belek, Sahil Cad.",48.8321,2.3629
+
+E1827,"Роял Аланья Гарден","Side, Uzunyali Cad.",36.8892,30.6805
+
+E1828,"Splendid Cancun Resort","Alanya, Kemeragzi Mevkii",13.6975,100.4506
+
+E1829,"Роял Канкун Палас Deluxe","Kemer, Kemeragzi Mevkii",36.9551,30.6942
+
+E1830,"Coral Reef Resort 565","Cuba",21.4454,-78.2252
+
+E1831,"Splendid Barcelona Wellness Resort","Belek, Sahil Cad.",19.3806,-99.1156
+
+E1832,"Эксклюзив Майами Отель & Резорт","Side, Sahil Cad.",19.485,-99.0975
+
+E1833,"Luxury Bali Hotel","Belek, Merkez Mah.",22.2426,114.2247
+
+E1834,"Султан Пхукет Резиденс SPA","Beldibi, Uzunyali Cad.",13.7023,100.4902
+
+E1835,"Blue Lagoon Suites 751","Bahamas",24.8925,-77.1086
+
+E1836,"Platinum Barcelona Paradise","Side, Sahil Cad.",35.2493,33.4111
+
+E1837,"Роял Пунта Кана Гарден","Beldibi, Turizm Bulv.",27.081,33.9167
+
+E1838,"Superior Maldives Resort & Resort","Lara, Uzunyali Cad.",36.8907,31.0983
+
+E1839,"Платинум Фетхие Клуб Deluxe","Lara, Kemeragzi Mevkii",18.4788,73.8407
+
+E1840,"Ocean View Club 531","Bahamas",24.8694,-77.9572
+
+E1841,"Premium Barcelona Retreat","Alanya, Kemeragzi Mevkii",28.4778,34.5051
+
+E1842,"Краун Париж Резорт & Спа","Antalya, Merkez Mah.",41.0792,28.9488
+
+E1843,"Royal Paris Suites","Side, Turizm Bulv.",36.9333,30.6754
+
+E1844,"Платинум Пхукет Отель & Спа 5*","Beldibi, Turizm Bulv.",27.0179,33.822
+
+E1845,"Coral Reef Resort 812","Cuba",21.3529,-78.1323
+
+E1846,"Luxury Beldibi Club","Kundu, Uzunyali Cad.",35.2374,33.3966
+
+E1847,"Роял Шарм El Шейх Сьютс","Kundu, Sahil Cad.",36.9027,30.6605
+
+E1848,"Luxury Sydney Resort","Side, Sahil Cad.",35.1682,33.4004
+
+E1849,"Палас Лара Оазис Отель","Belek, Sahil Cad.",40.4334,-3.6945
+
+E1850,"Coral Reef Resort 23","Cuba",21.2107,-78.8388
+
+E1851,"Regal Side Garden","Kemer, Merkez Mah.",28.5185,34.4661
+
+E1852,"Роял Сиде Отель & Спа","Lara, Uzunyali Cad.",40.9673,28.9853
+
+E1853,"Deluxe Antalya Club","Antalya, Sahil Cad.",36.9528,30.654
+
+E1854,"Люкс Фетхие Резорт 5*","Beldibi, Uzunyali Cad.",19.4031,-99.1251
+
+E1855,"Coral Reef Resort 175","Caribbean",18.4492,-76.5072
+
+E1856,"Golden Belek Beach Resort","Kemer, Kemeragzi Mevkii",13.7179,100.4876
+
+E1857,"Маджестик Париж Резорт","Lara, Uzunyali Cad.",36.8163,31.0949
+
+E1858,"Prime Dubai Suites","Alanya, Kemeragzi Mevkii",36.1311,29.5853
+
+E1859,"Сплэндид Пунта Кана Бич Резорт 5*","Beldibi, Sahil Cad.",38.022,23.7698
+
+E1860,"Blue Lagoon Suites 40","Dominican Republic",18.6774,-70.0984
+
+E1861,"Grand Beldibi Garden","Belek, Merkez Mah.",22.3161,114.1912
+
+E1862,"Султан Майами Клуб","Antalya, Kemeragzi Mevkii",41.151,28.9994
+
+E1863,"Palace Belek Hotel & Palace","Antalya, Uzunyali Cad.",37.9711,23.6761
+
+E1864,"Маджестик Фетхие Ретрит 5*","Beldibi, Turizm Bulv.",18.4895,73.8178
+
+E1865,"Sunset Beach Hotel 194","Bahamas",25.0983,-77.4563
+
+E1866,"Golden Singapore Wellness Resort","Antalya, Merkez Mah.",18.5164,73.8803
+
+E1867,"Супериор Кунду Оазис","Antalya, Kemeragzi Mevkii",38.0272,23.6444
+
+E1868,"Platinum Maldives Beach Club","Alanya, Kemeragzi Mevkii",41.8884,12.4685
+
+E1869,"Маджестик Пунта Кана Вэлнесс Резорт Отель","Side, Turizm Bulv.",1.3313,103.8009
+
+E1870,"Ocean View Club 380","Cuba",21.5521,-78.4424
+
+E1871,"Prime Kemer Oasis","Kundu, Turizm Bulv.",25.6551,-80.2117
+
+E1872,"Супериор Мармарис Палас","Beldibi, Sahil Cad.",48.799,2.3097
+
+E1873,"Platinum Sydney Resort","Kemer, Kemeragzi Mevkii",27.0393,33.867
+
+E1874,"Гранд Сидней Резиденс 5*","Alanya, Uzunyali Cad.",25.7034,-80.2034
+
+E1875,"Paradise Bay Resort 66","Caribbean",18.4717,-76.8998
+
+E1876,"Prime London Suites","Side, Sahil Cad.",40.3964,-3.6608
+
+E1877,"Палас Гоа Отель & Спа","Beldibi, Kemeragzi Mevkii",22.3313,114.1771
+
+E1878,"Deluxe Sydney Palace","Antalya, Sahil Cad.",36.9151,30.6808
+
+E1879,"Классик Стамбул Бич Резорт 5*","Side, Sahil Cad.",26.5595,34.0074
+
+E1880,"Paradise Bay Resort 162","Caribbean",18.674,-77.1403
+
+E1881,"Elite London Palace","Belek, Turizm Bulv.",40.3716,-3.7495
+
+E1882,"Роял Аланья Отель","Beldibi, Kemeragzi Mevkii",25.6635,-80.2875
+
+E1883,"Deluxe Beldibi Suites","Belek, Merkez Mah.",28.4908,34.474
+
+E1884,"Роял Нью Йорк Оазис Deluxe","Alanya, Turizm Bulv.",36.1763,29.5552
+
+E1885,"Paradise Bay Resort 573","Dominican Republic",18.7611,-70.5929
+
+E1886,"Grand Punta Cana Retreat","Belek, Uzunyali Cad.",26.4449,33.964
+
+E1887,"Престиж Пхукет Лаунж","Side, Uzunyali Cad.",42.745,23.3393
+
+E1888,"Deluxe Miami Suites","Kundu, Kemeragzi Mevkii",36.9041,30.6928
+
+E1889,"Палас Кунду Резиденс Отель","Alanya, Kemeragzi Mevkii",28.5556,34.5142
+
+E1890,"Ocean View Club 694","Bahamas",24.5676,-77.3663
+
+E1891,"Premium Phuket Resort","Kemer, Turizm Bulv.",51.4658,-0.1513
+
+E1892,"Элит Гоа Лаунж","Antalya, Turizm Bulv.",37.9808,23.7851
+
+E1893,"Sultan Cancun Suites","Alanya, Merkez Mah.",26.4797,33.9554
+
+E1894,"Супериор Нью Йорк Клуб Deluxe","Alanya, Sahil Cad.",19.4751,-99.1117
+
+E1895,"Sunset Beach Hotel 212","Caribbean",18.2349,-77.2579
+
+E1896,"Deluxe Sharm El Sheikh Wellness Resort","Kemer, Sahil Cad.",13.6747,100.5206
+
+E1897,"Роял Белек Пэрэдайс","Alanya, Sahil Cad.",1.4068,103.8686
+
+E1898,"Grand London Hotel & Suites","Belek, Kemeragzi Mevkii",27.0056,33.8476
+
+E1899,"Прайм Сидней Резиденс Deluxe","Antalya, Kemeragzi Mevkii",13.6578,100.4762
+
+E1900,"Sunset Beach Hotel 408","Caribbean",18.9844,-76.584
+
+E1901,"Prime Side Palace","Kemer, Uzunyali Cad.",22.3158,114.1785
+
+E1902,"Люкс Хургада Ретрит","Beldibi, Kemeragzi Mevkii",41.0169,28.9683
+
+E1903,"Golden Maldives Resort","Alanya, Kemeragzi Mevkii",42.7051,23.3099
+
+E1904,"Премиум Лара Сьютс 5*","Kundu, Turizm Bulv.",26.4804,33.9647
+
+E1905,"Blue Lagoon Suites 270","Bahamas",25.1128,-77.7403
+
+E1906,"Premium Rome Suites","Kemer, Turizm Bulv.",37.9822,23.6782
+
+E1907,"Маджестик Аланья Отель & Спа","Alanya, Sahil Cad.",36.1954,29.5331
+
+E1908,"Deluxe Belek Palace","Alanya, Turizm Bulv.",19.4783,-99.1611
+
+E1909,"Делюкс Лондон Палас SPA","Lara, Uzunyali Cad.",41.8924,12.5459
+
+E1910,"Ocean View Club 485","Cuba",21.8563,-78.8039
+
+E1911,"Prestige Lara Suites","Antalya, Sahil Cad.",36.8941,30.6683
+
+E1912,"Эксклюзив Анталья Отель","Alanya, Kemeragzi Mevkii",36.0841,29.6005
+
+E1913,"Sultan Tokyo Wellness Hotel","Antalya, Kemeragzi Mevkii",41.9073,12.5141
+
+E1914,"Сплэндид Фетхие Пэрэдайс 5*","Side, Kemeragzi Mevkii",42.7128,23.2891
+
+E1915,"Sunset Beach Hotel 889","Bahamas",24.8441,-77.5882
+
+E1916,"Luxury Marmaris Heaven","Kemer, Uzunyali Cad.",36.9,31.0461
+
+E1917,"Люкс Кунду Резорт","Lara, Turizm Bulv.",22.2566,114.168
+
+E1918,"Deluxe Tokyo Hotel","Kundu, Kemeragzi Mevkii",40.9512,28.9425
+
+E1919,"Престиж Бангкок Бич Резорт Deluxe","Lara, Sahil Cad.",22.2831,114.1469
+
+E1920,"Sunset Beach Hotel 669","Dominican Republic",18.662,-70.7718
+
+E1921,"Grand Maldives Resort","Side, Turizm Bulv.",51.5438,-0.0727
+
+E1922,"Палас Анталья Отель","Kundu, Turizm Bulv.",36.8721,30.6555
+
+E1923,"Prime Marmaris Resort","Kundu, Kemeragzi Mevkii",41.0127,28.9842
+
+E1924,"Премиум Лара Бич Резорт 5*","Kemer, Turizm Bulv.",42.7475,23.2907
+
+E1925,"Coral Reef Resort 537","Cuba",21.5484,-78.9736
+
+E1926,"Premium Marmaris Garden","Belek, Merkez Mah.",51.529,-0.1205
+
+E1927,"Маджестик Нью Йорк Лаунж","Beldibi, Turizm Bulv.",22.3089,114.112
+
+E1928,"Platinum Hurghada Resort","Kundu, Sahil Cad.",27.009,33.8474
+
+E1929,"Маджестик Дубай Гарден Deluxe","Antalya, Turizm Bulv.",40.4439,-3.6678
+
+E1930,"Blue Lagoon Suites 182","Cuba",21.1351,-78.0515
+
+E1931,"Classic Maldives Garden","Kundu, Uzunyali Cad.",51.4784,-0.0791
+
+E1932,"Прайм Барселона Лаунж","Side, Turizm Bulv.",38.0211,23.6452
+
+E1933,"Luxury Belek Club","Belek, Kemeragzi Mevkii",18.4634,73.8872
+
+E1934,"Делюкс Канкун Резорт 5*","Side, Merkez Mah.",22.2667,114.1612
+
+E1935,"Coral Reef Resort 970","Bahamas",24.9692,-77.9917
+
+E1936,"Regal Santorini Oasis","Kundu, Turizm Bulv.",33.906,35.5715
+
+E1937,"Эксклюзив Хургада Палас","Side, Uzunyali Cad.",13.6561,100.4858
+
+E1938,"Majestic Goa Palace","Alanya, Sahil Cad.",22.3148,114.2264
+
+E1939,"Краун Кунду Виллы Отель","Kemer, Sahil Cad.",26.4701,34.0207
+
+E1940,"Blue Lagoon Suites 827","Caribbean",18.5166,-76.7
+
+E1941,"Prestige Kemer Club","Side, Turizm Bulv.",36.9096,31.1022
+
+E1942,"Элит Лондон Резорт","Side, Kemeragzi Mevkii",28.5141,34.5347
+
+E1943,"Golden Barcelona Hotel","Lara, Turizm Bulv.",37.9861,23.7484
+
+E1944,"Империал Сиде Отель Отель","Side, Uzunyali Cad.",36.9525,30.6779
+
+E1945,"Sunset Beach Hotel 129","Dominican Republic",18.6859,-70.8977
+
+E1946,"Prestige Cancun Hotel","Kundu, Merkez Mah.",1.3308,103.8286
+
+E1947,"Роял Пхукет Резиденс","Kundu, Sahil Cad.",39.5925,2.5989
+
+E1948,"Majestic Bodrum Palace","Kundu, Turizm Bulv.",13.6623,100.4893
+
+E1949,"Голден Гоа Отель 5*","Belek, Sahil Cad.",36.1655,29.6218
+
+E1950,"Coral Reef Resort 849","Caribbean",18.8957,-77.2499
+
+E1951,"Elite Bali Resort","Antalya, Merkez Mah.",36.8558,31.0711
+
+E1952,"Делюкс Барселона Гарден","Beldibi, Kemeragzi Mevkii",26.4686,34.0029
+
+E1953,"Splendid Tokyo Hotel","Kemer, Kemeragzi Mevkii",28.4576,34.544
+
+E1954,"Палас Сидней Виллы Deluxe","Kundu, Kemeragzi Mevkii",26.4451,34.0177
+
+E1955,"Ocean View Club 370","Dominican Republic",18.7533,-70.3615
+
+E1956,"Classic Kemer Club","Antalya, Sahil Cad.",36.8878,31.0471
+
+E1957,"Классик Дубай Пэрэдайс","Beldibi, Turizm Bulv.",25.2226,55.2455
+
+E1958,"Grand Barcelona Resort","Belek, Kemeragzi Mevkii",41.9354,12.4528
+
+E1959,"Прайм Бельдиби Клуб SPA","Kundu, Uzunyali Cad.",41.8791,12.5506
+
+E1960,"Paradise Bay Resort 62","Dominican Republic",19.1859,-70.6616
+
+E1961,"Sultan Alanya Retreat","Alanya, Sahil Cad.",40.4196,-3.6517
+
+E1962,"Прайм Гоа Хэвен","Lara, Kemeragzi Mevkii",41.1518,29.0146
+
+E1963,"Splendid Istanbul Hotel & Resort","Alanya, Kemeragzi Mevkii",51.4602,-0.1126
+
+E1964,"Делюкс Лондон Отель & Резорт 5*","Lara, Turizm Bulv.",1.3596,103.8073
+
+E1965,"Sunset Beach Hotel 332","Cuba",21.1898,-78.8134
+
+E1966,"Sultan Beldibi Resort & Spa","Kundu, Turizm Bulv.",18.4785,73.8515
+
+E1967,"Краун Сиде Сьютс","Lara, Merkez Mah.",33.993,35.4869
+
+E1968,"Royal Goa Club","Side, Uzunyali Cad.",25.1511,55.3166
+
+E1969,"Маджестик Анталья Резорт & Спа 5*","Beldibi, Sahil Cad.",28.5096,34.4748
+
+E1970,"Coral Reef Resort 195","Dominican Republic",19.1583,-70.461
+
+E1971,"Grand Goa Suites","Kundu, Uzunyali Cad.",36.8828,31.0974
+
+E1972,"Элит Стамбул Резорт","Beldibi, Turizm Bulv.",39.5562,2.6644
+
+E1973,"Premium Bangkok Resort","Belek, Merkez Mah.",37.9777,23.6805
+
+E1974,"Гранд Лара Резиденс SPA","Belek, Kemeragzi Mevkii",19.4274,-99.1657
+
+E1975,"Paradise Bay Resort 14","Bahamas",24.5491,-77.7793
+
+E1976,"Luxury Maldives Hotel & Spa","Kemer, Kemeragzi Mevkii",41.9475,12.5392
+
+E1977,"Престиж Дубай Ретрит","Kundu, Merkez Mah.",36.1774,29.5338
+
+E1978,"Deluxe New York Hotel","Beldibi, Turizm Bulv.",51.5471,-0.088
+
+E1979,"Классик Стамбул Отель & Спа Deluxe","Antalya, Merkez Mah.",41.04,29.0207
+
+E1980,"Blue Lagoon Suites 673","Caribbean",18.5317,-77.3105
+
+E1981,"Majestic Bangkok Resort & Spa","Kemer, Uzunyali Cad.",18.5038,73.8817
+
+E1982,"Элит Белек Резорт","Beldibi, Merkez Mah.",25.7122,-80.2579
+
+E1983,"Splendid Dubai Hotel","Kundu, Kemeragzi Mevkii",25.1584,55.3257
+
+E1984,"Империал Хургада Сьютс Deluxe","Beldibi, Uzunyali Cad.",48.8804,2.3644
+
+E1985,"Sunset Beach Hotel 423","Bahamas",25.0501,-77.0031
+
+E1986,"Exclusive Marmaris Villas","Beldibi, Turizm Bulv.",25.1939,55.2563
+
+E1987,"Делюкс Бангкок Резиденс","Kemer, Kemeragzi Mevkii",51.4836,-0.1405
+
+E1988,"Classic Alanya Palace","Side, Turizm Bulv.",41.0582,28.9955
+
+E1989,"Краун Майами Оазис 5*","Antalya, Turizm Bulv.",48.815,2.3944
+
+E1990,"Sunset Beach Hotel 23","Bahamas",25.4844,-77.7852
+
+E1991,"Grand Sydney Beach Resort","Side, Uzunyali Cad.",35.1562,33.3768
+
+E1992,"Империал Сидней Хэвен","Lara, Merkez Mah.",41.0488,28.9932
+
+E1993,"Majestic Fethiye Hotel & Club","Lara, Turizm Bulv.",42.6669,23.3336
+
+E1994,"Маджестик Стамбул Бич Резорт 5*","Side, Turizm Bulv.",25.6412,-80.2954
+
+E1995,"Blue Lagoon Suites 840","Bahamas",25.2929,-77.8271
+
+E1996,"Golden Alanya Residence","Belek, Uzunyali Cad.",36.8834,30.754
+
+E1997,"Гранд Париж Хэвен","Beldibi, Merkez Mah.",51.4552,-0.1789
+
+E1998,"Premium Phuket Palace","Alanya, Turizm Bulv.",37.9388,23.7033
+
+E1999,"Маджестик Лондон Отель 5*","Kemer, Uzunyali Cad.",13.6875,100.5546
+
+E2000,"Sunset Beach Hotel 515","Dominican Republic",18.8193,-70.4351
+
+E_BAD1,"","",36.85,31.05
+
+E_BAD2,"Bad Coords","",not_a_number,31.05
+
+E_BAD3,"","",,
+TEST_EMPTY,"","",,
+TEST_NULL_ID,"Test Hotel","",36.85,31.05
+,
+

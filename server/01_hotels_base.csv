@@ -1,0 +1,2002 @@
+﻿hotel_id,name,city_id,lat,lon
+
+5501,"Platinum Bodrum Beach Resort",3003,26.4888,34.0206
+
+5502,"Grand Kemer Beach Resort",6666,18.4938,73.9023
+
+5503,"Palace Bangkok Resort",6078,48.8323,2.3629
+
+5504,"Platinum Belek Suites",4444,39.5714,2.6149
+
+5505,"Golden Belek Beach Resort",7089,13.7178,100.4873
+
+5506,"Crown Side Suites",9123,33.9928,35.4872
+
+5507,"Grand Goa Hotel & Spa",1023,19.4572,-99.133
+
+5508,"Crown Tokyo Paradise",4004,42.6423,23.3122
+
+5509,"Majestic Dubai Garden",5555,40.4417,-3.6676
+
+5510,"Splendid Bali Palace",2011,36.1908,29.5214
+
+5511,"Premium Beldibi Hotel & Resort",4004,36.8712,31.0802
+
+5512,"Grand Cancun Lounge",6078,27.0621,33.872
+
+5513,"Royal Bali Garden",4444,39.5625,2.6412
+
+5514,"Exclusive Fethiye Beach Resort",6666,36.827,30.9938
+
+5515,"Sultan Antalya Club",1001,33.9344,35.5395
+
+5516,"Superior New York Club",5034,19.477,-99.1132
+
+5517,"Premium Sydney Wellness Resort",1023,41.845,12.4974
+
+5518,"Sultan Side Retreat",8101,35.1658,33.447
+
+5519,"Luxury Singapore Beach Resort",4004,51.4739,-0.1154
+
+5520,"Palace Sydney Wellness Resort",3050,42.7408,23.3075
+
+5521,"Crown Side Paradise",4012,41.8865,12.4612
+
+5522,"Deluxe Bangkok Residence",3003,51.482,-0.1431
+
+5523,"Luxury Dubai Heaven",5555,22.3182,114.1849
+
+5524,"Luxury New York Retreat",6078,13.6523,100.458
+
+5525,"Imperial Barcelona Palace",2222,22.2931,114.2175
+
+5526,"Prestige Bangkok Heaven",4004,37.9692,23.6832
+
+5527,"Deluxe Antalya Lounge",5555,36.8681,30.6524
+
+5528,"Imperial Fethiye Lounge",1023,48.839,2.3095
+
+5529,"Majestic Bodrum Garden",3003,41.9389,12.4708
+
+5530,"Palace Fethiye Wellness Resort",8101,26.497,33.9923
+
+5531,"Sultan Beldibi Resort & Spa",9123,18.4781,73.8514
+
+5532,"Palace Punta Cana Oasis",8008,48.8776,2.3437
+
+5533,"Elite Phuket Suites",1023,13.6683,100.5457
+
+5534,"Platinum Belek Hotel & Resort",6078,35.2185,33.4031
+
+5535,"Golden Kemer Beach Resort",3050,36.1003,29.5393
+
+5536,"Crown Santorini Hotel",2002,35.1921,33.3761
+
+5537,"Splendid Istanbul Hotel & Spa",9009,51.4631,-0.1119
+
+5538,"Deluxe Bodrum Garden",4004,41.0403,28.9496
+
+5539,"Regal Beldibi Resort",7089,48.8431,2.3163
+
+5540,"Classic Paris Hotel & Resort",5034,13.7066,100.5399
+
+5541,"Grand Sydney Palace",1023,40.9626,28.9939
+
+5542,"Sultan Bodrum Lounge",6006,36.1083,29.6259
+
+5543,"Regal Alanya Wellness Resort",1023,41.9436,12.4504
+
+5544,"Elite Goa Lounge",2222,37.9823,23.7875
+
+5545,"Exclusive Punta Cana Beach Resort",6666,13.7305,100.4861
+
+5546,"Sultan Hurghada Retreat",2002,22.3571,114.1493
+
+5547,"Splendid Santorini Residence",6006,42.7432,23.3383
+
+5548,"Premium Bali Hotel & Spa",7089,39.5703,2.7072
+
+5549,"Regal Beldibi Suites",2011,36.1046,29.6003
+
+5550,"Splendid Kemer Hotel & Spa",4444,36.1696,29.6104
+
+5551,"Royal Beldibi Paradise",3333,22.3382,114.1153
+
+5552,"Superior Lara Resort & Spa",5005,40.444,-3.6632
+
+5553,"Elite Goa Hotel & Spa",9009,41.063,28.9695
+
+5554,"Imperial Paris Hotel & Spa",4012,33.9522,35.5
+
+5555,"Superior Antalya Wellness Resort",3333,25.1832,55.3145
+
+5556,"Classic Singapore Beach Resort",1001,51.5481,-0.0908
+
+5557,"Royal Istanbul Hotel",1001,36.8462,31.0598
+
+5558,"Prime Goa Paradise",2002,33.9132,35.5677
+
+5559,"Crown Paris Heaven",6078,37.922,23.7813
+
+5560,"Superior Punta Cana Suites",2222,36.7919,31.0767
+
+5561,"Palace Miami Residence",7007,33.9243,35.5845
+
+5562,"Superior Bali Resort & Spa",2222,48.8257,2.3125
+
+5563,"Splendid Fethiye Paradise",6666,42.7131,23.2901
+
+5564,"Crown Side Hotel & Spa",4004,36.7901,31.0194
+
+5565,"Golden Istanbul Club",3050,41.0341,28.9518
+
+5566,"Premium Singapore Heaven",4012,42.6484,23.3284
+
+5567,"Golden Singapore Resort & Spa",1001,36.1452,29.5727
+
+5568,"Elite Bali Wellness Resort",8008,18.5365,73.9073
+
+5569,"Platinum Dubai Beach Resort",3003,39.6454,2.6414
+
+5570,"Sultan Hurghada Resort",7007,28.5027,34.479
+
+5571,"Splendid Istanbul Lounge",7089,18.5071,73.8664
+
+5572,"Deluxe London Palace",2011,41.8905,12.5446
+
+5573,"Exclusive Bali Hotel & Spa",3333,1.4087,103.8728
+
+5574,"Classic Goa Beach Resort",2011,18.5306,73.8649
+
+5575,"Splendid Side Palace",7007,36.1246,29.6043
+
+5576,"Majestic Phuket Suites",1001,18.5662,73.7993
+
+5577,"Royal New York Paradise",3333,36.0813,29.5826
+
+5578,"Palace Sharm El Sheikh Oasis",7007,27.0696,33.8767
+
+5579,"Majestic Belek Villas",2002,37.9891,23.7857
+
+5580,"Sultan New York Resort & Spa",5034,28.4671,34.4531
+
+5581,"Royal Istanbul Beach Resort",4012,26.4636,33.9837
+
+5582,"Premium Lara Beach Resort",3333,42.7492,23.2913
+
+5583,"Prestige Kemer Hotel & Spa",1111,33.9396,35.5596
+
+5584,"Elite Kundu Oasis",8008,41.9236,12.4526
+
+5585,"Classic New York Heaven",9123,25.7163,-80.2302
+
+5586,"Prime Goa Heaven",1111,41.1534,29.0117
+
+5587,"Prime Kundu Club",4004,51.4581,-0.1789
+
+5588,"Prime Bali Oasis",3050,13.7575,100.5151
+
+5589,"Premium Fethiye Lounge",1001,26.5148,34.0117
+
+5590,"Platinum Alanya Retreat",6666,25.235,55.2416
+
+5591,"Premium Punta Cana Paradise",6078,36.8416,31.0971
+
+5592,"Sultan Phuket Residence",6666,13.6999,100.4899
+
+5593,"Crown Antalya Suites",6006,38.0274,23.7441
+
+5594,"Elite Beldibi Palace",2222,37.9834,23.6801
+
+5595,"Elite Maldives Residence",4004,37.9468,23.7323
+
+5596,"Prime Side Beach Resort",9123,40.4688,-3.7211
+
+5597,"Golden Alanya Hotel & Spa",3003,41.069,28.9663
+
+5598,"Prestige Bangkok Beach Resort",2011,22.2836,114.1462
+
+5599,"Exclusive Maldives Paradise",2011,25.1536,55.2561
+
+5600,"Majestic Phuket Garden",1001,42.6514,23.2615
+
+5601,"Splendid Fethiye Lounge",3050,42.7516,23.2628
+
+5602,"Classic Beldibi Wellness Resort",6078,41.0821,29.0355
+
+5603,"Grand Side Lounge",5034,27.0681,33.8301
+
+5604,"Imperial Barcelona Oasis",2222,37.9978,23.6723
+
+5605,"Golden Singapore Hotel & Resort",5034,39.6524,2.6939
+
+5606,"Elite Istanbul Resort",9123,39.5585,2.6643
+
+5607,"Crown Fethiye Villas",2002,25.6757,-80.207
+
+5608,"Prestige Kundu Club",6666,18.4999,73.8505
+
+5609,"Prestige Singapore Hotel & Resort",1111,35.1847,33.3515
+
+5610,"Golden Lara Palace",3003,13.7308,100.5018
+
+5611,"Majestic Rome Garden",6666,13.6585,100.4986
+
+5612,"Elite Side Residence",3003,38.0598,23.7534
+
+5613,"Imperial Fethiye Resort & Spa",9123,27.0162,33.8202
+
+5614,"Splendid Belek Paradise",4004,22.3554,114.1311
+
+5615,"Prestige Singapore Beach Resort",7007,36.8454,30.7087
+
+5616,"Classic Kemer Club",6666,36.8873,31.0474
+
+5617,"Prime Side Palace",3003,22.3162,114.1785
+
+5618,"Golden Belek Hotel",3050,36.1118,29.6056
+
+5619,"Royal Cancun Villas",6006,48.8655,2.3709
+
+5620,"Prestige Kemer Heaven",2222,33.9424,35.5041
+
+5621,"Royal Punta Cana Oasis",5005,26.4556,33.9445
+
+5622,"Exclusive Beldibi Resort",2011,19.4806,-99.0774
+
+5623,"Prestige Antalya Lounge",3050,41.8774,12.5477
+
+5624,"Classic Kemer Retreat",2002,39.6445,2.6068
+
+5625,"Prime Alanya Beach Resort",3050,22.355,114.1799
+
+5626,"Regal Maldives Resort & Spa",8101,27.0375,33.8973
+
+5627,"Crown Phuket Retreat",6666,33.9038,35.5309
+
+5628,"Golden Paris Retreat",3050,36.8629,31.0245
+
+5629,"Prestige Fethiye Club",6006,22.3404,114.1509
+
+5630,"Deluxe Maldives Oasis",2222,40.4686,-3.6995
+
+5631,"Elite Bangkok Garden",8101,42.7593,23.3156
+
+5632,"Majestic Miami Heaven",4444,36.8696,30.7482
+
+5633,"Sultan Barcelona Retreat",3333,1.3833,103.7636
+
+5634,"Exclusive Cancun Resort & Spa",3003,41.0466,29.0326
+
+5635,"Elite Sharm El Sheikh Palace",7007,27.0436,33.9027
+
+5636,"Golden Beldibi Garden",2222,41.883,12.4423
+
+5637,"Majestic Lara Wellness Resort",1001,42.7307,23.3553
+
+5638,"Premium Marmaris Garden",4012,51.5292,-0.1202
+
+5639,"Premium Dubai Heaven",1001,25.652,-80.2167
+
+5640,"Crown Barcelona Heaven",8008,36.8737,31.0222
+
+5641,"Grand London Hotel & Resort",5034,27.0086,33.8455
+
+5642,"Luxury Maldives Hotel & Spa",4012,41.9471,12.5389
+
+5643,"Sultan Punta Cana Lounge",5034,27.0323,33.8292
+
+5644,"Royal Cancun Palace",5555,36.9531,30.6964
+
+5645,"Prime Singapore Hotel",9009,33.9817,35.4872
+
+5646,"Imperial Bangkok Hotel & Spa",4444,36.9046,31.0821
+
+5647,"Grand Rome Resort",5555,35.2254,33.4383
+
+5648,"Elite Barcelona Oasis",5034,19.464,-99.1845
+
+5649,"Golden Kundu Hotel & Resort",7089,19.4204,-99.077
+
+5650,"Deluxe Fethiye Garden",5034,37.9901,23.7242
+
+5651,"Premium Sydney Garden",5005,36.0809,29.6165
+
+5652,"Premium Maldives Hotel & Spa",5034,41.8721,12.4749
+
+5653,"Majestic Paris Resort & Spa",7089,36.1399,29.5912
+
+5654,"Platinum London Lounge",6006,26.4974,33.9601
+
+5655,"Regal Antalya Lounge",7007,28.5454,34.5064
+
+5656,"Luxury Sharm El Sheikh Resort & Spa",8008,33.9884,35.4758
+
+5657,"Platinum Sharm El Sheikh Resort & Spa",6006,25.7003,-80.2523
+
+5658,"Prime Tokyo Suites",2002,35.1507,33.3901
+
+5659,"Splendid Lara Club",2011,48.8413,2.3969
+
+5660,"Imperial Belek Hotel & Resort",4012,36.8831,31.0006
+
+5661,"Prestige Lara Suites",5034,36.8942,30.6687
+
+5662,"Prestige Maldives Hotel & Spa",6666,33.9477,35.4922
+
+5663,"Classic Istanbul Palace",9009,35.2047,33.3435
+
+5664,"Luxury Singapore Resort",1023,26.4517,33.9785
+
+5665,"Grand Barcelona Lounge",4012,27.0305,33.8801
+
+5666,"Palace Sharm El Sheikh Hotel & Spa",5555,51.5228,-0.0792
+
+5667,"Deluxe Alanya Club",5034,33.9035,35.5293
+
+5668,"Prime Beldibi Club",2002,41.8799,12.5531
+
+5669,"Prime Bali Resort & Spa",6666,22.2738,114.1459
+
+5670,"Platinum Kundu Hotel",3003,39.5821,2.6955
+
+5671,"Platinum Santorini Oasis",6666,22.242,114.1199
+
+5672,"Superior Bali Palace",4012,27.0741,33.9142
+
+5673,"Elite Barcelona Hotel",8008,42.6468,23.2478
+
+5674,"Royal Hurghada Paradise",8008,37.9457,23.6569
+
+5675,"Exclusive Bangkok Club",6006,42.6644,23.2707
+
+5676,"Crown Phuket Resort",1111,40.99,29.0169
+
+5677,"Grand Paris Heaven",1111,51.4535,-0.1814
+
+5678,"Majestic Kundu Oasis",7007,51.5268,-0.1012
+
+5679,"Royal Beldibi Retreat",3003,28.503,34.4519
+
+5680,"Crown Alanya Heaven",8008,39.6553,2.611
+
+5681,"Sultan Lara Club",4444,33.895,35.5563
+
+5682,"Prime Rome Oasis",2011,41.879,12.4981
+
+5683,"Platinum Kundu Hotel & Spa",8008,36.8319,31.044
+
+5684,"Sultan Goa Beach Resort",8101,38.0062,23.7458
+
+5685,"Platinum Bali Beach Resort",8008,41.9528,12.5515
+
+5686,"Crown Fethiye Resort",8101,39.6331,2.6706
+
+5687,"Grand Phuket Club",3333,1.3253,103.8416
+
+5688,"Golden Barcelona Suites",8101,37.9853,23.7477
+
+5689,"Regal Paris Wellness Resort",7089,51.4459,-0.158
+
+5690,"Crown Istanbul Hotel & Spa",4012,41.9232,12.5104
+
+5691,"Regal Santorini Villas",4004,39.6321,2.6252
+
+5692,"Deluxe Dubai Retreat",3050,19.4148,-99.1215
+
+5693,"Deluxe Fethiye Paradise",4012,25.6277,-80.2208
+
+5694,"Regal Beldibi Retreat",5555,51.4533,-0.1764
+
+5695,"Splendid Istanbul Garden",2222,39.6088,2.6854
+
+5696,"Regal Belek Paradise",7089,1.4051,103.8709
+
+5697,"Grand Cancun Hotel",4012,18.5054,73.8063
+
+5698,"Classic Santorini Suites",8101,51.4737,-0.122
+
+5699,"Splendid Fethiye Heaven",7089,36.8856,30.9992
+
+5700,"Grand Barcelona Heaven",7089,36.8781,31.0228
+
+5701,"Majestic Beldibi Lounge",2002,33.9623,35.4931
+
+5702,"Exclusive Phuket Club",1111,25.6902,-80.2488
+
+5703,"Grand Dubai Beach Resort",3050,37.9872,23.7204
+
+5704,"Elite Bangkok Residence",3333,41.1167,28.9543
+
+5705,"Premium Dubai Wellness Resort",1023,26.4483,33.9935
+
+5706,"Crown Lara Palace",3050,48.8732,2.2926
+
+5707,"Splendid Belek Oasis",1001,36.1941,29.5207
+
+5708,"Platinum Beldibi Suites",6078,42.6538,23.3352
+
+5709,"Golden Paris Villas",6666,35.1745,33.3583
+
+5710,"Imperial Antalya Wellness Resort",8101,25.1507,55.2246
+
+5711,"Exclusive London Beach Resort",8008,37.9928,23.7536
+
+5712,"Classic Bangkok Hotel",3003,28.5251,34.5582
+
+5713,"Golden Hurghada Retreat",9009,39.541,2.6296
+
+5714,"Deluxe Belek Suites",6006,36.8363,31.042
+
+5715,"Platinum Beldibi Resort",9009,26.5049,33.9999
+
+5716,"Prime Phuket Hotel & Resort",2222,28.5333,34.5037
+
+5717,"Majestic Istanbul Garden",2002,28.5,34.5034
+
+5718,"Majestic Tokyo Palace",2011,35.1575,33.4246
+
+5719,"Grand Sydney Garden",1111,35.1553,33.4205
+
+5720,"Deluxe Lara Hotel",6006,35.2545,33.4586
+
+5721,"Crown Dubai Residence",8008,35.2105,33.4491
+
+5722,"Exclusive Miami Resort & Spa",4444,13.6815,100.45
+
+5723,"Exclusive London Retreat",1023,41.8655,12.5312
+
+5724,"Splendid Cancun Oasis",4004,13.7005,100.4521
+
+5725,"Regal Marmaris Heaven",9123,42.6932,23.2569
+
+5726,"Crown Dubai Wellness Resort",6006,19.3749,-99.1437
+
+5727,"Deluxe Fethiye Lounge",5034,1.3513,103.831
+
+5728,"Deluxe Paris Beach Resort",3333,38.0046,23.7124
+
+5729,"Royal Beldibi Hotel",4444,28.5089,34.5449
+
+5730,"Premium Bali Oasis",1001,28.4531,34.4994
+
+5731,"Sultan Kundu Resort & Spa",4004,41.8717,12.5146
+
+5732,"Royal Istanbul Paradise",2011,36.9257,30.6744
+
+5733,"Deluxe Hurghada Beach Resort",2002,35.244,33.3778
+
+5734,"Sultan Bali Resort & Spa",7089,1.3454,103.7701
+
+5735,"Premium Bangkok Paradise",1111,37.9796,23.6833
+
+5736,"Grand Hurghada Resort",6006,40.4445,-3.6897
+
+5737,"Royal Paris Paradise",1023,18.5162,73.8155
+
+5738,"Golden Cancun Club",7089,36.9464,30.7162
+
+5739,"Classic Singapore Resort",4012,40.4356,-3.7057
+
+5740,"Majestic Kundu Suites",3050,28.4582,34.4704
+
+5741,"Palace Beldibi Wellness Resort",4444,41.1589,29.0162
+
+5742,"Elite Hurghada Heaven",5555,13.652,100.4514
+
+5743,"Elite Fethiye Resort & Spa",1111,40.9836,29.0262
+
+5744,"Elite London Palace",9009,40.3713,-3.7494
+
+5745,"Splendid Phuket Residence",2011,13.643,100.4801
+
+5746,"Splendid Hurghada Suites",7007,36.948,30.74
+
+5747,"Classic Bangkok Wellness Resort",6006,41.157,28.9761
+
+5748,"Sultan Belek Heaven",4004,1.3012,103.8752
+
+5749,"Platinum Side Residence",1001,38.0106,23.702
+
+5750,"Palace Rome Suites",4012,37.9361,23.7536
+
+5751,"Grand Cancun Club",2002,19.3959,-99.0869
+
+5752,"Imperial Antalya Garden",8101,41.1513,28.9433
+
+5753,"Regal Dubai Wellness Resort",8101,25.6502,-80.2621
+
+5754,"Classic Marmaris Hotel",3003,41.1182,29.0384
+
+5755,"Splendid Antalya Hotel & Resort",4004,35.2306,33.4322
+
+5756,"Regal Rome Hotel & Spa",7089,22.2557,114.2295
+
+5757,"Luxury Rome Oasis",3333,38.0036,23.6717
+
+5758,"Imperial Marmaris Resort",9009,42.7562,23.3337
+
+5759,"Platinum Barcelona Paradise",7089,35.2493,33.4111
+
+5760,"Regal Kundu Retreat",8101,51.5319,-0.1797
+
+5761,"Grand Goa Suites",4004,36.8831,31.0976
+
+5762,"Royal Side Garden",5034,1.3622,103.7838
+
+5763,"Majestic Barcelona Suites",9009,1.3764,103.8238
+
+5764,"Imperial Maldives Lounge",4012,35.1446,33.3533
+
+5765,"Palace Maldives Hotel",5005,38.0102,23.7897
+
+5766,"Elite Bangkok Hotel & Resort",4012,1.3206,103.852
+
+5767,"Palace Side Suites",5034,13.6818,100.5044
+
+5768,"Deluxe London Hotel & Resort",4012,1.3597,103.8077
+
+5769,"Palace Beldibi Retreat",7089,41.0479,28.9832
+
+5770,"Imperial Beldibi Wellness Resort",7007,18.4651,73.8603
+
+5771,"Premium Maldives Lounge",3050,41.9246,12.4865
+
+5772,"Splendid Miami Suites",2222,37.9337,23.769
+
+5773,"Elite Belek Hotel",6078,26.4798,33.995
+
+5774,"Prime Marmaris Lounge",2002,36.8696,31.0608
+
+5775,"Palace Antalya Hotel",6078,36.8706,30.6554
+
+5776,"Premium Istanbul Club",5034,36.8937,31.0056
+
+5777,"Crown Miami Oasis",7007,48.8149,2.3914
+
+5778,"Golden Paris Garden",4444,37.9838,23.7566
+
+5779,"Palace Hurghada Residence",5034,22.3164,114.2233
+
+5780,"Palace Side Palace",8008,33.9458,35.5288
+
+5781,"Palace Goa Hotel & Spa",5034,22.3306,114.177
+
+5782,"Luxury Singapore Suites",6006,36.8888,30.6467
+
+5783,"Grand Side Retreat",2222,37.9485,23.7611
+
+5784,"Premium Lara Resort",1001,1.3121,103.8167
+
+5785,"Grand Fethiye Hotel & Spa",7089,42.7013,23.2479
+
+5786,"Imperial Istanbul Heaven",4012,25.7193,-80.2638
+
+5787,"Crown Side Villas",9123,25.6798,-80.2496
+
+5788,"Prestige Tokyo Garden",4012,25.7031,-80.2761
+
+5789,"Imperial Bodrum Garden",5005,40.4676,-3.7162
+
+5790,"Classic Barcelona Garden",2011,41.0076,28.9469
+
+5791,"Royal Marmaris Club",1023,22.2639,114.1138
+
+5792,"Prestige Singapore Villas",6006,22.3237,114.2173
+
+5793,"Luxury Beldibi Retreat",6666,40.9586,28.9754
+
+5794,"Prestige Cancun Suites",7007,37.9667,23.6831
+
+5795,"Superior Side Hotel & Resort",5005,13.676,100.5555
+
+5796,"Splendid Kundu Garden",9009,26.4731,34.0344
+
+5797,"Prestige Dubai Palace",8008,40.3741,-3.7377
+
+5798,"Elite Beldibi Resort & Spa",1001,39.5631,2.6719
+
+5799,"Superior Alanya Wellness Resort",6666,25.6269,-80.3018
+
+5800,"Deluxe Goa Resort & Spa",1001,1.2955,103.8175
+
+5801,"Superior Dubai Palace",5005,36.9285,30.6969
+
+5802,"Elite Kundu Hotel & Resort",5555,13.7035,100.5023
+
+5803,"Splendid Paris Wellness Resort",4004,37.9356,23.7691
+
+5804,"Royal Antalya Suites",1023,36.8945,31.0761
+
+5805,"Prime Sydney Residence",6078,13.6571,100.4762
+
+5806,"Deluxe Phuket Paradise",8008,36.8198,31.0796
+
+5807,"Sultan Barcelona Residence",9009,41.0599,28.9615
+
+5808,"Platinum Tokyo Suites",1023,25.6349,-80.2027
+
+5809,"Royal Rome Hotel & Resort",5555,41.1123,28.9442
+
+5810,"Luxury Bali Heaven",4004,22.2405,114.2239
+
+5811,"Golden Lara Resort",6006,48.8238,2.3538
+
+5812,"Prime Singapore Lounge",4444,22.2826,114.1778
+
+5813,"Classic Istanbul Hotel & Spa",6078,41.0425,29.0224
+
+5814,"Prestige Side Beach Resort",2002,25.6344,-80.2216
+
+5815,"Luxury New York Oasis",5005,38.0276,23.6965
+
+5816,"Exclusive Dubai Resort & Spa",4012,19.3981,-99.1567
+
+5817,"Royal Belek Retreat",6666,41.056,28.9326
+
+5818,"Grand Side Hotel & Spa",2002,28.4889,34.5115
+
+5819,"Superior Singapore Lounge",3050,1.3863,103.8605
+
+5820,"Prestige Bodrum Club",6666,33.9969,35.4802
+
+5821,"Exclusive Bangkok Retreat",2011,22.3447,114.1434
+
+5822,"Imperial New York Retreat",2222,37.9931,23.6673
+
+5823,"Splendid Dubai Oasis",1111,25.1604,55.3276
+
+5824,"Palace Tokyo Resort & Spa",7089,18.4838,73.8481
+
+5825,"Elite New York Palace",1023,41.9147,12.511
+
+5826,"Steigenberger Aqua Magic",3050,27.0449,33.8791
+
+5827,"Elite Antalya Lounge",6006,40.4104,-3.7515
+
+5828,"Classic Paris Residence",1023,40.9673,29.0163
+
+5829,"Royal Kundu Garden",5034,33.9247,35.4736
+
+5830,"Splendid Punta Cana Beach Resort",4012,38.0249,23.7697
+
+5831,"Grand New York Hotel & Spa",6078,38.0147,23.7356
+
+5832,"Imperial Paris Paradise",8008,41.1076,28.9797
+
+5833,"Splendid Miami Hotel & Resort",8008,40.9571,29.025
+
+5834,"Nirvana Cosmopolitan Hotel",2011,36.7001,30.573
+
+5835,"Deluxe Miami Club",4444,36.9042,30.6943
+
+5836,"Luxury Kundu Paradise",4444,18.5024,73.8874
+
+5837,"Majestic Side Suites",2222,38.0282,23.7412
+
+5838,"Prestige Sharm El Sheikh Paradise",6006,36.1791,29.6355
+
+5839,"Majestic Bali Oasis",8008,37.9686,23.7552
+
+5840,"Delphin Imperial Lara Hotel",2011,36.857,30.8391
+
+5841,"Platinum Bangkok Beach Resort",2222,36.8884,31.0983
+
+5842,"Golden Barcelona Resort",9009,36.1167,29.602
+
+5843,"Sultan Goa Lounge",6666,37.992,23.7185
+
+5844,"Superior Kundu Retreat",5555,13.6423,100.4929
+
+5845,"Exclusive Alanya Suites",9123,25.69,-80.2868
+
+5846,"Luxury Belek Residence",4444,18.4642,73.8886
+
+5847,"Regal Bangkok Hotel",6666,51.5503,-0.1006
+
+5848,"Majestic Bali Palace",9009,18.5409,73.8988
+
+5849,"Imperial Antalya Paradise",8008,33.9061,35.5589
+
+5850,"Platinum Marmaris Club",3003,36.0893,29.5341
+
+5851,"Majestic Alanya Retreat",1001,18.5126,73.8442
+
+5852,"Sultan Belek Resort",4444,41.1205,28.95
+
+5853,"Premium Bali Garden",1023,51.5554,-0.074
+
+5854,"Palace Paris Resort & Spa",7089,41.0654,28.9921
+
+5855,"Majestic Sharm El Sheikh Palace",2222,28.5371,34.4943
+
+5856,"Crown Singapore Heaven",4012,39.5802,2.6634
+
+5857,"Splendid Singapore Hotel & Resort",4444,25.2179,55.2907
+
+5858,"Grand New York Club",5555,19.3907,-99.075
+
+5859,"Golden Paris Hotel",9123,36.1061,29.6117
+
+5860,"Prime Dubai Club",1023,36.1306,29.5869
+
+5861,"Premium Bangkok Beach Resort",1023,25.7328,-80.2007
+
+5862,"Elite London Resort",1001,28.516,34.5373
+
+5863,"Sultan Alanya Retreat",2011,40.4194,-3.652
+
+5864,"Luxury Bodrum Hotel",4444,39.6081,2.5974
+
+5865,"Prestige Bodrum Suites",3333,25.1573,55.2636
+
+5866,"Platinum Phuket Club",9009,40.963,28.967
+
+5867,"Prestige Lara Palace",1111,40.4137,-3.6592
+
+5868,"Palace Istanbul Hotel & Resort",4444,41.0515,29.0227
+
+5869,"Premium Hurghada Hotel",3050,22.2973,114.1102
+
+5870,"Palace Punta Cana Retreat",1001,40.9581,28.9451
+
+5871,"Imperial Singapore Lounge",8101,41.936,12.5099
+
+5872,"Sultan Paris Garden",1001,33.9805,35.5374
+
+5873,"Deluxe Antalya Retreat",6666,36.9503,30.6539
+
+5874,"Superior Hurghada Oasis",1023,27.0485,33.8758
+
+5875,"Prestige Marmaris Hotel & Resort",3333,25.7203,-80.2708
+
+5876,"Prestige Alanya Hotel & Resort",6078,40.4539,-3.6483
+
+5877,"Golden Singapore Hotel",5555,41.8645,12.4552
+
+5878,"Regal Istanbul Club",2222,36.8675,30.6813
+
+5879,"Superior Sharm El Sheikh Lounge",4012,36.9294,30.6729
+
+5880,"Regal Bali Hotel",6006,35.2417,33.453
+
+5881,"Sultan Bali Hotel & Resort",2222,36.1072,29.5463
+
+5882,"Grand Antalya Hotel & Resort",3050,41.0288,28.966
+
+5883,"Regal Punta Cana Garden",4012,27.081,33.9157
+
+5884,"Luxury Lara Villas",4004,25.1434,55.2418
+
+5885,"Palace Santorini Palace",1111,26.5269,33.9705
+
+5886,"Deluxe Belek Oasis",3333,19.4796,-99.1592
+
+5887,"Majestic Miami Garden",5555,18.4821,73.8138
+
+5888,"Splendid Tokyo Club",6006,28.4575,34.5411
+
+5889,"Deluxe New York Lounge",3050,51.5452,-0.0866
+
+5890,"Golden Maldives Heaven",3333,48.8406,2.3647
+
+5891,"Regal Barcelona Beach Resort",7007,22.3541,114.2205
+
+5892,"Splendid Hurghada Wellness Resort",1023,25.6559,-80.212
+
+5893,"Deluxe Rome Wellness Resort",1111,1.3705,103.8571
+
+5894,"Luxury Hurghada Retreat",8101,41.0143,28.9711
+
+5895,"Prime Kemer Resort & Spa",5555,25.6312,-80.3081
+
+5896,"Golden Goa Lounge",9009,27.0496,33.8248
+
+5897,"Luxury Cancun Hotel",8101,41.0812,28.961
+
+5898,"Prime Bodrum Paradise",8008,51.5469,-0.1189
+
+5899,"Crown Antalya Retreat",1023,40.4664,-3.7482
+
+5900,"Royal Paris Hotel & Spa",5034,33.992,35.5101
+
+5901,"Golden Cancun Retreat",4004,27.0569,33.9208
+
+5902,"Exclusive Marmaris Resort",8101,42.7008,23.3064
+
+5903,"Platinum Bodrum Heaven",6666,41.9147,12.4539
+
+5904,"Golden Fethiye Hotel & Resort",1111,36.8091,31.0974
+
+5905,"Grand Marmaris Garden",5034,18.4853,73.8063
+
+5906,"Grand Maldives Resort",6666,51.5437,-0.0726
+
+5907,"Splendid Istanbul Oasis",3003,51.4846,-0.0927
+
+5908,"Elite Singapore Resort & Spa",9123,36.1849,29.627
+
+5909,"Prime Kemer Oasis",9009,25.6546,-80.2118
+
+5910,"Crown Barcelona Residence",9123,25.7258,-80.2873
+
+5911,"Splendid Cancun Suites",4004,36.1707,29.6312
+
+5912,"Exclusive New York Heaven",3050,48.8552,2.3739
+
+5913,"Exclusive Bodrum Heaven",4004,51.5236,-0.1318
+
+5914,"Majestic Bodrum Heaven",3003,13.6611,100.4921
+
+5915,"Prestige Maldives Garden",6078,26.4413,33.9807
+
+5916,"Classic Maldives Garden",3050,51.4785,-0.0792
+
+5917,"Prestige Singapore Residence",7089,25.678,-80.2083
+
+5918,"Platinum Hurghada Oasis",2011,28.5559,34.5198
+
+5919,"Palace Kundu Residence",2002,28.5532,34.512
+
+5920,"Royal New York Oasis",2002,36.1779,29.5524
+
+5921,"Exclusive Antalya Wellness Resort",4012,51.5203,-0.1499
+
+5922,"Royal Rome Heaven",2222,13.6668,100.5056
+
+5923,"Palace Belek Hotel & Resort",3003,37.9727,23.6743
+
+5924,"Majestic Paris Resort",4444,36.8153,31.0963
+
+5925,"Superior Dubai Garden",9009,22.3517,114.2234
+
+5926,"Regal Singapore Retreat",9009,42.6946,23.3092
+
+5927,"Platinum Phuket Hotel & Spa",3050,27.0178,33.8227
+
+5928,"Platinum Rome Oasis",5034,36.8837,30.7226
+
+5929,"Regal Dubai Oasis",9009,28.5432,34.5555
+
+5930,"Elite Belek Resort",3050,25.7106,-80.2584
+
+5931,"Exclusive Hurghada Suites",1001,1.4021,103.8727
+
+5932,"Classic Fethiye Lounge",3333,35.256,33.3473
+
+5933,"Classic Singapore Club",9009,25.7352,-80.2968
+
+5934,"Royal Bodrum Residence",4012,51.5383,-0.0789
+
+5935,"Grand Singapore Beach Resort",7007,13.7543,100.5233
+
+5936,"Majestic Kundu Resort",3333,48.7978,2.3049
+
+5937,"Prestige Beldibi Garden",4444,40.3627,-3.7037
+
+5938,"Royal Hurghada Hotel",3333,18.5039,73.8989
+
+5939,"Premium New York Hotel & Spa",2002,19.3811,-99.0904
+
+5940,"Classic New York Club",6006,19.3909,-99.1899
+
+5941,"Elite Sydney Club",2222,51.4793,-0.081
+
+5942,"Grand Sydney Beach Resort",2222,35.1562,33.3767
+
+5943,"Majestic London Residence",3333,33.9828,35.4857
+
+5944,"Prime Marmaris Hotel & Resort",4012,35.1968,33.4119
+
+5945,"Exclusive Santorini Hotel & Spa",5034,25.651,-80.2278
+
+5946,"Golden Kemer Villas",3050,19.4078,-99.1323
+
+5947,"Exclusive Istanbul Heaven",7089,48.8991,2.3185
+
+5948,"Crown Lara Garden",2002,38.0127,23.7453
+
+5949,"Golden Side Hotel & Spa",6006,51.4581,-0.078
+
+5950,"Luxury Bodrum Hotel & Resort",3003,48.8203,2.3383
+
+5951,"Elite Cancun Oasis",8101,41.8531,12.5418
+
+5952,"Prestige Rome Oasis",3050,42.6832,23.2858
+
+5953,"Regal Side Retreat",3050,26.4472,34.001
+
+5954,"Deluxe Dubai Villas",8101,37.9928,23.6864
+
+5955,"Elite Marmaris Retreat",3050,25.1607,55.2696
+
+5956,"Majestic Singapore Hotel & Spa",9123,33.8976,35.4719
+
+5957,"Deluxe Tokyo Hotel",3050,40.9519,28.9438
+
+5958,"Regal Bodrum Oasis",7089,35.2419,33.3944
+
+5959,"Luxury Dubai Villas",2002,19.4153,-99.1767
+
+5960,"Majestic Punta Cana Club",2222,18.5633,73.8983
+
+5961,"Deluxe Goa Club",3050,1.3148,103.878
+
+5962,"Grand Barcelona Suites",1001,40.4007,-3.664
+
+5963,"Prestige Cancun Hotel",8101,1.3311,103.8289
+
+5964,"Majestic Antalya Resort & Spa",6666,28.5089,34.4756
+
+5965,"Luxury Bali Hotel & Spa",7089,35.2225,33.436
+
+5966,"Premium Sydney Retreat",2002,36.0844,29.5851
+
+5967,"Platinum Kundu Suites",3050,26.4852,34.0056
+
+5968,"Royal Miami Hotel",6078,26.4485,34.0455
+
+5969,"Exclusive Lara Beach Resort",2002,37.9997,23.7073
+
+5970,"Sultan Santorini Wellness Resort",7089,51.462,-0.1107
+
+5971,"Platinum Rome Lounge",5005,26.4476,33.9503
+
+5972,"Golden Beldibi Beach Resort",5555,41.951,12.4657
+
+5973,"Splendid Miami Hotel",1001,37.9229,23.7183
+
+5974,"Premium Beldibi Club",5555,42.715,23.2951
+
+5975,"Prime Singapore Residence",4012,39.5791,2.6237
+
+5976,"Splendid Cancun Heaven",4444,41.8441,12.4543
+
+5977,"Deluxe Maldives Hotel & Spa",3333,1.3009,103.8644
+
+5978,"Palace Singapore Wellness Resort",4444,26.9909,33.8349
+
+5979,"Palace Marmaris Retreat",9009,40.3766,-3.6873
+
+5980,"Elite Beldibi Lounge",5005,36.8087,31.0529
+
+5981,"Prime London Oasis",2002,39.592,2.6295
+
+5982,"Golden Goa Club",4012,33.9806,35.5443
+
+5983,"Luxury Bali Suites",6078,26.994,33.8885
+
+5984,"Titanic Beach Lara",2011,36.8599,30.841
+
+5985,"Royal Goa Suites",3003,25.1514,55.3149
+
+5986,"Regal Alanya Hotel",2011,25.663,-80.2876
+
+5987,"Classic Dubai Paradise",7007,25.2255,55.2437
+
+5988,"Regal Marmaris Residence",6078,41.0133,28.9599
+
+5989,"Deluxe Miami Retreat",5034,33.8853,35.5787
+
+5990,"Sultan Miami Club",2222,41.1509,29.0002
+
+5991,"Premium Side Resort & Spa",4444,36.1828,29.5457
+
+5992,"Prestige Hurghada Paradise",4012,33.9475,35.546
+
+5993,"Golden Goa Heaven",1023,18.5476,73.8848
+
+5994,"Grand Tokyo Paradise",1023,35.145,33.3475
+
+5995,"Elite Miami Resort & Spa",1001,36.153,29.5223
+
+5996,"Classic Istanbul Beach Resort",5005,26.5578,34.0073
+
+5997,"Sultan Barcelona Hotel & Resort",3003,13.7483,100.551
+
+5998,"Regal Miami Garden",3333,36.9048,30.7328
+
+5999,"Majestic Belek Suites",3050,18.5258,73.8594
+
+6000,"Prestige Istanbul Resort & Spa",4444,41.1451,29.0528
+
+6001,"Exclusive Fethiye Heaven",8101,25.6456,-80.3174
+
+6002,"Majestic Fethiye Heaven",1111,36.1821,29.605
+
+6003,"Luxury Bodrum Heaven",5034,36.8824,30.6752
+
+6004,"Majestic London Hotel",4444,13.6867,100.5538
+
+6005,"Royal Marmaris Lounge",5555,37.9731,23.7588
+
+6006,"Classic Alanya Paradise",7089,41.0585,28.9961
+
+6007,"Premium Barcelona Retreat",4444,28.4778,34.5051
+
+6008,"Classic Alanya Club",8101,27.0077,33.9261
+
+6009,"Deluxe Goa Beach Resort",9123,37.946,23.7769
+
+6010,"Grand Sharm El Sheikh Club",2002,36.9313,30.6729
+
+6011,"Classic Phuket Beach Resort",4004,25.161,55.2145
+
+6012,"Golden Hurghada Resort & Spa",8008,39.5778,2.6279
+
+6013,"Exclusive Antalya Hotel",1111,36.0853,29.6001
+
+6014,"Deluxe Tokyo Resort",1023,1.3508,103.8177
+
+6015,"Exclusive New York Resort",4004,40.3729,-3.6765
+
+6016,"Royal Belek Residence",6006,37.9379,23.7084
+
+6017,"Elite Paris Paradise",5555,37.9659,23.7438
+
+6018,"Exclusive Miami Hotel & Resort",1111,19.4827,-99.0957
+
+6019,"Sultan Antalya Paradise",4004,13.7488,100.5152
+
+6020,"Deluxe New York Beach Resort",2222,27.0351,33.9264
+
+6021,"Sultan Rome Hotel & Resort",6666,25.194,55.2849
+
+6022,"Elite Paris Oasis",5555,40.3985,-3.7127
+
+6023,"Grand Bali Hotel",5555,40.9714,28.9561
+
+6024,"Crown Kemer Paradise",1111,38.0037,23.7184
+
+6025,"Prestige Punta Cana Oasis",3333,36.9546,30.6758
+
+6026,"Crown Singapore Beach Resort",3050,41.9259,12.4614
+
+6027,"Superior Tokyo Villas",8101,41.9531,12.5525
+
+6028,"Superior Istanbul Beach Resort",9123,41.0219,28.9154
+
+6029,"Grand Istanbul Lounge",3333,41.1014,28.9656
+
+6030,"Palace Beldibi Lounge",5555,18.5592,73.793
+
+6031,"Palace Bangkok Villas",2011,36.182,29.5754
+
+6032,"Exclusive Tokyo Hotel",9009,41.8737,12.495
+
+6033,"Splendid Sydney Retreat",2222,22.3538,114.1277
+
+6034,"Golden Maldives Club",7007,42.7054,23.3122
+
+6035,"Grand Bali Resort & Spa",3050,19.4486,-99.1463
+
+6036,"Sultan Kemer Oasis",2011,37.9947,23.7249
+
+6037,"Royal Lara Palace",3050,13.6561,100.451
+
+6038,"Elite Miami Wellness Resort",8101,36.9536,30.7522
+
+6039,"Exclusive Marmaris Villas",7089,25.1938,55.2562
+
+6040,"Sultan New York Suites",5034,39.6411,2.6717
+
+6041,"Regal New York Heaven",4444,37.9251,23.7408
+
+6042,"Imperial Rome Oasis",9009,13.7279,100.5284
+
+6043,"Prime Kundu Oasis",4004,36.1706,29.5772
+
+6044,"Elite Fethiye Wellness Resort",1023,28.5057,34.5151
+
+6045,"Premium Lara Suites",4444,26.4833,33.9664
+
+6046,"Elite Bali Resort",4012,36.8553,31.0709
+
+6047,"Sultan Punta Cana Palace",3003,36.9054,30.9968
+
+6048,"Platinum Kundu Palace",8101,25.699,-80.3197
+
+6049,"Superior Fethiye Palace",7007,36.0875,29.5208
+
+6050,"Elite Goa Suites",2011,35.2378,33.3715
+
+6051,"Golden Singapore Wellness Resort",6666,18.5163,73.8807
+
+6052,"Golden Sharm El Sheikh Oasis",5555,13.6474,100.4644
+
+6053,"Prestige Antalya Hotel & Spa",4004,13.7366,100.524
+
+6054,"Elite Bali Hotel & Resort",7007,36.9369,30.6405
+
+6055,"Regal Side Lounge",1001,33.9939,35.5652
+
+6056,"Premium Belek Garden",6006,40.9821,28.9935
+
+6057,"Superior Maldives Resort & Spa",4012,36.891,31.1002
+
+6058,"Palace Sydney Villas",2011,26.4425,34.0197
+
+6059,"Prime Dubai Resort",2222,40.3654,-3.6861
+
+6060,"Imperial Paris Lounge",9123,40.405,-3.6837
+
+6061,"Imperial Miami Residence",8008,1.4045,103.7875
+
+6062,"Sultan Marmaris Retreat",6006,37.9317,23.7573
+
+6063,"Deluxe Beldibi Retreat",4444,28.4921,34.472
+
+6064,"Splendid Lara Palace",1023,48.8735,2.3887
+
+6065,"Royal Alanya Resort & Spa",8101,39.6454,2.6669
+
+6066,"Exclusive Bali Palace",1001,42.7224,23.2651
+
+6067,"Elite Lara Hotel & Spa",4012,41.959,12.5343
+
+6068,"Majestic Sharm El Sheikh Hotel & Resort",1001,1.3395,103.7646
+
+6069,"Grand Beldibi Hotel & Spa",1001,13.7139,100.4686
+
+6070,"Grand Hurghada Suites",1111,19.4047,-99.1455
+
+6071,"Royal New York Suites",1023,42.674,23.3482
+
+6072,"Royal Hurghada Hotel & Resort",1023,41.1402,28.95
+
+6073,"Sultan Fethiye Resort",3333,40.4007,-3.7412
+
+6074,"Golden Kemer Retreat",6006,19.4691,-99.1198
+
+6075,"Majestic Kemer Lounge",3050,18.5452,73.858
+
+6076,"Exclusive Singapore Palace",6666,25.6259,-80.2832
+
+6077,"Luxury Marmaris Heaven",5034,36.8999,31.046
+
+6078,"Prestige Bangkok Garden",5555,22.2421,114.1512
+
+6079,"Palace Sharm El Sheikh Paradise",6006,27.0659,33.9055
+
+6080,"Prestige Marmaris Resort",9123,28.4703,34.4983
+
+6081,"Superior Antalya Oasis",4004,48.8179,2.3661
+
+6082,"Deluxe Marmaris Paradise",9123,28.4906,34.4975
+
+6083,"Imperial Bangkok Hotel",5555,42.6665,23.2918
+
+6084,"Imperial Maldives Residence",7089,36.1393,29.5931
+
+6085,"Majestic Alanya Hotel & Spa",8008,36.1954,29.5348
+
+6086,"Sultan Bangkok Suites",9009,37.9793,23.6854
+
+6087,"Classic Kemer Resort & Spa",7007,39.6133,2.6025
+
+6088,"Luxury Barcelona Club",3003,48.8998,2.3889
+
+6089,"Grand Cancun Beach Resort",7007,40.4204,-3.6481
+
+6090,"Regal Hurghada Garden",8101,36.1258,29.6187
+
+6091,"Splendid Goa Residence",9009,40.4535,-3.6847
+
+6092,"Luxury Paris Lounge",2222,41.8539,12.5389
+
+6093,"Deluxe Maldives Heaven",9009,36.8753,30.6531
+
+6094,"Majestic Cancun Heaven",8101,36.1516,29.5461
+
+6095,"Grand Barcelona Retreat",6078,41.9383,12.4555
+
+6096,"Imperial Hurghada Hotel",5034,18.5369,73.7926
+
+6097,"Golden Goa Hotel",6666,36.1669,29.6224
+
+6098,"Regal Beldibi Club",9123,40.9946,28.9149
+
+6099,"Rixos Premium Belek",2011,36.8525,31.0568
+
+6100,"Platinum Beldibi Heaven",2222,39.5414,2.7095
+
+6101,"Golden Barcelona Hotel & Resort",8101,18.51,73.8962
+
+6102,"Sultan Santorini Oasis",4444,22.3544,114.1959
+
+6103,"Prestige London Paradise",3333,35.1444,33.4334
+
+6104,"Exclusive Antalya Residence",8008,36.1923,29.6374
+
+6105,"Exclusive London Villas",2222,22.2409,114.1698
+
+6106,"Exclusive New York Hotel & Resort",8008,13.6898,100.4469
+
+6107,"Splendid London Retreat",6006,40.4694,-3.7002
+
+6108,"Majestic Istanbul Beach Resort",3003,25.6408,-80.2958
+
+6109,"Platinum Side Resort",2002,27.1091,33.8412
+
+6110,"Classic Santorini Retreat",2222,18.4925,73.8637
+
+6111,"Superior Belek Heaven",2222,41.9511,12.4549
+
+6112,"Golden Belek Oasis",4444,26.4604,33.9655
+
+6113,"Sultan Istanbul Garden",6666,42.695,23.2863
+
+6114,"Deluxe Bali Resort",3003,25.7313,-80.2375
+
+6115,"Splendid Belek Hotel & Resort",4444,36.1219,29.5387
+
+6116,"Prime Barcelona Lounge",4012,38.0212,23.6468
+
+6117,"Grand Alanya Residence",3003,51.4918,-0.1227
+
+6118,"Crown Bodrum Resort",3003,1.3419,103.8123
+
+6119,"Elite Punta Cana Lounge",6078,19.3859,-99.1812
+
+6120,"Premium Phuket Suites",1111,37.9393,23.7011
+
+6121,"Prestige Dubai Retreat",5555,36.1782,29.5323
+
+6122,"Prestige Punta Cana Hotel & Resort",9123,41.124,28.9458
+
+6123,"Platinum Fethiye Club",8101,18.4816,73.8391
+
+6124,"Deluxe Sharm El Sheikh Wellness Resort",9123,13.6744,100.5203
+
+6125,"Platinum Alanya Club",5555,40.4159,-3.7231
+
+6126,"Prime London Palace",4004,41.9381,12.5184
+
+6127,"Exclusive Rome Club",5034,41.8552,12.481
+
+6128,"Majestic Side Hotel & Spa",9123,36.8785,30.7211
+
+6129,"Royal Paris Garden",3003,36.933,30.6774
+
+6130,"Prime Cancun Resort",1023,33.8903,35.5001
+
+6131,"Luxury Antalya Lounge",6006,35.1938,33.3977
+
+6132,"Palace Beldibi Oasis",9009,41.857,12.5366
+
+6133,"Imperial Miami Retreat",5555,36.1644,29.5683
+
+6134,"Elite Lara Beach Resort",3003,42.6646,23.3415
+
+6135,"Royal Maldives Retreat",5555,38.0116,23.6468
+
+6136,"Imperial Alanya Residence",2011,36.1038,29.6043
+
+6137,"Exclusive Fethiye Wellness Resort",5005,26.5007,33.9605
+
+6138,"Majestic Fethiye Hotel & Resort",6006,42.6646,23.3351
+
+6139,"Elite Hurghada Villas",8008,37.985,23.7199
+
+6140,"Majestic Beldibi Resort & Spa",3333,25.2076,55.2197
+
+6141,"Imperial Singapore Hotel",5555,27.0439,33.9058
+
+6142,"Deluxe Istanbul Villas",5005,18.4831,73.8562
+
+6143,"Sultan Kemer Residence",7089,1.3662,103.8479
+
+6144,"Sultan Alanya Garden",9123,38.0099,23.6843
+
+6145,"Deluxe London Wellness Resort",3003,48.7911,2.3007
+
+6146,"Sultan Tokyo Wellness Resort",5555,41.9062,12.5167
+
+6147,"Majestic Paris Suites",1023,27.0275,33.8992
+
+6148,"Prestige Kemer Club",5005,36.9095,31.1022
+
+6149,"Imperial Goa Villas",7089,41.0813,28.9592
+
+6150,"Luxury Side Club",5005,35.1675,33.4478
+
+6151,"Deluxe Cancun Resort",6078,22.2666,114.1597
+
+6152,"Elite Marmaris Garden",8101,37.9977,23.7705
+
+6153,"Majestic Fethiye Retreat",6006,18.4899,73.8193
+
+6154,"Crown Paris Resort & Spa",2222,41.0763,28.9499
+
+6155,"Superior Punta Cana Lounge",6078,36.1132,29.5931
+
+6156,"Regal Marmaris Club",8008,33.8827,35.5859
+
+6157,"Splendid Alanya Hotel & Spa",3003,36.1978,29.5738
+
+6158,"Golden Miami Lounge",5005,28.4574,34.5243
+
+6159,"Crown Kemer Beach Resort",9009,39.5955,2.6729
+
+6160,"Superior Kundu Oasis",2002,38.0263,23.6433
+
+6161,"Imperial Beldibi Lounge",3003,38.016,23.7376
+
+6162,"Imperial Goa Lounge",9123,38.0559,23.7424
+
+6163,"Imperial Rome Club",6078,37.9908,23.6741
+
+6164,"Prime Alanya Paradise",6666,36.1286,29.6
+
+6165,"Grand Punta Cana Retreat",5555,26.4451,33.9636
+
+6166,"Prestige Belek Resort",2002,26.4675,34.0352
+
+6167,"Sultan Fethiye Oasis",4444,33.939,35.5337
+
+6168,"Regal Rome Paradise",1111,40.4139,-3.7345
+
+6169,"Prime Fethiye Residence",1001,42.7244,23.2506
+
+6170,"Regal Side Garden",3050,28.5189,34.466
+
+6171,"Imperial New York Wellness Resort",6006,36.8734,31.0464
+
+6172,"Superior Barcelona Palace",4444,38.0473,23.7333
+
+6173,"Prestige Phuket Lounge",8101,42.7431,23.3389
+
+6175,"Prestige Paris Hotel",4012,41.8548,12.5139
+
+6176,"Premium Dubai Hotel & Spa",2002,37.9369,23.7588
+
+6177,"Deluxe Alanya Paradise",2011,41.0643,28.971
+
+6178,"Luxury Bali Resort & Spa",4004,27.0139,33.8343
+
+6179,"Superior Istanbul Heaven",2222,36.8474,30.7515
+
+6180,"Imperial Lara Beach Resort",2011,13.734,100.5583
+
+6181,"Grand Istanbul Wellness Resort",6666,40.434,-3.6961
+
+6182,"Premium Tokyo Club",2222,19.4583,-99.1706
+
+6183,"Regal Marmaris Lounge",6666,36.1982,29.6344
+
+6184,"Imperial Cancun Oasis",1111,25.1744,55.284
+
+6185,"Royal Tokyo Club",7007,42.6703,23.2578
+
+6186,"Majestic Goa Paradise",1023,22.3125,114.2268
+
+6187,"Classic Tokyo Retreat",3050,22.3063,114.1338
+
+6188,"Prime Punta Cana Oasis",8008,35.2278,33.3983
+
+6189,"Grand Sydney Residence",3003,25.7054,-80.2062
+
+6190,"Classic Bodrum Villas",3333,35.1428,33.3969
+
+6191,"Regal Maldives Club",5555,25.2129,55.2438
+
+6192,"Sultan Rome Beach Resort",1001,39.5816,2.6828
+
+6193,"Regal Alanya Residence",8101,40.3976,-3.7266
+
+6194,"Luxury Phuket Beach Resort",1023,26.496,33.9854
+
+6195,"Elite Beldibi Garden",4444,13.6858,100.5394
+
+6196,"Deluxe Sydney Club",3050,36.9155,30.6826
+
+6197,"Splendid Fethiye Oasis",5034,48.8189,2.3957
+
+6198,"Prestige Punta Cana Resort",6666,41.1311,29.0195
+
+6199,"Imperial Cancun Garden",3333,28.4539,34.5289
+
+6200,"Classic Belek Garden",8008,40.4284,-3.7532
+
+6201,"Palace Cancun Resort",5034,42.75,23.3153
+
+6202,"Classic Antalya Hotel & Resort",3050,40.4463,-3.6679
+
+6203,"Classic Side Heaven",3333,51.5257,-0.1233
+
+6204,"Majestic Singapore Club",5005,41.8545,12.4948
+
+6205,"Superior Phuket Villas",3050,26.5517,33.965
+
+6206,"Splendid Sydney Hotel & Resort",7089,25.7067,-80.2908
+
+6207,"Majestic Istanbul Retreat",3050,36.8523,31.0721
+
+6208,"Splendid Maldives Palace",3003,40.976,28.9518
+
+6209,"Imperial Side Hotel",4004,36.9544,30.6808
+
+6210,"Luxury Sharm El Sheikh Suites",4444,22.2745,114.1799
+
+6211,"Premium Singapore Residence",3333,41.9211,12.5306
+
+6212,"Classic Bangkok Paradise",4012,13.7047,100.4425
+
+6213,"Sultan Maldives Lounge",3050,36.1538,29.5897
+
+6214,"Platinum Hurghada Hotel & Resort",2222,41.068,29.0479
+
+6215,"Palace Sharm El Sheikh Retreat",4444,25.2362,55.263
+
+6216,"Exclusive New York Hotel & Spa",3003,40.4217,-3.6818
+
+6217,"Sunrise Garden Beach Resort & Spa",3050,27.02,33.8802
+
+6218,"Golden New York Palace",8101,25.1789,55.2533
+
+6219,"Platinum Goa Villas",1111,41.0854,28.9948
+
+6220,"Majestic Punta Cana Wellness Resort",9123,1.3309,103.8002
+
+6221,"Premium Rome Suites",7007,37.9822,23.6781
+
+6222,"Golden Goa Villas",5034,42.6701,23.2408
+
+6223,"Classic Tokyo Resort",2002,36.8719,30.9992
+
+6224,"Superior Istanbul Paradise",4444,36.143,29.5678
+
+6225,"Prestige Alanya Wellness Resort",5034,36.165,29.6249
+
+6226,"Royal Singapore Hotel & Resort",7089,1.3667,103.8524
+
+6227,"Crown Tokyo Club",1111,36.8452,31.0409
+
+6228,"Golden Cancun Oasis",6078,33.9264,35.5536
+
+6229,"Exclusive Bangkok Suites",2002,36.1383,29.6265
+
+6230,"Luxury Beldibi Club",6666,35.2379,33.3962
+
+6231,"Sultan Goa Residence",8008,41.944,12.5227
+
+6232,"Royal Lara Beach Resort",5555,41.8434,12.5262
+
+6233,"Prime Belek Hotel",5005,22.2963,114.1479
+
+6234,"Majestic Miami Wellness Resort",7089,28.554,34.5037
+
+6235,"Deluxe New York Oasis",2222,42.6869,23.2562
+
+6236,"Prestige Maldives Heaven",3333,35.252,33.3532
+
+6237,"Classic Bali Oasis",2002,33.9065,35.5582
+
+6238,"Platinum Belek Retreat",4012,18.5445,73.8563
+
+6239,"Luxury Kundu Resort",3333,22.2575,114.167
+
+6240,"Deluxe Kundu Wellness Resort",3333,51.5035,-0.1631
+
+6241,"Deluxe Dubai Wellness Resort",3333,36.8621,31.0163
+
+6242,"Luxury Sydney Heaven",1111,35.1701,33.4012
+
+6243,"Elite Antalya Wellness Resort",4444,27.0227,33.9309
+
+6244,"Grand London Paradise",9009,33.9128,35.4798
+
+6245,"Royal Bali Paradise",8008,41.8632,12.5069
+
+6246,"Sultan Antalya Residence",1111,22.3552,114.1746
+
+6247,"Royal Alanya Garden",6078,36.8913,30.6801
+
+6248,"Prestige Bodrum Retreat",1023,19.4028,-99.1193
+
+6249,"Luxury Fethiye Resort",2011,19.4008,-99.1265
+
+6250,"Superior Marmaris Palace",6666,48.7969,2.3087
+
+6251,"Prestige Sydney Hotel & Spa",8101,38.0128,23.6642
+
+6252,"Regal Sydney Garden",9009,51.5452,-0.1058
+
+6253,"Golden Barcelona Paradise",3333,36.8959,31.0994
+
+6254,"Sultan Marmaris Paradise",6666,41.0945,29.0372
+
+6255,"Deluxe Kundu Resort",5034,25.6998,-80.2972
+
+6256,"Majestic Hurghada Resort",2222,42.7553,23.2612
+
+6257,"Crown Hurghada Oasis",3003,51.5273,-0.1824
+
+6258,"Sultan Alanya Lounge",5005,13.6757,100.5426
+
+6259,"Prime Punta Cana Palace",2002,37.9638,23.7253
+
+6260,"Regal Sharm El Sheikh Resort & Spa",6006,41.0459,28.9597
+
+6261,"Palace Istanbul Resort",4004,48.8826,2.3055
+
+6262,"Golden Hurghada Beach Resort",3003,22.2548,114.1165
+
+6263,"Classic Goa Paradise",2011,36.1655,29.5892
+
+6264,"Elite Kundu Resort & Spa",9009,22.2713,114.2069
+
+6265,"Elite Maldives Hotel",4444,19.4676,-99.0741
+
+6266,"Sultan Cancun Heaven",9123,26.4771,33.9555
+
+6267,"Palace Phuket Beach Resort",9123,18.5603,73.8214
+
+6268,"Platinum Paris Resort",3050,42.6659,23.2903
+
+6269,"Golden Barcelona Palace",6078,36.1349,29.5357
+
+6270,"Royal Paris Wellness Resort",4444,41.8479,12.4742
+
+6271,"Imperial Lara Garden",3003,1.3639,103.8723
+
+6272,"Superior Barcelona Club",4004,39.6171,2.62
+
+6273,"Superior Kemer Oasis",1111,37.9609,23.6848
+
+6274,"Golden Hurghada Villas",2011,25.7083,-80.2686
+
+6275,"Palace Rome Club",1023,33.9133,35.5859
+
+6276,"Prime Kemer Villas",4444,37.9997,23.7573
+
+6277,"Crown Kundu Villas",7089,26.4681,34.0224
+
+6278,"Exclusive Lara Oasis",4004,13.7336,100.4835
+
+6279,"Classic Hurghada Resort",3333,28.4712,34.5342
+
+6280,"Superior Marmaris Hotel & Resort",2002,1.3696,103.839
+
+6281,"Crown Lara Oasis",3333,25.6513,-80.2642
+
+6282,"Golden Side Resort",7007,41.9372,12.4927
+
+6283,"Majestic Kemer Suites",9123,33.9677,35.5898
+
+6284,"Elite Alanya Hotel & Spa",2011,26.5599,33.9791
+
+6285,"Palace New York Heaven",9123,40.4181,-3.6699
+
+6286,"Golden Maldives Paradise",2222,33.987,35.5206
+
+6287,"Premium Punta Cana Lounge",3003,22.3456,114.1677
+
+6288,"Crown Sharm El Sheikh Wellness Resort",2002,36.1399,29.5362
+
+6289,"Grand Beldibi Garden",6006,22.3161,114.1916
+
+6290,"Deluxe Istanbul Suites",5005,38.0396,23.6661
+
+6291,"Splendid Goa Oasis",5005,13.7278,100.5363
+
+6292,"Luxury Kundu Hotel & Spa",3050,1.3178,103.8162
+
+6293,"Platinum Sydney Hotel & Resort",3050,18.5659,73.8588
+
+6294,"Classic Rome Beach Resort",6666,26.4566,34.0506
+
+6295,"Prestige New York Hotel & Resort",1111,37.9413,23.6505
+
+6296,"Platinum Tokyo Beach Resort",4444,27.1008,33.8327
+
+6297,"Classic Dubai Hotel & Resort",3333,41.0589,28.9443
+
+6298,"Majestic Fethiye Paradise",6006,1.4055,103.8604
+
+6299,"Premium Phuket Retreat",8101,48.8569,2.3571
+
+6300,"Crown Kundu Palace",7007,25.1767,55.2712
+
+6301,"Exclusive Istanbul Villas",6666,1.3666,103.7627
+
+6302,"Platinum Barcelona Club",4004,41.9058,12.4795
+
+6303,"Delphin Be Grand Resort",2011,36.856,30.825
+
+6304,"Platinum Istanbul Wellness Resort",1111,27.0104,33.8812
+
+6305,"Elite New York Hotel & Resort",4012,40.4271,-3.756
+
+6306,"Golden Kemer Lounge",7007,40.3939,-3.6618
+
+6307,"Deluxe Rome Retreat",3003,18.5279,73.8268
+
+6308,"Deluxe Hurghada Paradise",3333,26.4603,34.0257
+
+6309,"Prestige Hurghada Resort & Spa",1111,35.1501,33.3615
+
+6310,"Exclusive Cancun Resort",5555,41.0232,28.9734
+
+6311,"Royal Kemer Heaven",6666,40.9907,28.9306
+
+6312,"Superior Miami Palace",5005,42.6513,23.309
+
+6313,"Platinum Singapore Lounge",6666,36.1116,29.63
+
+6314,"Luxury Goa Suites",5034,25.1463,55.2618
+
+6315,"Palace Belek Hotel & Spa",8101,25.196,55.318
+
+6316,"Deluxe Maldives Hotel & Resort",6078,41.9176,12.5129
+
+6317,"Royal Kemer Oasis",3003,37.9898,23.7043
+
+6318,"Exclusive Marmaris Residence",1111,37.9621,23.7205
+
+6319,"Imperial Lara Suites",6666,26.4799,34.0525
+
+6320,"Majestic Beldibi Oasis",1111,36.1742,29.5658
+
+6321,"Regal Bodrum Hotel",9123,18.5627,73.844
+
+6322,"Sultan Bodrum Garden",4004,13.6959,100.4449
+
+6323,"Regal Sharm El Sheikh Suites",2002,36.9043,30.6604
+
+6324,"Platinum Sydney Club",5034,27.0417,33.8669
+
+6325,"Exclusive Alanya Residence",7089,1.345,103.8789
+
+6326,"Splendid New York Heaven",5034,35.1872,33.4026
+
+6327,"Regal Fethiye Palace",5005,26.5595,33.9451
+
+6328,"Majestic Marmaris Garden",5034,37.9462,23.6763
+
+6329,"Exclusive London Palace",3333,25.6294,-80.3067
+
+6330,"Deluxe Singapore Resort",4012,41.0612,28.9268
+
+6331,"Exclusive Tokyo Palace",3003,33.9769,35.5581
+
+6332,"Elite Rome Resort & Spa",4444,25.6933,-80.225
+
+6333,"Sultan Tokyo Resort",9009,51.5254,-0.08
+
+6334,"Platinum Punta Cana Oasis",6666,22.2664,114.1832
+
+6335,"Grand Maldives Hotel & Resort",3050,36.1495,29.5812
+
+6336,"Superior Miami Wellness Resort",4004,37.9412,23.7809
+
+6337,"Superior Cancun Palace",2222,27.0678,33.8679
+
+6338,"Superior Sydney Resort & Spa",9009,41.0459,28.9196
+
+6339,"Superior Paris Wellness Resort",7007,41.0426,29.0062
+
+6340,"Palace Rome Hotel & Resort",8101,27.1083,33.8691
+
+6341,"Palace Sharm El Sheikh Hotel & Resort",4004,18.517,73.8717
+
+6342,"Exclusive Miami Villas",7089,25.6306,-80.3144
+
+6343,"Crown Sydney Heaven",1023,48.8941,2.3941
+
+6344,"Classic Fethiye Paradise",2002,48.8152,2.3009
+
+6345,"Grand London Villas",2002,1.4049,103.8573
+
+6346,"Prime Punta Cana Paradise",3050,41.8783,12.4706
+
+6347,"Regal Bali Heaven",4444,51.4503,-0.1662
+
+6348,"Platinum Miami Resort & Spa",8101,22.3137,114.2162
+
+6349,"Royal Marmaris Beach Resort",6078,25.6904,-80.2589
+
+6350,"Superior Bali Club",6006,19.4332,-99.1636
+
+6351,"Exclusive Side Beach Resort",3003,39.6046,2.6152
+
+6352,"Superior Alanya Palace",6006,36.8589,31.0117
+
+6353,"Rixos Sungate",2011,36.61,30.51
+
+6354,"Grand Side Hotel & Resort",9009,28.5276,34.5198
+
+6355,"Regal Kemer Club",2222,42.7271,23.3304
+
+6356,"Royal Sydney Suites",3003,26.4628,33.9915
+
+6357,"Deluxe Barcelona Garden",9123,26.4701,33.9999
+
+6358,"Palace Maldives Lounge",3003,25.6443,-80.203
+
+6359,"Prime Kemer Club",3050,48.8194,2.3845
+
+6360,"Royal Side Residence",3333,18.4944,73.8884
+
+6361,"Prime Cancun Residence",9123,26.5438,34.0041
+
+6362,"Crown Goa Heaven",1001,25.6947,-80.2215
+
+6363,"Grand Side Resort",6078,22.2415,114.1865
+
+6364,"Regal Kundu Lounge",4444,37.9748,23.6992
+
+6365,"Deluxe Singapore Hotel",3003,25.1592,55.2853
+
+6366,"Prestige Fethiye Villas",1111,25.6962,-80.2917
+
+6367,"Crown Side Palace",8101,39.6047,2.6903
+
+6368,"Golden Sharm El Sheikh Beach Resort",3003,48.8428,2.3986
+
+6369,"Premium London Heaven",5034,19.4556,-99.1268
+
+6370,"Golden Kemer Resort & Spa",4012,41.9464,12.4824
+
+6371,"Regal Cancun Beach Resort",6666,25.1991,55.2131
+
+6372,"Imperial Sharm El Sheikh Resort & Spa",4444,41.0945,29.012
+
+6373,"Luxury Bodrum Garden",9123,1.3918,103.8293
+
+6374,"Deluxe Sydney Residence",4444,35.1676,33.3925
+
+6375,"Platinum Goa Resort & Spa",7007,35.1915,33.3859
+
+6376,"Golden New York Lounge",6666,25.2301,55.2336
+
+6377,"Regal Fethiye Retreat",4004,42.745,23.2946
+
+6378,"Prestige Fethiye Hotel & Resort",8008,13.7116,100.547
+
+6379,"Exclusive Marmaris Resort & Spa",1001,25.7252,-80.288
+
+6380,"Golden Tokyo Beach Resort",2002,26.4482,33.9798
+
+6381,"Premium Phuket Resort",5005,51.4659,-0.1512
+
+6382,"Imperial Hurghada Suites",8008,48.8795,2.3642
+
+6383,"Platinum Maldives Beach Resort",6666,41.8908,12.4689
+
+6384,"Splendid Barcelona Wellness Resort",6078,19.3805,-99.1152
+
+6385,"Palace Fethiye Palace",1023,39.5481,2.6184
+
+6386,"Imperial Beldibi Hotel",3003,41.9301,12.5438
+
+6387,"Deluxe Sharm El Sheikh Beach Resort",8101,25.1665,55.3044
+
+6388,"Palace Lara Oasis",2002,40.4315,-3.6958
+
+6389,"Golden Phuket Resort & Spa",4012,25.1945,55.3097
+
+6390,"Prestige Santorini Wellness Resort",9009,25.1725,55.2714
+
+6391,"Superior Kemer Hotel",8101,28.4931,34.5358
+
+6392,"Deluxe Singapore Villas",2002,38.0273,23.7258
+
+6393,"Exclusive Hurghada Palace",6666,13.6577,100.4888
+
+6394,"Prime Paris Residence",6078,48.9049,2.3448
+
+6395,"Elite Rome Oasis",6666,51.5582,-0.1299
+
+6396,"Luxury Barcelona Suites",7007,22.2616,114.1748
+
+6397,"Majestic Bali Resort & Spa",6666,1.4046,103.8415
+
+6398,"Regal Istanbul Hotel & Spa",5555,36.8625,30.6981
+
+6399,"Prime Antalya Resort",1023,25.2581,55.2718
+
+6400,"Luxury Punta Cana Suites",3003,25.2232,55.2962
+
+6401,"Prestige Alanya Lounge",8008,19.4811,-99.1856
+
+6402,"Prime London Suites",8008,40.3965,-3.6609
+
+6403,"Exclusive Bali Club",1111,19.4372,-99.0771
+
+6404,"Exclusive Sharm El Sheikh Residence",8101,41.0802,29.0116
+
+6405,"Golden Lara Oasis",5034,51.5316,-0.158
+
+6406,"Exclusive Kundu Suites",1001,25.6265,-80.2804
+
+6407,"Deluxe Hurghada Palace",3050,1.372,103.8564
+
+6408,"Palace Sharm El Sheikh Garden",4444,26.9981,33.8404
+
+6409,"Grand Lara Residence",4444,19.4298,-99.1661
+
+6410,"Royal Side Hotel & Spa",2002,40.9701,28.9849
+
+6411,"Prime Lara Heaven",5034,36.9224,30.7507
+
+6412,"Classic Bangkok Resort",6078,18.503,73.7934
+
+6413,"Splendid Punta Cana Villas",1111,19.4891,-99.1444
+
+6414,"Majestic Bangkok Resort & Spa",3333,18.5037,73.882
+
+6415,"Regal Cancun Club",1001,36.8841,30.6819
+
+6416,"Prestige Lara Hotel & Spa",4004,41.918,12.4839
+
+6417,"Golden Kemer Residence",1111,41.0962,28.9814
+
+6418,"Platinum Belek Garden",1023,41.8616,12.5432
+
+6419,"Deluxe Sydney Hotel",6006,26.5386,33.9571
+
+6420,"Crown Lara Paradise",5034,51.4887,-0.1805
+
+6421,"Superior Alanya Villas",7007,48.8558,2.3643
+
+6422,"Regal Santorini Oasis",3050,33.9065,35.5716
+
+6423,"Platinum Hurghada Club",1023,27.0088,33.8494
+
+6424,"Regal Paris Villas",8008,25.6769,-80.2913
+
+6425,"Premium Punta Cana Garden",5005,51.5314,-0.0756
+
+6426,"Grand Belek Retreat",2011,25.6717,-80.2457
+
+6427,"Premium Sydney Resort & Spa",8008,36.8287,31.064
+
+6428,"Splendid Bali Residence",8101,13.7598,100.54
+
+6429,"Exclusive Phuket Beach Resort",4444,25.1649,55.3202
+
+6430,"Splendid Fethiye Resort",1023,41.0498,28.993
+
+6431,"Imperial Hurghada Resort & Spa",9123,33.9166,35.5527
+
+6432,"Crown Fethiye Beach Resort",3003,38.0255,23.7216
+
+6433,"Royal Bangkok Resort & Spa",3003,35.1721,33.3617
+
+6434,"Superior London Hotel & Spa",1001,41.0738,28.9731
+
+6435,"Crown Bangkok Suites",8101,22.2579,114.1628
+
+6436,"Imperial Dubai Garden",2222,36.1746,29.5373
+
+6437,"Majestic Dubai Residence",6078,13.6725,100.5573
+
+6438,"Regal Barcelona Heaven",1111,39.5984,2.6748
+
+6439,"Majestic Santorini Paradise",2002,51.4816,-0.1223
+
+6440,"Classic Bangkok Resort & Spa",6666,48.7971,2.3311
+
+6441,"Regal Hurghada Club",6006,42.6415,23.2524
+
+6442,"Regal Alanya Lounge",1111,38.0118,23.7109
+
+6443,"Classic Sharm El Sheikh Hotel & Resort",8101,36.9022,30.6409
+
+6444,"Prime Marmaris Residence",8008,41.0146,28.9871
+
+6445,"Deluxe Santorini Oasis",5005,25.2175,55.2377
+
+6446,"Splendid Maldives Hotel",5555,13.7239,100.4813
+
+6447,"Splendid Barcelona Hotel & Spa",2002,42.7217,23.2536
+
+6448,"Imperial Paris Hotel & Resort",6078,18.5271,73.9015
+
+6449,"Golden Alanya Residence",5005,36.8833,30.7545
+
+6450,"Luxury Lara Beach Resort",2002,35.2482,33.4137
+
+6451,"Golden Istanbul Heaven",8008,37.9541,23.6731
+
+6452,"Majestic Goa Resort & Spa",4012,51.5402,-0.0768
+
+6453,"Superior Side Residence",6078,19.4813,-99.1831
+
+6454,"Prestige Side Garden",6666,36.8463,31.0729
+
+6455,"Imperial Punta Cana Resort & Spa",1111,28.5365,34.5232
+
+6456,"Palace Lara Garden",2002,27.1015,33.8886
+
+6457,"Exclusive New York Beach Resort",8008,41.893,12.5547
+
+6458,"Splendid Marmaris Heaven",7007,36.8894,30.668
+
+6459,"Splendid Tokyo Wellness Resort",9009,26.5038,33.9792
+
+6460,"Deluxe Dubai Club",9009,27.0866,33.8903
+
+6461,"Superior Belek Villas",5034,37.9709,23.7055
+
+6462,"Elite Punta Cana Garden",5005,18.564,73.808
+
+6463,"Majestic Bali Resort",1023,38.0509,23.7105
+
+6464,"Classic Dubai Wellness Resort",5555,26.4575,33.988
+
+6465,"Platinum Santorini Paradise",3333,33.9846,35.5572
+
+6466,"Prime Dubai Garden",4012,13.6953,100.5215
+
+6467,"Imperial Sydney Heaven",2002,41.0516,28.9941
+
+6468,"Deluxe Istanbul Palace",3050,25.2272,55.2912
+
+6469,"Regal Side Hotel & Resort",3333,42.6468,23.3327
+
+6470,"Regal Santorini Club",4012,42.723,23.2801
+
+6471,"Majestic Istanbul Heaven",6666,38.0148,23.7889
+
+6472,"Prime Punta Cana Retreat",6006,42.6812,23.3298
+
+6473,"Crown Antalya Residence",2011,22.2475,114.1281
+
+6474,"Royal Tokyo Suites",2002,13.6594,100.5112
+
+6475,"Royal Phuket Residence",6078,39.5934,2.6
+
+6476,"Regal Bali Residence",6078,41.1482,28.9964
+
+6477,"Superior Tokyo Lounge",3050,36.8984,31.011
+
+6478,"Majestic Beldibi Residence",4004,35.1609,33.3506
+
+6479,"Premium Istanbul Hotel",8101,26.5186,33.9616
+
+6480,"Superior New York Paradise",7089,18.5699,73.8059
+
+6481,"Deluxe Sharm El Sheikh Residence",9009,36.928,30.6953
+
+6482,"Sultan Singapore Hotel & Resort",1111,39.6571,2.6164
+
+6483,"Premium Phuket Residence",7089,28.4605,34.4648
+
+6484,"Exclusive Sydney Wellness Resort",6006,19.3885,-99.1535
+
+6485,"Luxury Beldibi Heaven",1001,40.4382,-3.6962
+
+6486,"Deluxe Side Hotel & Resort",1023,33.9722,35.5343
+
+6487,"Majestic New York Lounge",6078,22.3105,114.1106
+
+6488,"Crown Marmaris Villas",3333,13.6488,100.5038
+
+6489,"Luxury Cancun Garden",7007,19.3728,-99.1756
+
+6490,"Regal Cancun Residence",7089,36.879,31.015
+
+6491,"Platinum Cancun Residence",3003,40.423,-3.7497
+
+6492,"Prime Alanya Villas",4004,39.5762,2.6272
+
+6493,"Regal Singapore Hotel",9009,25.2224,55.2329
+
+6494,"Grand Antalya Paradise",6006,36.1758,29.6016
+
+6495,"Imperial Santorini Hotel & Resort",3333,26.4773,33.9915
+
+6496,"Palace Paris Suites",1023,22.3362,114.1213
+
+6497,"Deluxe Santorini Wellness Resort",2011,25.193,55.3027
+
+6498,"Exclusive Kemer Hotel",3003,37.9492,23.7366
+
+6499,"Crown Kemer Resort & Spa",1001,19.3967,-99.1653
+
+6500,"Prestige Dubai Oasis",7007,1.3753,103.8345
+
+16416,"Prestige Lara Hotel & Spa",4004,41.918,12.4839
+
