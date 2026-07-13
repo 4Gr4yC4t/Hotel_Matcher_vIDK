@@ -11,6 +11,8 @@ services:
       timeout: 5s
       retries: 10
       start_period: 5s
+    volumes:
+      - hotel-db-data:/app/data
     networks:
       - app-network
 
@@ -31,3 +33,6 @@ services:
 networks:
   app-network:
     driver: bridge
+
+volumes:
+  hotel-db-data:

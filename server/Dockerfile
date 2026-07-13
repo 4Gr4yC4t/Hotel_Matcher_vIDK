@@ -5,7 +5,9 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY main_api.py matcher.py 01_hotels_base.csv ./
+COPY main_api.py matcher.py database.py 01_hotels_base.csv ./
+
+RUN mkdir -p /app/data
 
 EXPOSE 8000
 

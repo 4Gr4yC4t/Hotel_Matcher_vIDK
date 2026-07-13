@@ -1,10 +1,11 @@
 from contextlib import asynccontextmanager
-from fastapi import FastAPI, UploadFile, File
+from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.responses import StreamingResponse
 from starlette.middleware.base import BaseHTTPMiddleware
 from starlette.requests import Request
 from starlette.responses import Response
 from matcher import match_hotel, prepare_base
+import database as db
 import csv
 import io
 import time
@@ -22,13 +23,15 @@ async def lifespan(app: FastAPI):
 
     global BASE_HOTELS
 
-    BASE_HOTELS = load_base_hotels(
-        "01_hotels_base.csv"
-    )
+    db.init_db()
+    seeded = db.seed_base_hotels("01_hotels_base.csv")
+    if seeded:
+        logger.info("Seeded base_hotels from CSV")
 
+    BASE_HOTELS = db.get_base_hotels()
     prepare_base(BASE_HOTELS)
 
-    print(f"Loaded hotels: {len(BASE_HOTELS)}")
+    logger.info("Loaded hotels from DB: %d", len(BASE_HOTELS))
 
     yield
 
@@ -49,26 +52,6 @@ app.add_middleware(TimingMiddleware)
 
 
 # ======================================================
-# ЗАГРУЗКА НАШЕЙ БАЗЫ
-# ======================================================
-
-def load_base_hotels(filename):
-
-    with open(filename, encoding="utf-8-sig") as f:
-        hotels = list(csv.DictReader(f))
-
-    for hotel in hotels:
-        hotel["lat"] = float(hotel["lat"])
-        hotel["lon"] = float(hotel["lon"])
-
-    return hotels
-
-
-
-
-
-
-# ======================================================
 # ПРОВЕРКА API
 # ======================================================
 
@@ -79,27 +62,19 @@ def home():
     }
 
 
-
 # ======================================================
-# CSV -> CSV
+# CSV -> CSV (с сохранением в БД)
 # ======================================================
 
 @app.post("/match")
 def match(file: UploadFile = File(...)):
 
-    # читаем загруженный CSV
+    raw = file.file.read()
+    content = raw.decode("utf-8-sig")
 
-    content = file.file.read().decode("utf-8-sig")
-
-    reader = csv.DictReader(
-        io.StringIO(content)
-    )
-
+    reader = csv.DictReader(io.StringIO(content))
 
     results = []
-
-
-    # обработка каждого внешнего отеля
 
     for external_hotel in reader:
 
@@ -145,15 +120,14 @@ def match(file: UploadFile = File(...)):
             BASE_HOTELS
         )
 
-
         results.append(result)
 
-
-
-    # создаём CSV ответ
+    upload_id = db.save_upload(file.filename, raw)
+    db.update_upload_row_count(upload_id, len(results))
+    db.save_results(upload_id, results)
+    logger.info("Saved upload #%d (%d results) to DB", upload_id, len(results))
 
     output = io.StringIO()
-
 
     writer = csv.DictWriter(
         output,
@@ -164,14 +138,10 @@ def match(file: UploadFile = File(...)):
         ]
     )
 
-
     writer.writeheader()
     writer.writerows(results)
 
-
     output.seek(0)
-
-
 
     return StreamingResponse(
         output,
@@ -182,6 +152,111 @@ def match(file: UploadFile = File(...)):
         }
     )
 
+
+# ======================================================
+# CRUD: UPLOADS
+# ======================================================
+
+@app.get("/uploads")
+def list_uploads():
+    return db.list_uploads()
+
+
+@app.get("/uploads/{upload_id}")
+def get_upload(upload_id: int):
+    upload = db.get_upload(upload_id)
+    if not upload:
+        raise HTTPException(status_code=404, detail="Upload not found")
+    return upload
+
+
+@app.get("/uploads/{upload_id}/download")
+def download_upload(upload_id: int):
+    content = db.get_upload_content(upload_id)
+    if not content:
+        raise HTTPException(status_code=404, detail="Upload not found")
+    upload = db.get_upload(upload_id)
+    return StreamingResponse(
+        io.BytesIO(content),
+        media_type="text/csv",
+        headers={
+            "Content-Disposition": f'attachment; filename={upload["filename"]}'
+        },
+    )
+
+
+@app.get("/uploads/{upload_id}/results")
+def get_results(upload_id: int):
+    upload = db.get_upload(upload_id)
+    if not upload:
+        raise HTTPException(status_code=404, detail="Upload not found")
+    return db.get_results(upload_id)
+
+
+@app.get("/uploads/{upload_id}/results/download")
+def download_results(upload_id: int):
+    upload = db.get_upload(upload_id)
+    if not upload:
+        raise HTTPException(status_code=404, detail="Upload not found")
+    results = db.get_results(upload_id)
+    if not results:
+        raise HTTPException(status_code=404, detail="No results for this upload")
+
+    output = io.StringIO()
+    writer = csv.DictWriter(
+        output,
+        fieldnames=["hotel_id", "duplicate_hotel_id", "score"],
+    )
+    writer.writeheader()
+    writer.writerows(results)
+    output.seek(0)
+
+    return StreamingResponse(
+        output,
+        media_type="text/csv",
+        headers={
+            "Content-Disposition": 'attachment; filename=matches.csv'
+        },
+    )
+
+
+@app.delete("/uploads/{upload_id}")
+def delete_upload(upload_id: int):
+    deleted = db.delete_upload(upload_id)
+    if not deleted:
+        raise HTTPException(status_code=404, detail="Upload not found")
+    return {"detail": f"Upload {upload_id} deleted"}
+
+
+# ======================================================
+# CRUD: BASE HOTELS
+# ======================================================
+
+@app.get("/base-hotels")
+def list_base_hotels():
+    return db.get_base_hotels()
+
+
+@app.post("/base-hotels")
+def upload_base_hotels(file: UploadFile = File(...)):
+    global BASE_HOTELS
+    raw = file.file.read()
+    count = db.replace_base_hotels(raw)
+    BASE_HOTELS = db.get_base_hotels()
+    prepare_base(BASE_HOTELS)
+    logger.info("Replaced base hotels: %d loaded", count)
+    return {"detail": f"Base hotels replaced: {count} records loaded"}
+
+
+@app.delete("/base-hotels/{hotel_id}")
+def delete_base_hotel(hotel_id: str):
+    global BASE_HOTELS
+    deleted = db.delete_base_hotel(hotel_id)
+    if not deleted:
+        raise HTTPException(status_code=404, detail="Hotel not found")
+    BASE_HOTELS = db.get_base_hotels()
+    prepare_base(BASE_HOTELS)
+    return {"detail": f"Hotel {hotel_id} deleted"}
 
 
 # ======================================================

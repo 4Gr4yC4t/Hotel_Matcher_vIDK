@@ -30,6 +30,9 @@ with open("01_hotels_external.csv", "rb") as file:
 processing_time = response.headers.get("X-Processing-Time-Ms", "N/A")
 print(f"Время обработки на сервере: {processing_time} мс")
 
+base_url = url.replace("/match", "")
+print(f"Список загрузок: {base_url}/uploads")
+
 path = "output/"
 os.makedirs(os.path.dirname(path), exist_ok=True)
 
