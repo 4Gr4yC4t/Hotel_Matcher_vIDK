@@ -14,13 +14,10 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-
 BASE_HOTELS = None
-
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-
     global BASE_HOTELS
 
     db.init_db()
@@ -32,12 +29,9 @@ async def lifespan(app: FastAPI):
     prepare_base(BASE_HOTELS)
 
     logger.info("Loaded hotels from DB: %d", len(BASE_HOTELS))
-
     yield
 
-
 app = FastAPI(lifespan=lifespan)
-
 
 class TimingMiddleware(BaseHTTPMiddleware):
     async def dispatch(self, request: Request, call_next):
@@ -47,13 +41,7 @@ class TimingMiddleware(BaseHTTPMiddleware):
         response.headers["X-Processing-Time-Ms"] = str(elapsed_ms)
         return response
 
-
 app.add_middleware(TimingMiddleware)
-
-
-# ======================================================
-# ПРОВЕРКА API
-# ======================================================
 
 @app.get("/")
 def home():
@@ -61,27 +49,24 @@ def home():
         "message": "Hotel matcher API works"
     }
 
-
-# ======================================================
-# CSV -> CSV (с сохранением в БД)
-# ======================================================
-
 @app.post("/match")
 def match(file: UploadFile = File(...)):
-
     raw = file.file.read()
     content = raw.decode("utf-8-sig")
 
     reader = csv.DictReader(io.StringIO(content))
-
     results = []
 
     for external_hotel in reader:
-
         try:
-
+            # Поддержка различных вариантов названия колонки ID
             if "hotel_id" not in external_hotel:
-                external_hotel["hotel_id"] = external_hotel["id"]
+                if "external_id" in external_hotel:
+                    external_hotel["hotel_id"] = external_hotel["external_id"]
+                elif "id" in external_hotel:
+                    external_hotel["hotel_id"] = external_hotel["id"]
+                else:
+                    external_hotel["hotel_id"] = None
 
             eid = external_hotel.get("hotel_id")
             if not eid or not eid.strip():
@@ -93,13 +78,8 @@ def match(file: UploadFile = File(...)):
                 })
                 continue
 
-            external_hotel["lat"] = float(
-                external_hotel["lat"]
-            )
-
-            external_hotel["lon"] = float(
-                external_hotel["lon"]
-            )
+            external_hotel["lat"] = float(external_hotel["lat"])
+            external_hotel["lon"] = float(external_hotel["lon"])
 
         except (ValueError, TypeError, KeyError) as e:
             logger.warning(
@@ -114,12 +94,10 @@ def match(file: UploadFile = File(...)):
             })
             continue
 
-
         result = match_hotel(
             external_hotel,
             BASE_HOTELS
         )
-
         results.append(result)
 
     upload_id = db.save_upload(file.filename, raw)
@@ -128,30 +106,27 @@ def match(file: UploadFile = File(...)):
     logger.info("Saved upload #%d (%d results) to DB", upload_id, len(results))
 
     output = io.StringIO()
-
     writer = csv.DictWriter(
         output,
         fieldnames=[
             "hotel_id",
             "duplicate_hotel_id",
             "score"
-        ]
+        ],
+        extrasaction='ignore' # Игнорируем внутренние расчетные поля в CSV
     )
 
     writer.writeheader()
     writer.writerows(results)
-
     output.seek(0)
 
     return StreamingResponse(
         output,
         media_type="text/csv",
         headers={
-            "Content-Disposition":
-            "attachment; filename=matches.csv"
+            "Content-Disposition": "attachment; filename=matches.csv"
         }
     )
-
 
 # ======================================================
 # CRUD: UPLOADS
@@ -161,14 +136,12 @@ def match(file: UploadFile = File(...)):
 def list_uploads():
     return db.list_uploads()
 
-
 @app.get("/uploads/{upload_id}")
 def get_upload(upload_id: int):
     upload = db.get_upload(upload_id)
     if not upload:
         raise HTTPException(status_code=404, detail="Upload not found")
     return upload
-
 
 @app.get("/uploads/{upload_id}/download")
 def download_upload(upload_id: int):
@@ -184,14 +157,12 @@ def download_upload(upload_id: int):
         },
     )
 
-
 @app.get("/uploads/{upload_id}/results")
 def get_results(upload_id: int):
     upload = db.get_upload(upload_id)
     if not upload:
         raise HTTPException(status_code=404, detail="Upload not found")
     return db.get_results(upload_id)
-
 
 @app.get("/uploads/{upload_id}/results/download")
 def download_results(upload_id: int):
@@ -219,14 +190,12 @@ def download_results(upload_id: int):
         },
     )
 
-
 @app.delete("/uploads/{upload_id}")
 def delete_upload(upload_id: int):
     deleted = db.delete_upload(upload_id)
     if not deleted:
         raise HTTPException(status_code=404, detail="Upload not found")
     return {"detail": f"Upload {upload_id} deleted"}
-
 
 # ======================================================
 # CRUD: BASE HOTELS
@@ -235,7 +204,6 @@ def delete_upload(upload_id: int):
 @app.get("/base-hotels")
 def list_base_hotels():
     return db.get_base_hotels()
-
 
 @app.post("/base-hotels")
 def upload_base_hotels(file: UploadFile = File(...)):
@@ -247,7 +215,6 @@ def upload_base_hotels(file: UploadFile = File(...)):
     logger.info("Replaced base hotels: %d loaded", count)
     return {"detail": f"Base hotels replaced: {count} records loaded"}
 
-
 @app.delete("/base-hotels/{hotel_id}")
 def delete_base_hotel(hotel_id: str):
     global BASE_HOTELS
@@ -258,15 +225,8 @@ def delete_base_hotel(hotel_id: str):
     prepare_base(BASE_HOTELS)
     return {"detail": f"Hotel {hotel_id} deleted"}
 
-
-# ======================================================
-# ЗАПУСК
-# ======================================================
-
 if __name__ == "__main__":
-
     import uvicorn
-
     uvicorn.run(
         app,
         host="0.0.0.0",
