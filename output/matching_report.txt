@@ -1,0 +1,77 @@
+================================================================================
+ОТЧЁТ ПО ТЕСТИРОВАНИЮ КАЧЕСТВА МАТЧИНГА
+================================================================================
+
+Внешний отель ID: E1001 'Rixos Premium Belek'
+  Ожидаемый ID:   5501 'Rixos Premium Belek' (точное совпадение имени + гео)
+  Фактический ID: 5501 'Rixos Premium Belek'
+  Параметры связи:
+    - Сходство очищенных имен: 1.000
+    - Дистанция:               0.014 км
+  Статус:         SUCCESS (True Positive - совпали корректно)
+
+Внешний отель ID: E1002 'Риксос Премиум Белек 5*'
+  Ожидаемый ID:   5501 'Rixos Premium Belek' (то же имя по-русски со звёздами — должен смэтчиться с 5501)
+  Фактический ID: 5501 'Rixos Premium Belek'
+  Параметры связи:
+    - Сходство очищенных имен: 0.870
+    - Дистанция:               0.021 км
+  Статус:         SUCCESS (True Positive - совпали корректно)
+
+Внешний отель ID: E1003 'Delphin Imperial Lara'
+  Ожидаемый ID:   5502 'Delphin Imperial Lara Hotel' ('Delphin Imperial Lara' vs 'Delphin Imperial Lara Hotel')
+  Фактический ID: 5502 'Delphin Imperial Lara Hotel'
+  Параметры связи:
+    - Сходство очищенных имен: 1.000
+    - Дистанция:               0.014 км
+  Статус:         SUCCESS (True Positive - совпали корректно)
+
+Внешний отель ID: E1004 'Titanic Beach Lara Hotel'
+  Ожидаемый ID:   5503 'Titanic Beach Lara' ('Titanic Beach Lara Hotel' vs 'Titanic Beach Lara')
+  Фактический ID: 5503 'Titanic Beach Lara'
+  Параметры связи:
+    - Сходство очищенных имен: 1.000
+    - Дистанция:               0.021 км
+  Статус:         SUCCESS (True Positive - совпали корректно)
+
+Внешний отель ID: E1005 'Steigenberger Aqua Magic'
+  Ожидаемый ID:   5504 'Steigenberger Aqua Magic' (англ. написание)
+  Фактический ID: 5504 'Steigenberger Aqua Magic'
+  Параметры связи:
+    - Сходство очищенных имен: 1.000
+    - Дистанция:               0.015 км
+  Статус:         SUCCESS (True Positive - совпали корректно)
+
+Внешний отель ID: E1006 'Штайгенбергер Аква Меджик Хургада'
+  Ожидаемый ID:   5504 'Steigenberger Aqua Magic' (русская транслитерация того же отеля)
+  Фактический ID: 5504 'Steigenberger Aqua Magic'
+  Параметры связи:
+    - Сходство очищенных имен: 0.576
+    - Дистанция:               0.015 км
+  Статус:         SUCCESS (True Positive - совпали корректно)
+
+Внешний отель ID: E1007 'Sunrise Garden Beach Resort'
+  Ожидаемый ID:   5505 'Sunrise Garden Beach Resort & Spa' ('Sunrise Garden Beach Resort' vs '... Resort & Spa')
+  Фактический ID: 5505 'Sunrise Garden Beach Resort & Spa'
+  Параметры связи:
+    - Сходство очищенных имен: 1.000
+    - Дистанция:               0.015 км
+  Статус:         SUCCESS (True Positive - совпали корректно)
+
+Внешний отель ID: E1008 'Nirvana Cosmopolitan'
+  Ожидаемый ID:   5506 'Nirvana Cosmopolitan Hotel' ('Nirvana Cosmopolitan' vs 'Nirvana Cosmopolitan Hotel')
+  Фактический ID: 5506 'Nirvana Cosmopolitan Hotel'
+  Параметры связи:
+    - Сходство очищенных имен: 1.000
+    - Дистанция:               0.014 км
+  Статус:         SUCCESS (True Positive - совпали корректно)
+
+================================================================================
+ИТОГОВЫЕ МЕТРИКИ:
+  Precision (Точность): 100.00%
+  Recall (Полнота):     100.00%
+  F1-Score:             100.00%
+  True Positives (TP):  8
+  False Positives (FP): 0
+  False Negatives (FN): 0
+================================================================================

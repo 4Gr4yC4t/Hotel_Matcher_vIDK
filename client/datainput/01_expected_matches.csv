@@ -1,0 +1,9 @@
+external_id,expected_hotel_id,comment
+E1001,5501,"точное совпадение имени + гео"
+E1002,5501,"то же имя по-русски со звёздами — должен смэтчиться с 5501"
+E1003,5502,"'Delphin Imperial Lara' vs 'Delphin Imperial Lara Hotel'"
+E1004,5503,"'Titanic Beach Lara Hotel' vs 'Titanic Beach Lara'"
+E1005,5504,"англ. написание"
+E1006,5504,"русская транслитерация того же отеля"
+E1007,5505,"'Sunrise Garden Beach Resort' vs '... Resort & Spa'"
+E1008,5506,"'Nirvana Cosmopolitan' vs 'Nirvana Cosmopolitan Hotel'"
