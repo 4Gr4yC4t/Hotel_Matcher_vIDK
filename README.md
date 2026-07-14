@@ -105,4 +105,4 @@ curl http://localhost:8000/uploads/1/results/download -o results.csv
 # Заменить базу отелей
 curl -X POST http://localhost:8000/base-hotels \
   -F "file=@new_base.csv"
-```
+``` 

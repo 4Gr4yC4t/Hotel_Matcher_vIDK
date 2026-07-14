@@ -107,7 +107,7 @@ print("Основной файл matches.csv сохранён в output/matches.
 # ======================================================
 
 test_base_path = "datainput/01_hotels_base_10.csv"
-test_ext_path = "01_hotels_external_10.csv"
+test_ext_path = "datainput/01_hotels_external_10.csv"
 expected_path = "datainput/01_expected_matches.csv"
 
 if os.path.exists(test_base_path) and os.path.exists(test_ext_path) and os.path.exists(expected_path):
@@ -200,14 +200,12 @@ if os.path.exists(test_base_path) and os.path.exists(test_ext_path) and os.path.
             else:
                 fn += 1
                 status = "FAIL (False Negative - не сопоставили или сопоставили неверно)"
-                if actual_id:
-                    fp += 1
         else:
-            if not actual_id:
-                status = "SUCCESS (True Negative - корректно не совпали)"
-            else:
+            if actual_id:
                 fp += 1
                 status = "FAIL (False Positive - сопоставлено неверно)"
+            else:
+                status = "SUCCESS (True Negative - корректно не совпали)"
 
         report.append(f"\nВнешний отель ID: {ext_id} '{ext_name}'")
         report.append(f"  Ожидаемый ID:   {expected_id} '{expected_name}' ({comment})")
